@@ -40,7 +40,7 @@ const ticketUrlTemplates: Record<
     resale: (date: string) => {
       const formattedDate = date.replaceAll("-", "");
       return [
-        `https://ticket.seibulions.jp/resale/venue/${formattedDate.substring(2)}`,
+        `https://ticket.seibulions.jp/resale/venue/${formattedDate.substring(2)}01`,
         `https://www.ticket.co.jp/sys/k/68848.htm?st=${formattedDate}`,
       ];
     },
