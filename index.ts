@@ -1,5 +1,6 @@
+import { mkdirSync, writeFileSync } from "node:fs";
 import { chromium } from "@playwright/test";
-import { mkdirSync, writeFileSync } from "fs";
+import { generateTicketUrls } from "./generate-ticket-urls.js";
 
 (async () => {
   mkdirSync("docs", { recursive: true });
@@ -11,32 +12,32 @@ import { mkdirSync, writeFileSync } from "fs";
   const promises = months.map(async (month) => {
     const page = await browser.newPage();
     await page.goto(
-      `https://npb.jp/games/${year}/schedule_${month}_detail.html`
+      `https://npb.jp/games/${year}/schedule_${month}_detail.html`,
     );
 
     const games = await page.evaluate(() => {
       const rows = Array.from(
-        document.querySelectorAll("#schedule_detail tbody tr")
+        document.querySelectorAll("#schedule_detail tbody tr"),
       );
       let date: string;
       return rows.map((row) => {
         date = row.querySelector("th[rowspan]")?.textContent || date;
 
         const [match, info] = Array.from(row.querySelectorAll("td"));
-        if (!match || !info) return;
-        if (match.textContent === "\u00A0") return;
+        if (!match || !info) return undefined;
+        if (match.textContent === "\u00A0") return undefined;
 
         const [home, visitor] = [
           match.querySelector(".team1")?.textContent,
           match.querySelector(".team2")?.textContent,
         ];
-        if (!home || !visitor) return;
+        if (!home || !visitor) return undefined;
 
         const [stadium, time] = [
-          info.querySelector(".place")?.textContent.replace(/\s+/g, ""),
+          info.querySelector(".place")?.textContent.replace(/\u3000/g, ""),
           info.querySelector(".time")?.textContent,
         ];
-        if (!stadium || !time) return;
+        if (!stadium || !time) return undefined;
 
         return {
           date,
@@ -48,14 +49,19 @@ import { mkdirSync, writeFileSync } from "fs";
 
     const formatted = games
       .filter((game) => game !== undefined)
-      .map((game) => ({
-        ...game,
-        date: formatDate(year, game.date),
-      }));
+      .map((game) => {
+        const formattedDate = formatDate(year, game.date);
+        const ticket = generateTicketUrls(game.match.home, formattedDate);
+        return {
+          ...game,
+          date: formattedDate,
+          ...(ticket && { ticket }),
+        };
+      });
 
     writeFileSync(
       `docs/schedule_${month}_detail.json`,
-      JSON.stringify(formatted, null, 2)
+      JSON.stringify(formatted, null, 2),
     );
     await page.close();
   });
