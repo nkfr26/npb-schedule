@@ -56,7 +56,7 @@
     "ticket": {
       "primary": "https://ticket.seibulions.jp/event/venue/25032801",
       "resale": [
-        "https://ticket.seibulions.jp/resale/venue/250328",
+        "https://ticket.seibulions.jp/resale/venue/25032801",
         "https://www.ticket.co.jp/sys/k/68848.htm?st=20250328"
       ]
     }
@@ -147,7 +147,7 @@
     "ticket": {
       "primary": "https://ticket.seibulions.jp/event/venue/25032901",
       "resale": [
-        "https://ticket.seibulions.jp/resale/venue/250329",
+        "https://ticket.seibulions.jp/resale/venue/25032901",
         "https://www.ticket.co.jp/sys/k/68848.htm?st=20250329"
       ]
     }
@@ -238,7 +238,7 @@
     "ticket": {
       "primary": "https://ticket.seibulions.jp/event/venue/25033001",
       "resale": [
-        "https://ticket.seibulions.jp/resale/venue/250330",
+        "https://ticket.seibulions.jp/resale/venue/25033001",
         "https://www.ticket.co.jp/sys/k/68848.htm?st=20250330"
       ]
     }
