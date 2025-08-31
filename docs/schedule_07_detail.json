@@ -8,6 +8,10 @@
     "info": {
       "stadium": "横浜",
       "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://ticketsales.baystars.co.jp/calendar/2025/07",
+      "resale": "https://ticket-resale.baystars.co.jp/purchase/match"
     }
   },
   {
@@ -19,6 +23,9 @@
     "info": {
       "stadium": "甲子園",
       "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://hanshintigers.jp/ticket/detail/20250701.html"
     }
   },
   {
@@ -30,6 +37,9 @@
     "info": {
       "stadium": "マツダスタジアム",
       "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://www.carp.co.jp/ticket/ticket/yoyaku_hoho.html"
     }
   },
   {
@@ -41,6 +51,10 @@
     "info": {
       "stadium": "楽天モバイル",
       "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://eagles.tstar.jp/seat250701",
+      "resale": "https://nft.rakuten.co.jp/marketplace/?type=ticket&sort=last_updated_date&limit=12&ticketlimit=6&provider=eagles&date=01-07-2025"
     }
   },
   {
@@ -52,6 +66,13 @@
     "info": {
       "stadium": "那覇",
       "time": "18:30"
+    },
+    "ticket": {
+      "primary": "https://ticket.seibulions.jp/event/venue/25070101",
+      "resale": [
+        "https://ticket.seibulions.jp/resale/venue/250701",
+        "https://www.ticket.co.jp/sys/k/68848.htm?st=20250701"
+      ]
     }
   },
   {
@@ -63,6 +84,9 @@
     "info": {
       "stadium": "東京ドーム",
       "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://ticket.softbankhawks.co.jp/game/select"
     }
   },
   {
@@ -74,6 +98,10 @@
     "info": {
       "stadium": "横浜",
       "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://ticketsales.baystars.co.jp/calendar/2025/07",
+      "resale": "https://ticket-resale.baystars.co.jp/purchase/match"
     }
   },
   {
@@ -85,6 +113,9 @@
     "info": {
       "stadium": "甲子園",
       "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://hanshintigers.jp/ticket/detail/20250702.html"
     }
   },
   {
@@ -96,6 +127,9 @@
     "info": {
       "stadium": "マツダスタジアム",
       "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://www.carp.co.jp/ticket/ticket/yoyaku_hoho.html"
     }
   },
   {
@@ -107,6 +141,10 @@
     "info": {
       "stadium": "楽天モバイル",
       "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://eagles.tstar.jp/seat250702",
+      "resale": "https://nft.rakuten.co.jp/marketplace/?type=ticket&sort=last_updated_date&limit=12&ticketlimit=6&provider=eagles&date=02-07-2025"
     }
   },
   {
@@ -118,6 +156,13 @@
     "info": {
       "stadium": "那覇",
       "time": "18:30"
+    },
+    "ticket": {
+      "primary": "https://ticket.seibulions.jp/event/venue/25070201",
+      "resale": [
+        "https://ticket.seibulions.jp/resale/venue/250702",
+        "https://www.ticket.co.jp/sys/k/68848.htm?st=20250702"
+      ]
     }
   },
   {
@@ -129,6 +174,9 @@
     "info": {
       "stadium": "みずほPayPay",
       "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://ticket.softbankhawks.co.jp/game/select"
     }
   },
   {
@@ -140,6 +188,10 @@
     "info": {
       "stadium": "横浜",
       "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://ticketsales.baystars.co.jp/calendar/2025/07",
+      "resale": "https://ticket-resale.baystars.co.jp/purchase/match"
     }
   },
   {
@@ -151,6 +203,9 @@
     "info": {
       "stadium": "甲子園",
       "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://hanshintigers.jp/ticket/detail/20250703.html"
     }
   },
   {
@@ -162,6 +217,9 @@
     "info": {
       "stadium": "マツダスタジアム",
       "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://www.carp.co.jp/ticket/ticket/yoyaku_hoho.html"
     }
   },
   {
@@ -173,6 +231,9 @@
     "info": {
       "stadium": "みずほPayPay",
       "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://ticket.softbankhawks.co.jp/game/select"
     }
   },
   {
@@ -184,6 +245,10 @@
     "info": {
       "stadium": "東京ドーム",
       "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://www.giants.jp/schedule/first-team/?month=202507",
+      "resale": "https://tradead.tixplus.jp/giants"
     }
   },
   {
@@ -195,6 +260,10 @@
     "info": {
       "stadium": "横浜",
       "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://ticketsales.baystars.co.jp/calendar/2025/07",
+      "resale": "https://ticket-resale.baystars.co.jp/purchase/match"
     }
   },
   {
@@ -206,6 +275,10 @@
     "info": {
       "stadium": "バンテリンドーム",
       "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://dragons-ticket.jp/Calendar.aspx",
+      "resale": "https://tradead.tixplus.jp/dragons"
     }
   },
   {
@@ -217,6 +290,10 @@
     "info": {
       "stadium": "エスコンＦ",
       "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://ticket.fighters.co.jp/event/list/self/1",
+      "resale": "https://ticket.fighters.co.jp/event/list/resale/1"
     }
   },
   {
@@ -228,6 +305,10 @@
     "info": {
       "stadium": "ほっと神戸",
       "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://buffaloes.cnplayguide.com/ticket/20250704",
+      "resale": "https://www.ticket.co.jp/sys/k/79911.htm?st=20250704"
     }
   },
   {
@@ -239,6 +320,9 @@
     "info": {
       "stadium": "みずほPayPay",
       "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://ticket.softbankhawks.co.jp/game/select"
     }
   },
   {
@@ -250,6 +334,10 @@
     "info": {
       "stadium": "東京ドーム",
       "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://www.giants.jp/schedule/first-team/?month=202507",
+      "resale": "https://tradead.tixplus.jp/giants"
     }
   },
   {
@@ -261,6 +349,10 @@
     "info": {
       "stadium": "横浜",
       "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://ticketsales.baystars.co.jp/calendar/2025/07",
+      "resale": "https://ticket-resale.baystars.co.jp/purchase/match"
     }
   },
   {
@@ -272,6 +364,10 @@
     "info": {
       "stadium": "バンテリンドーム",
       "time": "14:00"
+    },
+    "ticket": {
+      "primary": "https://dragons-ticket.jp/Calendar.aspx",
+      "resale": "https://tradead.tixplus.jp/dragons"
     }
   },
   {
@@ -283,6 +379,10 @@
     "info": {
       "stadium": "エスコンＦ",
       "time": "14:00"
+    },
+    "ticket": {
+      "primary": "https://ticket.fighters.co.jp/event/list/self/1",
+      "resale": "https://ticket.fighters.co.jp/event/list/resale/1"
     }
   },
   {
@@ -294,6 +394,10 @@
     "info": {
       "stadium": "ほっと神戸",
       "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://buffaloes.cnplayguide.com/ticket/20250705",
+      "resale": "https://www.ticket.co.jp/sys/k/79911.htm?st=20250705"
     }
   },
   {
@@ -305,6 +409,9 @@
     "info": {
       "stadium": "みずほPayPay",
       "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://ticket.softbankhawks.co.jp/game/select"
     }
   },
   {
@@ -316,6 +423,10 @@
     "info": {
       "stadium": "東京ドーム",
       "time": "14:00"
+    },
+    "ticket": {
+      "primary": "https://www.giants.jp/schedule/first-team/?month=202507",
+      "resale": "https://tradead.tixplus.jp/giants"
     }
   },
   {
@@ -327,6 +438,10 @@
     "info": {
       "stadium": "横浜",
       "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://ticketsales.baystars.co.jp/calendar/2025/07",
+      "resale": "https://ticket-resale.baystars.co.jp/purchase/match"
     }
   },
   {
@@ -338,6 +453,10 @@
     "info": {
       "stadium": "バンテリンドーム",
       "time": "13:30"
+    },
+    "ticket": {
+      "primary": "https://dragons-ticket.jp/Calendar.aspx",
+      "resale": "https://tradead.tixplus.jp/dragons"
     }
   },
   {
@@ -349,6 +468,10 @@
     "info": {
       "stadium": "エスコンＦ",
       "time": "13:00"
+    },
+    "ticket": {
+      "primary": "https://ticket.fighters.co.jp/event/list/self/1",
+      "resale": "https://ticket.fighters.co.jp/event/list/resale/1"
     }
   },
   {
@@ -360,6 +483,10 @@
     "info": {
       "stadium": "京セラD大阪",
       "time": "14:00"
+    },
+    "ticket": {
+      "primary": "https://buffaloes.cnplayguide.com/ticket/20250706",
+      "resale": "https://www.ticket.co.jp/sys/k/79911.htm?st=20250706"
     }
   },
   {
@@ -371,6 +498,9 @@
     "info": {
       "stadium": "みずほPayPay",
       "time": "13:00"
+    },
+    "ticket": {
+      "primary": "https://ticket.softbankhawks.co.jp/game/select"
     }
   },
   {
@@ -382,6 +512,10 @@
     "info": {
       "stadium": "山形",
       "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://www.giants.jp/schedule/first-team/?month=202507",
+      "resale": "https://tradead.tixplus.jp/giants"
     }
   },
   {
@@ -393,6 +527,10 @@
     "info": {
       "stadium": "神宮",
       "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://ticket.yakult-swallows.co.jp/Calendar.aspx",
+      "resale": "https://tradead.tixplus.jp/swallows"
     }
   },
   {
@@ -404,6 +542,9 @@
     "info": {
       "stadium": "マツダスタジアム",
       "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://www.carp.co.jp/ticket/ticket/yoyaku_hoho.html"
     }
   },
   {
@@ -415,6 +556,13 @@
     "info": {
       "stadium": "ベルーナドーム",
       "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://ticket.seibulions.jp/event/venue/25070801",
+      "resale": [
+        "https://ticket.seibulions.jp/resale/venue/250708",
+        "https://www.ticket.co.jp/sys/k/68848.htm?st=20250708"
+      ]
     }
   },
   {
@@ -426,6 +574,10 @@
     "info": {
       "stadium": "ZOZOマリン",
       "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://m-ticket.marines.co.jp/ticket/20250708",
+      "resale": "https://www.ticket.co.jp/sys/k/79881.htm?st=20250708"
     }
   },
   {
@@ -437,6 +589,10 @@
     "info": {
       "stadium": "京セラD大阪",
       "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://buffaloes.cnplayguide.com/ticket/20250708",
+      "resale": "https://www.ticket.co.jp/sys/k/79911.htm?st=20250708"
     }
   },
   {
@@ -448,6 +604,10 @@
     "info": {
       "stadium": "福島",
       "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://www.giants.jp/schedule/first-team/?month=202507",
+      "resale": "https://tradead.tixplus.jp/giants"
     }
   },
   {
@@ -459,6 +619,10 @@
     "info": {
       "stadium": "神宮",
       "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://ticket.yakult-swallows.co.jp/Calendar.aspx",
+      "resale": "https://tradead.tixplus.jp/swallows"
     }
   },
   {
@@ -470,6 +634,9 @@
     "info": {
       "stadium": "マツダスタジアム",
       "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://www.carp.co.jp/ticket/ticket/yoyaku_hoho.html"
     }
   },
   {
@@ -481,6 +648,13 @@
     "info": {
       "stadium": "ベルーナドーム",
       "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://ticket.seibulions.jp/event/venue/25070901",
+      "resale": [
+        "https://ticket.seibulions.jp/resale/venue/250709",
+        "https://www.ticket.co.jp/sys/k/68848.htm?st=20250709"
+      ]
     }
   },
   {
@@ -492,6 +666,10 @@
     "info": {
       "stadium": "ZOZOマリン",
       "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://m-ticket.marines.co.jp/ticket/20250709",
+      "resale": "https://www.ticket.co.jp/sys/k/79881.htm?st=20250709"
     }
   },
   {
@@ -503,6 +681,10 @@
     "info": {
       "stadium": "京セラD大阪",
       "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://buffaloes.cnplayguide.com/ticket/20250709",
+      "resale": "https://www.ticket.co.jp/sys/k/79911.htm?st=20250709"
     }
   },
   {
@@ -514,6 +696,9 @@
     "info": {
       "stadium": "マツダスタジアム",
       "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://www.carp.co.jp/ticket/ticket/yoyaku_hoho.html"
     }
   },
   {
@@ -525,6 +710,13 @@
     "info": {
       "stadium": "ベルーナドーム",
       "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://ticket.seibulions.jp/event/venue/25071001",
+      "resale": [
+        "https://ticket.seibulions.jp/resale/venue/250710",
+        "https://www.ticket.co.jp/sys/k/68848.htm?st=20250710"
+      ]
     }
   },
   {
@@ -536,6 +728,10 @@
     "info": {
       "stadium": "京セラD大阪",
       "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://buffaloes.cnplayguide.com/ticket/20250710",
+      "resale": "https://www.ticket.co.jp/sys/k/79911.htm?st=20250710"
     }
   },
   {
@@ -547,6 +743,10 @@
     "info": {
       "stadium": "横浜",
       "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://ticketsales.baystars.co.jp/calendar/2025/07",
+      "resale": "https://ticket-resale.baystars.co.jp/purchase/match"
     }
   },
   {
@@ -558,6 +758,10 @@
     "info": {
       "stadium": "バンテリンドーム",
       "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://dragons-ticket.jp/Calendar.aspx",
+      "resale": "https://tradead.tixplus.jp/dragons"
     }
   },
   {
@@ -569,6 +773,9 @@
     "info": {
       "stadium": "甲子園",
       "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://hanshintigers.jp/ticket/detail/20250711.html"
     }
   },
   {
@@ -580,6 +787,10 @@
     "info": {
       "stadium": "エスコンＦ",
       "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://ticket.fighters.co.jp/event/list/self/1",
+      "resale": "https://ticket.fighters.co.jp/event/list/resale/1"
     }
   },
   {
@@ -591,6 +802,10 @@
     "info": {
       "stadium": "楽天モバイル",
       "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://eagles.tstar.jp/seat250711",
+      "resale": "https://nft.rakuten.co.jp/marketplace/?type=ticket&sort=last_updated_date&limit=12&ticketlimit=6&provider=eagles&date=11-07-2025"
     }
   },
   {
@@ -602,6 +817,10 @@
     "info": {
       "stadium": "ZOZOマリン",
       "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://m-ticket.marines.co.jp/ticket/20250711",
+      "resale": "https://www.ticket.co.jp/sys/k/79881.htm?st=20250711"
     }
   },
   {
@@ -613,6 +832,10 @@
     "info": {
       "stadium": "横浜",
       "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://ticketsales.baystars.co.jp/calendar/2025/07",
+      "resale": "https://ticket-resale.baystars.co.jp/purchase/match"
     }
   },
   {
@@ -624,6 +847,10 @@
     "info": {
       "stadium": "バンテリンドーム",
       "time": "14:00"
+    },
+    "ticket": {
+      "primary": "https://dragons-ticket.jp/Calendar.aspx",
+      "resale": "https://tradead.tixplus.jp/dragons"
     }
   },
   {
@@ -635,6 +862,9 @@
     "info": {
       "stadium": "甲子園",
       "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://hanshintigers.jp/ticket/detail/20250712.html"
     }
   },
   {
@@ -646,6 +876,10 @@
     "info": {
       "stadium": "エスコンＦ",
       "time": "14:00"
+    },
+    "ticket": {
+      "primary": "https://ticket.fighters.co.jp/event/list/self/1",
+      "resale": "https://ticket.fighters.co.jp/event/list/resale/1"
     }
   },
   {
@@ -657,6 +891,10 @@
     "info": {
       "stadium": "楽天モバイル",
       "time": "16:00"
+    },
+    "ticket": {
+      "primary": "https://eagles.tstar.jp/seat250712",
+      "resale": "https://nft.rakuten.co.jp/marketplace/?type=ticket&sort=last_updated_date&limit=12&ticketlimit=6&provider=eagles&date=12-07-2025"
     }
   },
   {
@@ -668,6 +906,10 @@
     "info": {
       "stadium": "ZOZOマリン",
       "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://m-ticket.marines.co.jp/ticket/20250712",
+      "resale": "https://www.ticket.co.jp/sys/k/79881.htm?st=20250712"
     }
   },
   {
@@ -679,6 +921,10 @@
     "info": {
       "stadium": "横浜",
       "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://ticketsales.baystars.co.jp/calendar/2025/07",
+      "resale": "https://ticket-resale.baystars.co.jp/purchase/match"
     }
   },
   {
@@ -690,6 +936,10 @@
     "info": {
       "stadium": "バンテリンドーム",
       "time": "13:30"
+    },
+    "ticket": {
+      "primary": "https://dragons-ticket.jp/Calendar.aspx",
+      "resale": "https://tradead.tixplus.jp/dragons"
     }
   },
   {
@@ -701,6 +951,9 @@
     "info": {
       "stadium": "甲子園",
       "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://hanshintigers.jp/ticket/detail/20250713.html"
     }
   },
   {
@@ -712,6 +965,10 @@
     "info": {
       "stadium": "エスコンＦ",
       "time": "13:00"
+    },
+    "ticket": {
+      "primary": "https://ticket.fighters.co.jp/event/list/self/1",
+      "resale": "https://ticket.fighters.co.jp/event/list/resale/1"
     }
   },
   {
@@ -723,6 +980,10 @@
     "info": {
       "stadium": "楽天モバイル",
       "time": "13:00"
+    },
+    "ticket": {
+      "primary": "https://eagles.tstar.jp/seat250713",
+      "resale": "https://nft.rakuten.co.jp/marketplace/?type=ticket&sort=last_updated_date&limit=12&ticketlimit=6&provider=eagles&date=13-07-2025"
     }
   },
   {
@@ -734,6 +995,10 @@
     "info": {
       "stadium": "ZOZOマリン",
       "time": "17:00"
+    },
+    "ticket": {
+      "primary": "https://m-ticket.marines.co.jp/ticket/20250713",
+      "resale": "https://www.ticket.co.jp/sys/k/79881.htm?st=20250713"
     }
   },
   {
@@ -745,6 +1010,13 @@
     "info": {
       "stadium": "東京ドーム",
       "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://ticket.seibulions.jp/event/venue/25071401",
+      "resale": [
+        "https://ticket.seibulions.jp/resale/venue/250714",
+        "https://www.ticket.co.jp/sys/k/68848.htm?st=20250714"
+      ]
     }
   },
   {
@@ -756,6 +1028,10 @@
     "info": {
       "stadium": "静岡",
       "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://ticket.yakult-swallows.co.jp/Calendar.aspx",
+      "resale": "https://tradead.tixplus.jp/swallows"
     }
   },
   {
@@ -767,6 +1043,9 @@
     "info": {
       "stadium": "甲子園",
       "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://hanshintigers.jp/ticket/detail/20250715.html"
     }
   },
   {
@@ -778,6 +1057,9 @@
     "info": {
       "stadium": "マツダスタジアム",
       "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://www.carp.co.jp/ticket/ticket/yoyaku_hoho.html"
     }
   },
   {
@@ -789,6 +1071,10 @@
     "info": {
       "stadium": "京セラD大阪",
       "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://buffaloes.cnplayguide.com/ticket/20250715",
+      "resale": "https://www.ticket.co.jp/sys/k/79911.htm?st=20250715"
     }
   },
   {
@@ -800,6 +1086,9 @@
     "info": {
       "stadium": "みずほPayPay",
       "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://ticket.softbankhawks.co.jp/game/select"
     }
   },
   {
@@ -811,6 +1100,9 @@
     "info": {
       "stadium": "甲子園",
       "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://hanshintigers.jp/ticket/detail/20250716.html"
     }
   },
   {
@@ -822,6 +1114,9 @@
     "info": {
       "stadium": "マツダスタジアム",
       "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://www.carp.co.jp/ticket/ticket/yoyaku_hoho.html"
     }
   },
   {
@@ -833,6 +1128,13 @@
     "info": {
       "stadium": "ベルーナドーム",
       "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://ticket.seibulions.jp/event/venue/25071601",
+      "resale": [
+        "https://ticket.seibulions.jp/resale/venue/250716",
+        "https://www.ticket.co.jp/sys/k/68848.htm?st=20250716"
+      ]
     }
   },
   {
@@ -844,6 +1146,10 @@
     "info": {
       "stadium": "京セラD大阪",
       "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://buffaloes.cnplayguide.com/ticket/20250716",
+      "resale": "https://www.ticket.co.jp/sys/k/79911.htm?st=20250716"
     }
   },
   {
@@ -855,6 +1161,9 @@
     "info": {
       "stadium": "みずほPayPay",
       "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://ticket.softbankhawks.co.jp/game/select"
     }
   },
   {
@@ -866,6 +1175,10 @@
     "info": {
       "stadium": "神宮",
       "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://ticket.yakult-swallows.co.jp/Calendar.aspx",
+      "resale": "https://tradead.tixplus.jp/swallows"
     }
   },
   {
@@ -877,6 +1190,9 @@
     "info": {
       "stadium": "甲子園",
       "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://hanshintigers.jp/ticket/detail/20250717.html"
     }
   },
   {
@@ -888,6 +1204,9 @@
     "info": {
       "stadium": "マツダスタジアム",
       "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://www.carp.co.jp/ticket/ticket/yoyaku_hoho.html"
     }
   },
   {
@@ -899,6 +1218,13 @@
     "info": {
       "stadium": "ベルーナドーム",
       "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://ticket.seibulions.jp/event/venue/25071701",
+      "resale": [
+        "https://ticket.seibulions.jp/resale/venue/250717",
+        "https://www.ticket.co.jp/sys/k/68848.htm?st=20250717"
+      ]
     }
   },
   {
@@ -910,6 +1236,10 @@
     "info": {
       "stadium": "ほっと神戸",
       "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://buffaloes.cnplayguide.com/ticket/20250717",
+      "resale": "https://www.ticket.co.jp/sys/k/79911.htm?st=20250717"
     }
   },
   {
@@ -921,6 +1251,9 @@
     "info": {
       "stadium": "北九州",
       "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://ticket.softbankhawks.co.jp/game/select"
     }
   },
   {
@@ -932,6 +1265,10 @@
     "info": {
       "stadium": "ZOZOマリン",
       "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://m-ticket.marines.co.jp/ticket/20250718",
+      "resale": "https://www.ticket.co.jp/sys/k/79881.htm?st=20250718"
     }
   },
   {
@@ -943,6 +1280,10 @@
     "info": {
       "stadium": "東京ドーム",
       "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://www.giants.jp/schedule/first-team/?month=202507",
+      "resale": "https://tradead.tixplus.jp/giants"
     }
   },
   {
@@ -954,6 +1295,10 @@
     "info": {
       "stadium": "神宮",
       "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://ticket.yakult-swallows.co.jp/Calendar.aspx",
+      "resale": "https://tradead.tixplus.jp/swallows"
     }
   },
   {
@@ -965,6 +1310,10 @@
     "info": {
       "stadium": "バンテリンドーム",
       "time": "14:00"
+    },
+    "ticket": {
+      "primary": "https://dragons-ticket.jp/Calendar.aspx",
+      "resale": "https://tradead.tixplus.jp/dragons"
     }
   },
   {
@@ -976,6 +1325,10 @@
     "info": {
       "stadium": "楽天モバイル",
       "time": "14:00"
+    },
+    "ticket": {
+      "primary": "https://eagles.tstar.jp/seat250719",
+      "resale": "https://nft.rakuten.co.jp/marketplace/?type=ticket&sort=last_updated_date&limit=12&ticketlimit=6&provider=eagles&date=19-07-2025"
     }
   },
   {
@@ -987,6 +1340,13 @@
     "info": {
       "stadium": "ベルーナドーム",
       "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://ticket.seibulions.jp/event/venue/25071901",
+      "resale": [
+        "https://ticket.seibulions.jp/resale/venue/250719",
+        "https://www.ticket.co.jp/sys/k/68848.htm?st=20250719"
+      ]
     }
   },
   {
@@ -998,6 +1358,10 @@
     "info": {
       "stadium": "ZOZOマリン",
       "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://m-ticket.marines.co.jp/ticket/20250719",
+      "resale": "https://www.ticket.co.jp/sys/k/79881.htm?st=20250719"
     }
   },
   {
@@ -1009,6 +1373,10 @@
     "info": {
       "stadium": "東京ドーム",
       "time": "14:00"
+    },
+    "ticket": {
+      "primary": "https://www.giants.jp/schedule/first-team/?month=202507",
+      "resale": "https://tradead.tixplus.jp/giants"
     }
   },
   {
@@ -1020,6 +1388,10 @@
     "info": {
       "stadium": "神宮",
       "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://ticket.yakult-swallows.co.jp/Calendar.aspx",
+      "resale": "https://tradead.tixplus.jp/swallows"
     }
   },
   {
@@ -1031,6 +1403,10 @@
     "info": {
       "stadium": "バンテリンドーム",
       "time": "13:30"
+    },
+    "ticket": {
+      "primary": "https://dragons-ticket.jp/Calendar.aspx",
+      "resale": "https://tradead.tixplus.jp/dragons"
     }
   },
   {
@@ -1042,6 +1418,10 @@
     "info": {
       "stadium": "楽天モバイル",
       "time": "13:00"
+    },
+    "ticket": {
+      "primary": "https://eagles.tstar.jp/seat250720",
+      "resale": "https://nft.rakuten.co.jp/marketplace/?type=ticket&sort=last_updated_date&limit=12&ticketlimit=6&provider=eagles&date=20-07-2025"
     }
   },
   {
@@ -1053,6 +1433,13 @@
     "info": {
       "stadium": "ベルーナドーム",
       "time": "17:00"
+    },
+    "ticket": {
+      "primary": "https://ticket.seibulions.jp/event/venue/25072001",
+      "resale": [
+        "https://ticket.seibulions.jp/resale/venue/250720",
+        "https://www.ticket.co.jp/sys/k/68848.htm?st=20250720"
+      ]
     }
   },
   {
@@ -1064,6 +1451,10 @@
     "info": {
       "stadium": "ZOZOマリン",
       "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://m-ticket.marines.co.jp/ticket/20250720",
+      "resale": "https://www.ticket.co.jp/sys/k/79881.htm?st=20250720"
     }
   },
   {
@@ -1075,6 +1466,10 @@
     "info": {
       "stadium": "東京ドーム",
       "time": "14:00"
+    },
+    "ticket": {
+      "primary": "https://www.giants.jp/schedule/first-team/?month=202507",
+      "resale": "https://tradead.tixplus.jp/giants"
     }
   },
   {
@@ -1086,6 +1481,10 @@
     "info": {
       "stadium": "神宮",
       "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://ticket.yakult-swallows.co.jp/Calendar.aspx",
+      "resale": "https://tradead.tixplus.jp/swallows"
     }
   },
   {
@@ -1097,6 +1496,10 @@
     "info": {
       "stadium": "バンテリンドーム",
       "time": "14:00"
+    },
+    "ticket": {
+      "primary": "https://dragons-ticket.jp/Calendar.aspx",
+      "resale": "https://tradead.tixplus.jp/dragons"
     }
   },
   {
@@ -1108,6 +1511,10 @@
     "info": {
       "stadium": "楽天モバイル",
       "time": "13:00"
+    },
+    "ticket": {
+      "primary": "https://eagles.tstar.jp/seat250721",
+      "resale": "https://nft.rakuten.co.jp/marketplace/?type=ticket&sort=last_updated_date&limit=12&ticketlimit=6&provider=eagles&date=21-07-2025"
     }
   },
   {
@@ -1119,6 +1526,13 @@
     "info": {
       "stadium": "ベルーナドーム",
       "time": "17:00"
+    },
+    "ticket": {
+      "primary": "https://ticket.seibulions.jp/event/venue/25072101",
+      "resale": [
+        "https://ticket.seibulions.jp/resale/venue/250721",
+        "https://www.ticket.co.jp/sys/k/68848.htm?st=20250721"
+      ]
     }
   },
   {
@@ -1130,6 +1544,10 @@
     "info": {
       "stadium": "ZOZOマリン",
       "time": "17:00"
+    },
+    "ticket": {
+      "primary": "https://m-ticket.marines.co.jp/ticket/20250721",
+      "resale": "https://www.ticket.co.jp/sys/k/79881.htm?st=20250721"
     }
   },
   {
@@ -1163,6 +1581,10 @@
     "info": {
       "stadium": "神宮",
       "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://ticket.yakult-swallows.co.jp/Calendar.aspx",
+      "resale": "https://tradead.tixplus.jp/swallows"
     }
   },
   {
@@ -1174,6 +1596,9 @@
     "info": {
       "stadium": "甲子園",
       "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://hanshintigers.jp/ticket/detail/20250726.html"
     }
   },
   {
@@ -1185,6 +1610,9 @@
     "info": {
       "stadium": "マツダスタジアム",
       "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://www.carp.co.jp/ticket/ticket/yoyaku_hoho.html"
     }
   },
   {
@@ -1196,6 +1624,10 @@
     "info": {
       "stadium": "エスコンＦ",
       "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://ticket.fighters.co.jp/event/list/self/1",
+      "resale": "https://ticket.fighters.co.jp/event/list/resale/1"
     }
   },
   {
@@ -1207,6 +1639,10 @@
     "info": {
       "stadium": "楽天モバイル",
       "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://eagles.tstar.jp/seat250726",
+      "resale": "https://nft.rakuten.co.jp/marketplace/?type=ticket&sort=last_updated_date&limit=12&ticketlimit=6&provider=eagles&date=26-07-2025"
     }
   },
   {
@@ -1218,6 +1654,9 @@
     "info": {
       "stadium": "みずほPayPay",
       "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://ticket.softbankhawks.co.jp/game/select"
     }
   },
   {
@@ -1229,6 +1668,10 @@
     "info": {
       "stadium": "神宮",
       "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://ticket.yakult-swallows.co.jp/Calendar.aspx",
+      "resale": "https://tradead.tixplus.jp/swallows"
     }
   },
   {
@@ -1240,6 +1683,9 @@
     "info": {
       "stadium": "甲子園",
       "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://hanshintigers.jp/ticket/detail/20250727.html"
     }
   },
   {
@@ -1251,6 +1697,9 @@
     "info": {
       "stadium": "マツダスタジアム",
       "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://www.carp.co.jp/ticket/ticket/yoyaku_hoho.html"
     }
   },
   {
@@ -1262,6 +1711,10 @@
     "info": {
       "stadium": "エスコンＦ",
       "time": "14:00"
+    },
+    "ticket": {
+      "primary": "https://ticket.fighters.co.jp/event/list/self/1",
+      "resale": "https://ticket.fighters.co.jp/event/list/resale/1"
     }
   },
   {
@@ -1273,6 +1726,10 @@
     "info": {
       "stadium": "楽天モバイル",
       "time": "17:00"
+    },
+    "ticket": {
+      "primary": "https://eagles.tstar.jp/seat250727",
+      "resale": "https://nft.rakuten.co.jp/marketplace/?type=ticket&sort=last_updated_date&limit=12&ticketlimit=6&provider=eagles&date=27-07-2025"
     }
   },
   {
@@ -1284,6 +1741,9 @@
     "info": {
       "stadium": "みずほPayPay",
       "time": "14:00"
+    },
+    "ticket": {
+      "primary": "https://ticket.softbankhawks.co.jp/game/select"
     }
   },
   {
@@ -1295,6 +1755,10 @@
     "info": {
       "stadium": "横浜",
       "time": "17:45"
+    },
+    "ticket": {
+      "primary": "https://ticketsales.baystars.co.jp/calendar/2025/07",
+      "resale": "https://ticket-resale.baystars.co.jp/purchase/match"
     }
   },
   {
@@ -1306,6 +1770,10 @@
     "info": {
       "stadium": "バンテリンドーム",
       "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://dragons-ticket.jp/Calendar.aspx",
+      "resale": "https://tradead.tixplus.jp/dragons"
     }
   },
   {
@@ -1317,6 +1785,9 @@
     "info": {
       "stadium": "甲子園",
       "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://hanshintigers.jp/ticket/detail/20250729.html"
     }
   },
   {
@@ -1328,6 +1799,10 @@
     "info": {
       "stadium": "エスコンＦ",
       "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://ticket.fighters.co.jp/event/list/self/1",
+      "resale": "https://ticket.fighters.co.jp/event/list/resale/1"
     }
   },
   {
@@ -1339,6 +1814,10 @@
     "info": {
       "stadium": "ZOZOマリン",
       "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://m-ticket.marines.co.jp/ticket/20250729",
+      "resale": "https://www.ticket.co.jp/sys/k/79881.htm?st=20250729"
     }
   },
   {
@@ -1350,6 +1829,10 @@
     "info": {
       "stadium": "京セラD大阪",
       "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://buffaloes.cnplayguide.com/ticket/20250729",
+      "resale": "https://www.ticket.co.jp/sys/k/79911.htm?st=20250729"
     }
   },
   {
@@ -1361,6 +1844,10 @@
     "info": {
       "stadium": "横浜",
       "time": "17:45"
+    },
+    "ticket": {
+      "primary": "https://ticketsales.baystars.co.jp/calendar/2025/07",
+      "resale": "https://ticket-resale.baystars.co.jp/purchase/match"
     }
   },
   {
@@ -1372,6 +1859,10 @@
     "info": {
       "stadium": "バンテリンドーム",
       "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://dragons-ticket.jp/Calendar.aspx",
+      "resale": "https://tradead.tixplus.jp/dragons"
     }
   },
   {
@@ -1383,6 +1874,9 @@
     "info": {
       "stadium": "甲子園",
       "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://hanshintigers.jp/ticket/detail/20250730.html"
     }
   },
   {
@@ -1394,6 +1888,10 @@
     "info": {
       "stadium": "エスコンＦ",
       "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://ticket.fighters.co.jp/event/list/self/1",
+      "resale": "https://ticket.fighters.co.jp/event/list/resale/1"
     }
   },
   {
@@ -1405,6 +1903,10 @@
     "info": {
       "stadium": "ZOZOマリン",
       "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://m-ticket.marines.co.jp/ticket/20250730",
+      "resale": "https://www.ticket.co.jp/sys/k/79881.htm?st=20250730"
     }
   },
   {
@@ -1416,6 +1918,10 @@
     "info": {
       "stadium": "京セラD大阪",
       "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://buffaloes.cnplayguide.com/ticket/20250730",
+      "resale": "https://www.ticket.co.jp/sys/k/79911.htm?st=20250730"
     }
   },
   {
@@ -1427,6 +1933,10 @@
     "info": {
       "stadium": "横浜",
       "time": "17:45"
+    },
+    "ticket": {
+      "primary": "https://ticketsales.baystars.co.jp/calendar/2025/07",
+      "resale": "https://ticket-resale.baystars.co.jp/purchase/match"
     }
   },
   {
@@ -1438,6 +1948,10 @@
     "info": {
       "stadium": "バンテリンドーム",
       "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://dragons-ticket.jp/Calendar.aspx",
+      "resale": "https://tradead.tixplus.jp/dragons"
     }
   },
   {
@@ -1449,6 +1963,9 @@
     "info": {
       "stadium": "甲子園",
       "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://hanshintigers.jp/ticket/detail/20250731.html"
     }
   },
   {
@@ -1460,6 +1977,10 @@
     "info": {
       "stadium": "エスコンＦ",
       "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://ticket.fighters.co.jp/event/list/self/1",
+      "resale": "https://ticket.fighters.co.jp/event/list/resale/1"
     }
   },
   {
@@ -1471,6 +1992,10 @@
     "info": {
       "stadium": "東京ドーム",
       "time": "18:30"
+    },
+    "ticket": {
+      "primary": "https://m-ticket.marines.co.jp/ticket/20250731",
+      "resale": "https://www.ticket.co.jp/sys/k/79881.htm?st=20250731"
     }
   },
   {
@@ -1482,6 +2007,10 @@
     "info": {
       "stadium": "京セラD大阪",
       "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://buffaloes.cnplayguide.com/ticket/20250731",
+      "resale": "https://www.ticket.co.jp/sys/k/79911.htm?st=20250731"
     }
   }
 ]

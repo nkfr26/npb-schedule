@@ -8,6 +8,10 @@
     "info": {
       "stadium": "東京ドーム",
       "time": "18:15"
+    },
+    "ticket": {
+      "primary": "https://www.giants.jp/schedule/first-team/?month=202503",
+      "resale": "https://tradead.tixplus.jp/giants"
     }
   },
   {
@@ -19,6 +23,10 @@
     "info": {
       "stadium": "横浜",
       "time": "18:30"
+    },
+    "ticket": {
+      "primary": "https://ticketsales.baystars.co.jp/calendar/2025/03",
+      "resale": "https://ticket-resale.baystars.co.jp/purchase/match"
     }
   },
   {
@@ -30,6 +38,9 @@
     "info": {
       "stadium": "マツダスタジアム",
       "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://www.carp.co.jp/ticket/ticket/yoyaku_hoho.html"
     }
   },
   {
@@ -41,6 +52,13 @@
     "info": {
       "stadium": "ベルーナドーム",
       "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://ticket.seibulions.jp/event/venue/25032801",
+      "resale": [
+        "https://ticket.seibulions.jp/resale/venue/250328",
+        "https://www.ticket.co.jp/sys/k/68848.htm?st=20250328"
+      ]
     }
   },
   {
@@ -52,6 +70,10 @@
     "info": {
       "stadium": "京セラD大阪",
       "time": "18:30"
+    },
+    "ticket": {
+      "primary": "https://buffaloes.cnplayguide.com/ticket/20250328",
+      "resale": "https://www.ticket.co.jp/sys/k/79911.htm?st=20250328"
     }
   },
   {
@@ -63,6 +85,9 @@
     "info": {
       "stadium": "みずほPayPay",
       "time": "18:30"
+    },
+    "ticket": {
+      "primary": "https://ticket.softbankhawks.co.jp/game/select"
     }
   },
   {
@@ -74,6 +99,10 @@
     "info": {
       "stadium": "東京ドーム",
       "time": "14:00"
+    },
+    "ticket": {
+      "primary": "https://www.giants.jp/schedule/first-team/?month=202503",
+      "resale": "https://tradead.tixplus.jp/giants"
     }
   },
   {
@@ -85,6 +114,10 @@
     "info": {
       "stadium": "横浜",
       "time": "14:00"
+    },
+    "ticket": {
+      "primary": "https://ticketsales.baystars.co.jp/calendar/2025/03",
+      "resale": "https://ticket-resale.baystars.co.jp/purchase/match"
     }
   },
   {
@@ -96,6 +129,9 @@
     "info": {
       "stadium": "マツダスタジアム",
       "time": "14:00"
+    },
+    "ticket": {
+      "primary": "https://www.carp.co.jp/ticket/ticket/yoyaku_hoho.html"
     }
   },
   {
@@ -107,6 +143,13 @@
     "info": {
       "stadium": "ベルーナドーム",
       "time": "14:00"
+    },
+    "ticket": {
+      "primary": "https://ticket.seibulions.jp/event/venue/25032901",
+      "resale": [
+        "https://ticket.seibulions.jp/resale/venue/250329",
+        "https://www.ticket.co.jp/sys/k/68848.htm?st=20250329"
+      ]
     }
   },
   {
@@ -118,6 +161,10 @@
     "info": {
       "stadium": "京セラD大阪",
       "time": "14:00"
+    },
+    "ticket": {
+      "primary": "https://buffaloes.cnplayguide.com/ticket/20250329",
+      "resale": "https://www.ticket.co.jp/sys/k/79911.htm?st=20250329"
     }
   },
   {
@@ -129,6 +176,9 @@
     "info": {
       "stadium": "みずほPayPay",
       "time": "14:00"
+    },
+    "ticket": {
+      "primary": "https://ticket.softbankhawks.co.jp/game/select"
     }
   },
   {
@@ -140,6 +190,10 @@
     "info": {
       "stadium": "東京ドーム",
       "time": "14:00"
+    },
+    "ticket": {
+      "primary": "https://www.giants.jp/schedule/first-team/?month=202503",
+      "resale": "https://tradead.tixplus.jp/giants"
     }
   },
   {
@@ -151,6 +205,10 @@
     "info": {
       "stadium": "横浜",
       "time": "14:00"
+    },
+    "ticket": {
+      "primary": "https://ticketsales.baystars.co.jp/calendar/2025/03",
+      "resale": "https://ticket-resale.baystars.co.jp/purchase/match"
     }
   },
   {
@@ -162,6 +220,9 @@
     "info": {
       "stadium": "マツダスタジアム",
       "time": "13:30"
+    },
+    "ticket": {
+      "primary": "https://www.carp.co.jp/ticket/ticket/yoyaku_hoho.html"
     }
   },
   {
@@ -173,6 +234,13 @@
     "info": {
       "stadium": "ベルーナドーム",
       "time": "13:00"
+    },
+    "ticket": {
+      "primary": "https://ticket.seibulions.jp/event/venue/25033001",
+      "resale": [
+        "https://ticket.seibulions.jp/resale/venue/250330",
+        "https://www.ticket.co.jp/sys/k/68848.htm?st=20250330"
+      ]
     }
   },
   {
@@ -184,6 +252,10 @@
     "info": {
       "stadium": "京セラD大阪",
       "time": "13:00"
+    },
+    "ticket": {
+      "primary": "https://buffaloes.cnplayguide.com/ticket/20250330",
+      "resale": "https://www.ticket.co.jp/sys/k/79911.htm?st=20250330"
     }
   },
   {
@@ -195,6 +267,9 @@
     "info": {
       "stadium": "みずほPayPay",
       "time": "13:00"
+    },
+    "ticket": {
+      "primary": "https://ticket.softbankhawks.co.jp/game/select"
     }
   }
 ]
