@@ -10,7 +10,10 @@ const ticketUrlTemplates: Record<
       const [year, month] = date.split("-");
       return `https://www.giants.jp/schedule/first-team/?month=${year}${month}`;
     },
-    resale: () => "https://tradead.tixplus.jp/giants",
+    resale: (date: string) => {
+      const [year, month] = date.split("-");
+      return `https://tradead.tixplus.jp/giants/buy/bidding?month=${Number(month)}&year=${year}`;
+    },
   },
   DeNA: {
     primary: (date: string) => {
@@ -21,7 +24,10 @@ const ticketUrlTemplates: Record<
   },
   ヤクルト: {
     primary: () => "https://ticket.yakult-swallows.co.jp/Calendar.aspx",
-    resale: () => "https://tradead.tixplus.jp/swallows",
+    resale: (date: string) => {
+      const [year, month] = date.split("-");
+      return `https://tradead.tixplus.jp/swallows/buy/bidding?month=${Number(month)}&year=${year}`;
+    },
   },
   阪神: {
     primary: (date: string) =>
@@ -32,7 +38,10 @@ const ticketUrlTemplates: Record<
   },
   中日: {
     primary: () => "https://dragons-ticket.jp/Calendar.aspx",
-    resale: () => "https://tradead.tixplus.jp/dragons",
+    resale: (date: string) => {
+      const [year, month] = date.split("-");
+      return `https://tradead.tixplus.jp/dragons/buy/bidding?month=${Number(month)}&year=${year}`;
+    },
   },
   西武: {
     primary: (date: string) =>
