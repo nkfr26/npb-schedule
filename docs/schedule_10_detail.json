@@ -90,6 +90,21 @@
   {
     "date": "2025-10-03",
     "match": {
+      "home": "楽天",
+      "visitor": "西武"
+    },
+    "info": {
+      "stadium": "楽天モバイル",
+      "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://eagles.tstar.jp/seat251003",
+      "resale": "https://nft.rakuten.co.jp/marketplace/?type=ticket&sort=last_updated_date&limit=12&ticketlimit=6&provider=eagles&date=03-10-2025"
+    }
+  },
+  {
+    "date": "2025-10-03",
+    "match": {
       "home": "ソフトバンク",
       "visitor": "オリックス"
     },
