@@ -2,8 +2,20 @@ import { mkdirSync, writeFileSync } from "node:fs";
 import { chromium } from "@playwright/test";
 import { generateTicketUrls } from "./generate-ticket-urls.js";
 
+const formatDate = (year: number, dateString: string) => {
+  const dateMatch = dateString.match(/(\d+)\/(\d+)/);
+  if (!dateMatch) return "";
+
+  const [month, day] = [
+    dateMatch[1]?.padStart(2, "0"),
+    dateMatch[2]?.padStart(2, "0"),
+  ];
+  if (!month || !day) return "";
+
+  return `${year}-${month}-${day}`;
+};
+
 (async () => {
-  mkdirSync("docs", { recursive: true });
   const browser = await chromium.launch({ headless: true });
 
   const year = new Date().getFullYear();
@@ -59,6 +71,7 @@ import { generateTicketUrls } from "./generate-ticket-urls.js";
         };
       });
 
+    mkdirSync("docs", { recursive: true });
     writeFileSync(
       `docs/schedule_${month}_detail.json`,
       JSON.stringify(formatted, null, 2),
@@ -69,16 +82,3 @@ import { generateTicketUrls } from "./generate-ticket-urls.js";
   await Promise.all(promises);
   await browser.close();
 })();
-
-const formatDate = (year: number, dateString: string) => {
-  const dateMatch = dateString.match(/(\d+)\/(\d+)/);
-  if (!dateMatch) return "";
-
-  const [month, day] = [
-    dateMatch[1]?.padStart(2, "0"),
-    dateMatch[2]?.padStart(2, "0"),
-  ];
-  if (!month || !day) return "";
-
-  return `${year}-${month}-${day}`;
-};
