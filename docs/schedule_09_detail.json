@@ -1530,21 +1530,6 @@
   {
     "date": "2025-09-22",
     "match": {
-      "home": "DeNA",
-      "visitor": "広島"
-    },
-    "info": {
-      "stadium": "横浜",
-      "time": "18:00"
-    },
-    "ticket": {
-      "primary": "https://ticketsales.baystars.co.jp/calendar/2025/09",
-      "resale": "https://ticket-resale.baystars.co.jp/purchase/match"
-    }
-  },
-  {
-    "date": "2025-09-22",
-    "match": {
       "home": "日本ハム",
       "visitor": "ロッテ"
     },
