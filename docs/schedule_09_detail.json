@@ -1647,50 +1647,6 @@
   {
     "date": "2025-09-24",
     "match": {
-      "home": "ヤクルト",
-      "visitor": "中日"
-    },
-    "info": {
-      "stadium": "神宮",
-      "time": "18:00"
-    },
-    "ticket": {
-      "primary": "https://ticket.yakult-swallows.co.jp/Calendar.aspx",
-      "resale": "https://tradead.tixplus.jp/swallows/buy/bidding?month=9&year=2025"
-    }
-  },
-  {
-    "date": "2025-09-24",
-    "match": {
-      "home": "DeNA",
-      "visitor": "阪神"
-    },
-    "info": {
-      "stadium": "横浜",
-      "time": "18:00"
-    },
-    "ticket": {
-      "primary": "https://ticketsales.baystars.co.jp/calendar/2025/09",
-      "resale": "https://ticket-resale.baystars.co.jp/purchase/match"
-    }
-  },
-  {
-    "date": "2025-09-24",
-    "match": {
-      "home": "広島",
-      "visitor": "巨人"
-    },
-    "info": {
-      "stadium": "マツダスタジアム",
-      "time": "18:00"
-    },
-    "ticket": {
-      "primary": "https://www.carp.co.jp/ticket/ticket/yoyaku_hoho.html"
-    }
-  },
-  {
-    "date": "2025-09-24",
-    "match": {
       "home": "楽天",
       "visitor": "ソフトバンク"
     },
