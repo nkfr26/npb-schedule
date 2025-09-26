@@ -163,6 +163,20 @@
   {
     "date": "2025-10-05",
     "match": {
+      "home": "広島",
+      "visitor": "ヤクルト"
+    },
+    "info": {
+      "stadium": "マツダスタジアム",
+      "time": "13:30"
+    },
+    "ticket": {
+      "primary": "https://www.carp.co.jp/ticket/ticket/yoyaku_hoho.html"
+    }
+  },
+  {
+    "date": "2025-10-05",
+    "match": {
       "home": "楽天",
       "visitor": "オリックス"
     },
@@ -188,6 +202,20 @@
     "ticket": {
       "primary": "https://m-ticket.marines.co.jp/ticket/20251005",
       "resale": "https://www.ticket.co.jp/sys/k/79881.htm?st=20251005"
+    }
+  },
+  {
+    "date": "2025-10-06",
+    "match": {
+      "home": "阪神",
+      "visitor": "ヤクルト"
+    },
+    "info": {
+      "stadium": "甲子園",
+      "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://hanshintigers.jp/ticket/detail/20251006.html"
     }
   }
 ]
