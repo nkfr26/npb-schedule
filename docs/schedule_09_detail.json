@@ -1985,49 +1985,6 @@
   {
     "date": "2025-09-29",
     "match": {
-      "home": "ヤクルト",
-      "visitor": "巨人"
-    },
-    "info": {
-      "stadium": "神宮",
-      "time": "18:00"
-    },
-    "ticket": {
-      "primary": "https://ticket.yakult-swallows.co.jp/Calendar.aspx",
-      "resale": "https://tradead.tixplus.jp/swallows/buy/bidding?month=9&year=2025"
-    }
-  },
-  {
-    "date": "2025-09-29",
-    "match": {
-      "home": "広島",
-      "visitor": "DeNA"
-    },
-    "info": {
-      "stadium": "マツダスタジアム",
-      "time": "18:00"
-    },
-    "ticket": {
-      "primary": "https://www.carp.co.jp/ticket/ticket/yoyaku_hoho.html"
-    }
-  },
-  {
-    "date": "2025-09-29",
-    "match": {
-      "home": "阪神",
-      "visitor": "中日"
-    },
-    "info": {
-      "stadium": "甲子園",
-      "time": "18:00"
-    },
-    "ticket": {
-      "primary": "https://hanshintigers.jp/ticket/detail/20250929.html"
-    }
-  },
-  {
-    "date": "2025-09-29",
-    "match": {
       "home": "西武",
       "visitor": "ロッテ"
     },
