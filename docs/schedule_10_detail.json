@@ -217,5 +217,125 @@
     "ticket": {
       "primary": "https://hanshintigers.jp/ticket/detail/20251006.html"
     }
+  },
+  {
+    "date": "2025-10-11",
+    "match": {
+      "home": "DeNA",
+      "visitor": "巨人"
+    },
+    "info": {
+      "stadium": "横浜",
+      "time": "14:00"
+    },
+    "ticket": {
+      "primary": "https://ticketsales.baystars.co.jp/calendar/2025/10",
+      "resale": "https://ticket-resale.baystars.co.jp/purchase/match"
+    }
+  },
+  {
+    "date": "2025-10-11",
+    "match": {
+      "home": "日本ハム",
+      "visitor": "オリックス"
+    },
+    "info": {
+      "stadium": "エスコンＦ",
+      "time": "14:00"
+    },
+    "ticket": {
+      "primary": "https://ticket.fighters.co.jp/event/list/self/1",
+      "resale": "https://ticket.fighters.co.jp/event/list/resale/1"
+    }
+  },
+  {
+    "date": "2025-10-12",
+    "match": {
+      "home": "DeNA",
+      "visitor": "巨人"
+    },
+    "info": {
+      "stadium": "横浜",
+      "time": "14:00"
+    },
+    "ticket": {
+      "primary": "https://ticketsales.baystars.co.jp/calendar/2025/10",
+      "resale": "https://ticket-resale.baystars.co.jp/purchase/match"
+    }
+  },
+  {
+    "date": "2025-10-12",
+    "match": {
+      "home": "日本ハム",
+      "visitor": "オリックス"
+    },
+    "info": {
+      "stadium": "エスコンＦ",
+      "time": "14:00"
+    },
+    "ticket": {
+      "primary": "https://ticket.fighters.co.jp/event/list/self/1",
+      "resale": "https://ticket.fighters.co.jp/event/list/resale/1"
+    }
+  },
+  {
+    "date": "2025-10-13",
+    "match": {
+      "home": "DeNA",
+      "visitor": "巨人"
+    },
+    "info": {
+      "stadium": "横浜",
+      "time": "14:00"
+    },
+    "ticket": {
+      "primary": "https://ticketsales.baystars.co.jp/calendar/2025/10",
+      "resale": "https://ticket-resale.baystars.co.jp/purchase/match"
+    }
+  },
+  {
+    "date": "2025-10-13",
+    "match": {
+      "home": "日本ハム",
+      "visitor": "オリックス"
+    },
+    "info": {
+      "stadium": "エスコンＦ",
+      "time": "14:00"
+    },
+    "ticket": {
+      "primary": "https://ticket.fighters.co.jp/event/list/self/1",
+      "resale": "https://ticket.fighters.co.jp/event/list/resale/1"
+    }
+  },
+  {
+    "date": "2025-10-14",
+    "match": {
+      "home": "DeNA",
+      "visitor": "巨人"
+    },
+    "info": {
+      "stadium": "横浜",
+      "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://ticketsales.baystars.co.jp/calendar/2025/10",
+      "resale": "https://ticket-resale.baystars.co.jp/purchase/match"
+    }
+  },
+  {
+    "date": "2025-10-14",
+    "match": {
+      "home": "日本ハム",
+      "visitor": "オリックス"
+    },
+    "info": {
+      "stadium": "エスコンＦ",
+      "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://ticket.fighters.co.jp/event/list/self/1",
+      "resale": "https://ticket.fighters.co.jp/event/list/resale/1"
+    }
   }
 ]
