@@ -205,20 +205,6 @@
     }
   },
   {
-    "date": "2025-10-06",
-    "match": {
-      "home": "阪神",
-      "visitor": "ヤクルト"
-    },
-    "info": {
-      "stadium": "甲子園",
-      "time": "18:00"
-    },
-    "ticket": {
-      "primary": "https://hanshintigers.jp/ticket/detail/20251006.html"
-    }
-  },
-  {
     "date": "2025-10-11",
     "match": {
       "home": "DeNA",
