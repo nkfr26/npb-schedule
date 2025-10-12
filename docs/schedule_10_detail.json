@@ -251,63 +251,227 @@
     }
   },
   {
-    "date": "2025-10-13",
+    "date": "2025-10-15",
     "match": {
-      "home": "DeNA",
-      "visitor": "巨人"
+      "home": "阪神",
+      "visitor": "DeNA"
     },
     "info": {
-      "stadium": "横浜",
-      "time": "14:00"
-    },
-    "ticket": {
-      "primary": "https://ticketsales.baystars.co.jp/calendar/2025/10",
-      "resale": "https://ticket-resale.baystars.co.jp/purchase/match"
-    }
-  },
-  {
-    "date": "2025-10-13",
-    "match": {
-      "home": "日本ハム",
-      "visitor": "オリックス"
-    },
-    "info": {
-      "stadium": "エスコンＦ",
-      "time": "14:00"
-    },
-    "ticket": {
-      "primary": "https://ticket.fighters.co.jp/event/list/self/1",
-      "resale": "https://ticket.fighters.co.jp/event/list/resale/1"
-    }
-  },
-  {
-    "date": "2025-10-14",
-    "match": {
-      "home": "DeNA",
-      "visitor": "巨人"
-    },
-    "info": {
-      "stadium": "横浜",
+      "stadium": "甲子園",
       "time": "18:00"
     },
     "ticket": {
-      "primary": "https://ticketsales.baystars.co.jp/calendar/2025/10",
-      "resale": "https://ticket-resale.baystars.co.jp/purchase/match"
+      "primary": "https://hanshintigers.jp/ticket/detail/20251015.html"
     }
   },
   {
-    "date": "2025-10-14",
+    "date": "2025-10-15",
     "match": {
-      "home": "日本ハム",
-      "visitor": "オリックス"
+      "home": "ソフトバンク",
+      "visitor": "日本ハム"
     },
     "info": {
-      "stadium": "エスコンＦ",
+      "stadium": "みずほPayPay",
       "time": "18:00"
     },
     "ticket": {
-      "primary": "https://ticket.fighters.co.jp/event/list/self/1",
-      "resale": "https://ticket.fighters.co.jp/event/list/resale/1"
+      "primary": "https://ticket.softbankhawks.co.jp/game/select"
+    }
+  },
+  {
+    "date": "2025-10-16",
+    "match": {
+      "home": "阪神",
+      "visitor": "DeNA"
+    },
+    "info": {
+      "stadium": "甲子園",
+      "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://hanshintigers.jp/ticket/detail/20251016.html"
+    }
+  },
+  {
+    "date": "2025-10-16",
+    "match": {
+      "home": "ソフトバンク",
+      "visitor": "日本ハム"
+    },
+    "info": {
+      "stadium": "みずほPayPay",
+      "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://ticket.softbankhawks.co.jp/game/select"
+    }
+  },
+  {
+    "date": "2025-10-17",
+    "match": {
+      "home": "阪神",
+      "visitor": "DeNA"
+    },
+    "info": {
+      "stadium": "甲子園",
+      "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://hanshintigers.jp/ticket/detail/20251017.html"
+    }
+  },
+  {
+    "date": "2025-10-17",
+    "match": {
+      "home": "ソフトバンク",
+      "visitor": "日本ハム"
+    },
+    "info": {
+      "stadium": "みずほPayPay",
+      "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://ticket.softbankhawks.co.jp/game/select"
+    }
+  },
+  {
+    "date": "2025-10-18",
+    "match": {
+      "home": "阪神",
+      "visitor": "DeNA"
+    },
+    "info": {
+      "stadium": "甲子園",
+      "time": "14:00"
+    },
+    "ticket": {
+      "primary": "https://hanshintigers.jp/ticket/detail/20251018.html"
+    }
+  },
+  {
+    "date": "2025-10-18",
+    "match": {
+      "home": "ソフトバンク",
+      "visitor": "日本ハム"
+    },
+    "info": {
+      "stadium": "みずほPayPay",
+      "time": "14:00"
+    },
+    "ticket": {
+      "primary": "https://ticket.softbankhawks.co.jp/game/select"
+    }
+  },
+  {
+    "date": "2025-10-19",
+    "match": {
+      "home": "阪神",
+      "visitor": "DeNA"
+    },
+    "info": {
+      "stadium": "甲子園",
+      "time": "14:00"
+    },
+    "ticket": {
+      "primary": "https://hanshintigers.jp/ticket/detail/20251019.html"
+    }
+  },
+  {
+    "date": "2025-10-19",
+    "match": {
+      "home": "ソフトバンク",
+      "visitor": "日本ハム"
+    },
+    "info": {
+      "stadium": "みずほPayPay",
+      "time": "13:00"
+    },
+    "ticket": {
+      "primary": "https://ticket.softbankhawks.co.jp/game/select"
+    }
+  },
+  {
+    "date": "2025-10-20",
+    "match": {
+      "home": "阪神",
+      "visitor": "DeNA"
+    },
+    "info": {
+      "stadium": "甲子園",
+      "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://hanshintigers.jp/ticket/detail/20251020.html"
+    }
+  },
+  {
+    "date": "2025-10-20",
+    "match": {
+      "home": "ソフトバンク",
+      "visitor": "日本ハム"
+    },
+    "info": {
+      "stadium": "みずほPayPay",
+      "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://ticket.softbankhawks.co.jp/game/select"
+    }
+  },
+  {
+    "date": "2025-10-21",
+    "match": {
+      "home": "阪神",
+      "visitor": "DeNA"
+    },
+    "info": {
+      "stadium": "甲子園",
+      "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://hanshintigers.jp/ticket/detail/20251021.html"
+    }
+  },
+  {
+    "date": "2025-10-21",
+    "match": {
+      "home": "ソフトバンク",
+      "visitor": "日本ハム"
+    },
+    "info": {
+      "stadium": "みずほPayPay",
+      "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://ticket.softbankhawks.co.jp/game/select"
+    }
+  },
+  {
+    "date": "2025-10-22",
+    "match": {
+      "home": "阪神",
+      "visitor": "DeNA"
+    },
+    "info": {
+      "stadium": "甲子園",
+      "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://hanshintigers.jp/ticket/detail/20251022.html"
+    }
+  },
+  {
+    "date": "2025-10-22",
+    "match": {
+      "home": "ソフトバンク",
+      "visitor": "日本ハム"
+    },
+    "info": {
+      "stadium": "みずほPayPay",
+      "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://ticket.softbankhawks.co.jp/game/select"
     }
   }
 ]
