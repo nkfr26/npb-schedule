@@ -337,20 +337,6 @@
   {
     "date": "2025-10-18",
     "match": {
-      "home": "阪神",
-      "visitor": "DeNA"
-    },
-    "info": {
-      "stadium": "甲子園",
-      "time": "14:00"
-    },
-    "ticket": {
-      "primary": "https://hanshintigers.jp/ticket/detail/20251018.html"
-    }
-  },
-  {
-    "date": "2025-10-18",
-    "match": {
       "home": "ソフトバンク",
       "visitor": "日本ハム"
     },
@@ -360,20 +346,6 @@
     },
     "ticket": {
       "primary": "https://ticket.softbankhawks.co.jp/game/select"
-    }
-  },
-  {
-    "date": "2025-10-19",
-    "match": {
-      "home": "阪神",
-      "visitor": "DeNA"
-    },
-    "info": {
-      "stadium": "甲子園",
-      "time": "14:00"
-    },
-    "ticket": {
-      "primary": "https://hanshintigers.jp/ticket/detail/20251019.html"
     }
   },
   {
@@ -393,20 +365,6 @@
   {
     "date": "2025-10-20",
     "match": {
-      "home": "阪神",
-      "visitor": "DeNA"
-    },
-    "info": {
-      "stadium": "甲子園",
-      "time": "18:00"
-    },
-    "ticket": {
-      "primary": "https://hanshintigers.jp/ticket/detail/20251020.html"
-    }
-  },
-  {
-    "date": "2025-10-20",
-    "match": {
       "home": "ソフトバンク",
       "visitor": "日本ハム"
     },
@@ -421,20 +379,6 @@
   {
     "date": "2025-10-21",
     "match": {
-      "home": "阪神",
-      "visitor": "DeNA"
-    },
-    "info": {
-      "stadium": "甲子園",
-      "time": "18:00"
-    },
-    "ticket": {
-      "primary": "https://hanshintigers.jp/ticket/detail/20251021.html"
-    }
-  },
-  {
-    "date": "2025-10-21",
-    "match": {
       "home": "ソフトバンク",
       "visitor": "日本ハム"
     },
@@ -444,20 +388,6 @@
     },
     "ticket": {
       "primary": "https://ticket.softbankhawks.co.jp/game/select"
-    }
-  },
-  {
-    "date": "2025-10-22",
-    "match": {
-      "home": "阪神",
-      "visitor": "DeNA"
-    },
-    "info": {
-      "stadium": "甲子園",
-      "time": "18:00"
-    },
-    "ticket": {
-      "primary": "https://hanshintigers.jp/ticket/detail/20251022.html"
     }
   },
   {
