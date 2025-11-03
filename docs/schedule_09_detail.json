@@ -1530,21 +1530,6 @@
   {
     "date": "2025-09-22",
     "match": {
-      "home": "DeNA",
-      "visitor": "広島"
-    },
-    "info": {
-      "stadium": "横浜",
-      "time": "18:00"
-    },
-    "ticket": {
-      "primary": "https://ticketsales.baystars.co.jp/calendar/2025/09",
-      "resale": "https://ticket-resale.baystars.co.jp/purchase/match"
-    }
-  },
-  {
-    "date": "2025-09-22",
-    "match": {
       "home": "日本ハム",
       "visitor": "ロッテ"
     },
@@ -1657,50 +1642,6 @@
     },
     "ticket": {
       "primary": "https://ticket.softbankhawks.co.jp/game/select"
-    }
-  },
-  {
-    "date": "2025-09-24",
-    "match": {
-      "home": "ヤクルト",
-      "visitor": "中日"
-    },
-    "info": {
-      "stadium": "神宮",
-      "time": "18:00"
-    },
-    "ticket": {
-      "primary": "https://ticket.yakult-swallows.co.jp/Calendar.aspx",
-      "resale": "https://tradead.tixplus.jp/swallows/buy/bidding?month=9&year=2025"
-    }
-  },
-  {
-    "date": "2025-09-24",
-    "match": {
-      "home": "DeNA",
-      "visitor": "阪神"
-    },
-    "info": {
-      "stadium": "横浜",
-      "time": "18:00"
-    },
-    "ticket": {
-      "primary": "https://ticketsales.baystars.co.jp/calendar/2025/09",
-      "resale": "https://ticket-resale.baystars.co.jp/purchase/match"
-    }
-  },
-  {
-    "date": "2025-09-24",
-    "match": {
-      "home": "広島",
-      "visitor": "巨人"
-    },
-    "info": {
-      "stadium": "マツダスタジアム",
-      "time": "18:00"
-    },
-    "ticket": {
-      "primary": "https://www.carp.co.jp/ticket/ticket/yoyaku_hoho.html"
     }
   },
   {
@@ -2039,49 +1980,6 @@
     "ticket": {
       "primary": "https://buffaloes.cnplayguide.com/ticket/20250928",
       "resale": "https://www.ticket.co.jp/sys/k/79911.htm?st=20250928"
-    }
-  },
-  {
-    "date": "2025-09-29",
-    "match": {
-      "home": "ヤクルト",
-      "visitor": "巨人"
-    },
-    "info": {
-      "stadium": "神宮",
-      "time": "18:00"
-    },
-    "ticket": {
-      "primary": "https://ticket.yakult-swallows.co.jp/Calendar.aspx",
-      "resale": "https://tradead.tixplus.jp/swallows/buy/bidding?month=9&year=2025"
-    }
-  },
-  {
-    "date": "2025-09-29",
-    "match": {
-      "home": "広島",
-      "visitor": "DeNA"
-    },
-    "info": {
-      "stadium": "マツダスタジアム",
-      "time": "18:00"
-    },
-    "ticket": {
-      "primary": "https://www.carp.co.jp/ticket/ticket/yoyaku_hoho.html"
-    }
-  },
-  {
-    "date": "2025-09-29",
-    "match": {
-      "home": "阪神",
-      "visitor": "中日"
-    },
-    "info": {
-      "stadium": "甲子園",
-      "time": "18:00"
-    },
-    "ticket": {
-      "primary": "https://hanshintigers.jp/ticket/detail/20250929.html"
     }
   },
   {
