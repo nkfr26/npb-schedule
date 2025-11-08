@@ -28,6 +28,7 @@ const formatDate = (year: number, dateString: string) => {
       await page.goto(
         `https://npb.jp/games/${year}/schedule_${month}_detail.html`,
       );
+      console.log(`https://npb.jp/games/${year}/schedule_${month}_detail.html`);
 
       const games = await page.evaluate(() => {
         const rows = Array.from(
@@ -51,7 +52,6 @@ const formatDate = (year: number, dateString: string) => {
             info.querySelector(".place")?.textContent.replace(/\u3000/g, ""),
             info.querySelector(".time")?.textContent,
           ];
-          if (!stadium || !time) return undefined;
 
           return {
             date,
