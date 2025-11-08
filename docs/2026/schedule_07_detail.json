@@ -1,1 +1,1997 @@
-[]
+[
+  {
+    "date": "2026-07-01",
+    "match": {
+      "home": "巨人",
+      "visitor": "ヤクルト"
+    },
+    "info": {
+      "stadium": "盛岡",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://www.giants.jp/schedule/first-team/?month=202607",
+      "resale": "https://tradead.tixplus.jp/giants/buy/bidding?month=7&year=2026"
+    }
+  },
+  {
+    "date": "2026-07-01",
+    "match": {
+      "home": "阪神",
+      "visitor": "中日"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://hanshintigers.jp/ticket/detail/20260701.html"
+    }
+  },
+  {
+    "date": "2026-07-01",
+    "match": {
+      "home": "日本ハム",
+      "visitor": "オリックス"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://ticket.fighters.co.jp/event/list/self/1",
+      "resale": "https://ticket.fighters.co.jp/event/list/resale/1"
+    }
+  },
+  {
+    "date": "2026-07-01",
+    "match": {
+      "home": "楽天",
+      "visitor": "ロッテ"
+    },
+    "info": {
+      "stadium": "郡山",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://eagles.tstar.jp/seat260701",
+      "resale": "https://nft.rakuten.co.jp/marketplace/?type=ticket&sort=last_updated_date&limit=12&ticketlimit=6&provider=eagles&date=01-07-2026"
+    }
+  },
+  {
+    "date": "2026-07-02",
+    "match": {
+      "home": "DeNA",
+      "visitor": "広島"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://ticketsales.baystars.co.jp/calendar/2026/07",
+      "resale": "https://ticket-resale.baystars.co.jp/purchase/match"
+    }
+  },
+  {
+    "date": "2026-07-02",
+    "match": {
+      "home": "阪神",
+      "visitor": "中日"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://hanshintigers.jp/ticket/detail/20260702.html"
+    }
+  },
+  {
+    "date": "2026-07-02",
+    "match": {
+      "home": "日本ハム",
+      "visitor": "オリックス"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://ticket.fighters.co.jp/event/list/self/1",
+      "resale": "https://ticket.fighters.co.jp/event/list/resale/1"
+    }
+  },
+  {
+    "date": "2026-07-02",
+    "match": {
+      "home": "ソフトバンク",
+      "visitor": "西武"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://ticket.softbankhawks.co.jp/game/select"
+    }
+  },
+  {
+    "date": "2026-07-03",
+    "match": {
+      "home": "ヤクルト",
+      "visitor": "DeNA"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://ticket.yakult-swallows.co.jp/Calendar.aspx",
+      "resale": "https://tradead.tixplus.jp/swallows/buy/bidding?month=7&year=2026"
+    }
+  },
+  {
+    "date": "2026-07-03",
+    "match": {
+      "home": "中日",
+      "visitor": "巨人"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://dragons-ticket.jp/Calendar.aspx",
+      "resale": "https://tradead.tixplus.jp/dragons/buy/bidding?month=7&year=2026"
+    }
+  },
+  {
+    "date": "2026-07-03",
+    "match": {
+      "home": "阪神",
+      "visitor": "広島"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://hanshintigers.jp/ticket/detail/20260703.html"
+    }
+  },
+  {
+    "date": "2026-07-03",
+    "match": {
+      "home": "楽天",
+      "visitor": "日本ハム"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://eagles.tstar.jp/seat260703",
+      "resale": "https://nft.rakuten.co.jp/marketplace/?type=ticket&sort=last_updated_date&limit=12&ticketlimit=6&provider=eagles&date=03-07-2026"
+    }
+  },
+  {
+    "date": "2026-07-03",
+    "match": {
+      "home": "オリックス",
+      "visitor": "西武"
+    },
+    "info": {
+      "stadium": "ほっと神戸",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://buffaloes.cnplayguide.com/ticket/20260703",
+      "resale": "https://www.ticket.co.jp/sys/k/79911.htm?st=20260703"
+    }
+  },
+  {
+    "date": "2026-07-03",
+    "match": {
+      "home": "ソフトバンク",
+      "visitor": "ロッテ"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://ticket.softbankhawks.co.jp/game/select"
+    }
+  },
+  {
+    "date": "2026-07-04",
+    "match": {
+      "home": "ヤクルト",
+      "visitor": "DeNA"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://ticket.yakult-swallows.co.jp/Calendar.aspx",
+      "resale": "https://tradead.tixplus.jp/swallows/buy/bidding?month=7&year=2026"
+    }
+  },
+  {
+    "date": "2026-07-04",
+    "match": {
+      "home": "中日",
+      "visitor": "巨人"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://dragons-ticket.jp/Calendar.aspx",
+      "resale": "https://tradead.tixplus.jp/dragons/buy/bidding?month=7&year=2026"
+    }
+  },
+  {
+    "date": "2026-07-04",
+    "match": {
+      "home": "阪神",
+      "visitor": "広島"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://hanshintigers.jp/ticket/detail/20260704.html"
+    }
+  },
+  {
+    "date": "2026-07-04",
+    "match": {
+      "home": "楽天",
+      "visitor": "日本ハム"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://eagles.tstar.jp/seat260704",
+      "resale": "https://nft.rakuten.co.jp/marketplace/?type=ticket&sort=last_updated_date&limit=12&ticketlimit=6&provider=eagles&date=04-07-2026"
+    }
+  },
+  {
+    "date": "2026-07-04",
+    "match": {
+      "home": "オリックス",
+      "visitor": "西武"
+    },
+    "info": {
+      "stadium": "ほっと神戸",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://buffaloes.cnplayguide.com/ticket/20260704",
+      "resale": "https://www.ticket.co.jp/sys/k/79911.htm?st=20260704"
+    }
+  },
+  {
+    "date": "2026-07-04",
+    "match": {
+      "home": "ソフトバンク",
+      "visitor": "ロッテ"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://ticket.softbankhawks.co.jp/game/select"
+    }
+  },
+  {
+    "date": "2026-07-05",
+    "match": {
+      "home": "ヤクルト",
+      "visitor": "DeNA"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://ticket.yakult-swallows.co.jp/Calendar.aspx",
+      "resale": "https://tradead.tixplus.jp/swallows/buy/bidding?month=7&year=2026"
+    }
+  },
+  {
+    "date": "2026-07-05",
+    "match": {
+      "home": "中日",
+      "visitor": "巨人"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://dragons-ticket.jp/Calendar.aspx",
+      "resale": "https://tradead.tixplus.jp/dragons/buy/bidding?month=7&year=2026"
+    }
+  },
+  {
+    "date": "2026-07-05",
+    "match": {
+      "home": "阪神",
+      "visitor": "広島"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://hanshintigers.jp/ticket/detail/20260705.html"
+    }
+  },
+  {
+    "date": "2026-07-05",
+    "match": {
+      "home": "楽天",
+      "visitor": "日本ハム"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://eagles.tstar.jp/seat260705",
+      "resale": "https://nft.rakuten.co.jp/marketplace/?type=ticket&sort=last_updated_date&limit=12&ticketlimit=6&provider=eagles&date=05-07-2026"
+    }
+  },
+  {
+    "date": "2026-07-05",
+    "match": {
+      "home": "オリックス",
+      "visitor": "西武"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://buffaloes.cnplayguide.com/ticket/20260705",
+      "resale": "https://www.ticket.co.jp/sys/k/79911.htm?st=20260705"
+    }
+  },
+  {
+    "date": "2026-07-05",
+    "match": {
+      "home": "ソフトバンク",
+      "visitor": "ロッテ"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://ticket.softbankhawks.co.jp/game/select"
+    }
+  },
+  {
+    "date": "2026-07-07",
+    "match": {
+      "home": "巨人",
+      "visitor": "阪神"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://www.giants.jp/schedule/first-team/?month=202607",
+      "resale": "https://tradead.tixplus.jp/giants/buy/bidding?month=7&year=2026"
+    }
+  },
+  {
+    "date": "2026-07-07",
+    "match": {
+      "home": "DeNA",
+      "visitor": "中日"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://ticketsales.baystars.co.jp/calendar/2026/07",
+      "resale": "https://ticket-resale.baystars.co.jp/purchase/match"
+    }
+  },
+  {
+    "date": "2026-07-07",
+    "match": {
+      "home": "広島",
+      "visitor": "ヤクルト"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://www.carp.co.jp/ticket/ticket/yoyaku_hoho.html"
+    }
+  },
+  {
+    "date": "2026-07-07",
+    "match": {
+      "home": "西武",
+      "visitor": "楽天"
+    },
+    "info": {
+      "stadium": "那覇",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://ticket.seibulions.jp/event/venue/26070701",
+      "resale": [
+        "https://ticket.seibulions.jp/resale/venue/26070701",
+        "https://www.ticket.co.jp/sys/k/68848.htm?st=20260707"
+      ]
+    }
+  },
+  {
+    "date": "2026-07-07",
+    "match": {
+      "home": "ロッテ",
+      "visitor": "日本ハム"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://m-ticket.marines.co.jp/ticket/20260707",
+      "resale": "https://www.ticket.co.jp/sys/k/79881.htm?st=20260707"
+    }
+  },
+  {
+    "date": "2026-07-07",
+    "match": {
+      "home": "オリックス",
+      "visitor": "ソフトバンク"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://buffaloes.cnplayguide.com/ticket/20260707",
+      "resale": "https://www.ticket.co.jp/sys/k/79911.htm?st=20260707"
+    }
+  },
+  {
+    "date": "2026-07-08",
+    "match": {
+      "home": "巨人",
+      "visitor": "阪神"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://www.giants.jp/schedule/first-team/?month=202607",
+      "resale": "https://tradead.tixplus.jp/giants/buy/bidding?month=7&year=2026"
+    }
+  },
+  {
+    "date": "2026-07-08",
+    "match": {
+      "home": "DeNA",
+      "visitor": "中日"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://ticketsales.baystars.co.jp/calendar/2026/07",
+      "resale": "https://ticket-resale.baystars.co.jp/purchase/match"
+    }
+  },
+  {
+    "date": "2026-07-08",
+    "match": {
+      "home": "広島",
+      "visitor": "ヤクルト"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://www.carp.co.jp/ticket/ticket/yoyaku_hoho.html"
+    }
+  },
+  {
+    "date": "2026-07-08",
+    "match": {
+      "home": "西武",
+      "visitor": "楽天"
+    },
+    "info": {
+      "stadium": "那覇",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://ticket.seibulions.jp/event/venue/26070801",
+      "resale": [
+        "https://ticket.seibulions.jp/resale/venue/26070801",
+        "https://www.ticket.co.jp/sys/k/68848.htm?st=20260708"
+      ]
+    }
+  },
+  {
+    "date": "2026-07-08",
+    "match": {
+      "home": "ロッテ",
+      "visitor": "日本ハム"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://m-ticket.marines.co.jp/ticket/20260708",
+      "resale": "https://www.ticket.co.jp/sys/k/79881.htm?st=20260708"
+    }
+  },
+  {
+    "date": "2026-07-08",
+    "match": {
+      "home": "オリックス",
+      "visitor": "ソフトバンク"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://buffaloes.cnplayguide.com/ticket/20260708",
+      "resale": "https://www.ticket.co.jp/sys/k/79911.htm?st=20260708"
+    }
+  },
+  {
+    "date": "2026-07-09",
+    "match": {
+      "home": "巨人",
+      "visitor": "阪神"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://www.giants.jp/schedule/first-team/?month=202607",
+      "resale": "https://tradead.tixplus.jp/giants/buy/bidding?month=7&year=2026"
+    }
+  },
+  {
+    "date": "2026-07-09",
+    "match": {
+      "home": "DeNA",
+      "visitor": "中日"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://ticketsales.baystars.co.jp/calendar/2026/07",
+      "resale": "https://ticket-resale.baystars.co.jp/purchase/match"
+    }
+  },
+  {
+    "date": "2026-07-09",
+    "match": {
+      "home": "広島",
+      "visitor": "ヤクルト"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://www.carp.co.jp/ticket/ticket/yoyaku_hoho.html"
+    }
+  },
+  {
+    "date": "2026-07-10",
+    "match": {
+      "home": "DeNA",
+      "visitor": "巨人"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://ticketsales.baystars.co.jp/calendar/2026/07",
+      "resale": "https://ticket-resale.baystars.co.jp/purchase/match"
+    }
+  },
+  {
+    "date": "2026-07-10",
+    "match": {
+      "home": "中日",
+      "visitor": "広島"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://dragons-ticket.jp/Calendar.aspx",
+      "resale": "https://tradead.tixplus.jp/dragons/buy/bidding?month=7&year=2026"
+    }
+  },
+  {
+    "date": "2026-07-10",
+    "match": {
+      "home": "阪神",
+      "visitor": "ヤクルト"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://hanshintigers.jp/ticket/detail/20260710.html"
+    }
+  },
+  {
+    "date": "2026-07-10",
+    "match": {
+      "home": "日本ハム",
+      "visitor": "西武"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://ticket.fighters.co.jp/event/list/self/1",
+      "resale": "https://ticket.fighters.co.jp/event/list/resale/1"
+    }
+  },
+  {
+    "date": "2026-07-10",
+    "match": {
+      "home": "ロッテ",
+      "visitor": "オリックス"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://m-ticket.marines.co.jp/ticket/20260710",
+      "resale": "https://www.ticket.co.jp/sys/k/79881.htm?st=20260710"
+    }
+  },
+  {
+    "date": "2026-07-10",
+    "match": {
+      "home": "ソフトバンク",
+      "visitor": "楽天"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://ticket.softbankhawks.co.jp/game/select"
+    }
+  },
+  {
+    "date": "2026-07-11",
+    "match": {
+      "home": "DeNA",
+      "visitor": "巨人"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://ticketsales.baystars.co.jp/calendar/2026/07",
+      "resale": "https://ticket-resale.baystars.co.jp/purchase/match"
+    }
+  },
+  {
+    "date": "2026-07-11",
+    "match": {
+      "home": "中日",
+      "visitor": "広島"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://dragons-ticket.jp/Calendar.aspx",
+      "resale": "https://tradead.tixplus.jp/dragons/buy/bidding?month=7&year=2026"
+    }
+  },
+  {
+    "date": "2026-07-11",
+    "match": {
+      "home": "阪神",
+      "visitor": "ヤクルト"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://hanshintigers.jp/ticket/detail/20260711.html"
+    }
+  },
+  {
+    "date": "2026-07-11",
+    "match": {
+      "home": "日本ハム",
+      "visitor": "西武"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://ticket.fighters.co.jp/event/list/self/1",
+      "resale": "https://ticket.fighters.co.jp/event/list/resale/1"
+    }
+  },
+  {
+    "date": "2026-07-11",
+    "match": {
+      "home": "ロッテ",
+      "visitor": "オリックス"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://m-ticket.marines.co.jp/ticket/20260711",
+      "resale": "https://www.ticket.co.jp/sys/k/79881.htm?st=20260711"
+    }
+  },
+  {
+    "date": "2026-07-11",
+    "match": {
+      "home": "ソフトバンク",
+      "visitor": "楽天"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://ticket.softbankhawks.co.jp/game/select"
+    }
+  },
+  {
+    "date": "2026-07-12",
+    "match": {
+      "home": "DeNA",
+      "visitor": "巨人"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://ticketsales.baystars.co.jp/calendar/2026/07",
+      "resale": "https://ticket-resale.baystars.co.jp/purchase/match"
+    }
+  },
+  {
+    "date": "2026-07-12",
+    "match": {
+      "home": "中日",
+      "visitor": "広島"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://dragons-ticket.jp/Calendar.aspx",
+      "resale": "https://tradead.tixplus.jp/dragons/buy/bidding?month=7&year=2026"
+    }
+  },
+  {
+    "date": "2026-07-12",
+    "match": {
+      "home": "阪神",
+      "visitor": "ヤクルト"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://hanshintigers.jp/ticket/detail/20260712.html"
+    }
+  },
+  {
+    "date": "2026-07-12",
+    "match": {
+      "home": "日本ハム",
+      "visitor": "西武"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://ticket.fighters.co.jp/event/list/self/1",
+      "resale": "https://ticket.fighters.co.jp/event/list/resale/1"
+    }
+  },
+  {
+    "date": "2026-07-12",
+    "match": {
+      "home": "ロッテ",
+      "visitor": "オリックス"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://m-ticket.marines.co.jp/ticket/20260712",
+      "resale": "https://www.ticket.co.jp/sys/k/79881.htm?st=20260712"
+    }
+  },
+  {
+    "date": "2026-07-12",
+    "match": {
+      "home": "ソフトバンク",
+      "visitor": "楽天"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://ticket.softbankhawks.co.jp/game/select"
+    }
+  },
+  {
+    "date": "2026-07-14",
+    "match": {
+      "home": "ヤクルト",
+      "visitor": "巨人"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://ticket.yakult-swallows.co.jp/Calendar.aspx",
+      "resale": "https://tradead.tixplus.jp/swallows/buy/bidding?month=7&year=2026"
+    }
+  },
+  {
+    "date": "2026-07-14",
+    "match": {
+      "home": "中日",
+      "visitor": "阪神"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://dragons-ticket.jp/Calendar.aspx",
+      "resale": "https://tradead.tixplus.jp/dragons/buy/bidding?month=7&year=2026"
+    }
+  },
+  {
+    "date": "2026-07-14",
+    "match": {
+      "home": "広島",
+      "visitor": "DeNA"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://www.carp.co.jp/ticket/ticket/yoyaku_hoho.html"
+    }
+  },
+  {
+    "date": "2026-07-14",
+    "match": {
+      "home": "日本ハム",
+      "visitor": "ソフトバンク"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://ticket.fighters.co.jp/event/list/self/1",
+      "resale": "https://ticket.fighters.co.jp/event/list/resale/1"
+    }
+  },
+  {
+    "date": "2026-07-14",
+    "match": {
+      "home": "楽天",
+      "visitor": "オリックス"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://eagles.tstar.jp/seat260714",
+      "resale": "https://nft.rakuten.co.jp/marketplace/?type=ticket&sort=last_updated_date&limit=12&ticketlimit=6&provider=eagles&date=14-07-2026"
+    }
+  },
+  {
+    "date": "2026-07-14",
+    "match": {
+      "home": "西武",
+      "visitor": "ロッテ"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://ticket.seibulions.jp/event/venue/26071401",
+      "resale": [
+        "https://ticket.seibulions.jp/resale/venue/26071401",
+        "https://www.ticket.co.jp/sys/k/68848.htm?st=20260714"
+      ]
+    }
+  },
+  {
+    "date": "2026-07-15",
+    "match": {
+      "home": "ヤクルト",
+      "visitor": "巨人"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://ticket.yakult-swallows.co.jp/Calendar.aspx",
+      "resale": "https://tradead.tixplus.jp/swallows/buy/bidding?month=7&year=2026"
+    }
+  },
+  {
+    "date": "2026-07-15",
+    "match": {
+      "home": "中日",
+      "visitor": "阪神"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://dragons-ticket.jp/Calendar.aspx",
+      "resale": "https://tradead.tixplus.jp/dragons/buy/bidding?month=7&year=2026"
+    }
+  },
+  {
+    "date": "2026-07-15",
+    "match": {
+      "home": "広島",
+      "visitor": "DeNA"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://www.carp.co.jp/ticket/ticket/yoyaku_hoho.html"
+    }
+  },
+  {
+    "date": "2026-07-15",
+    "match": {
+      "home": "日本ハム",
+      "visitor": "ソフトバンク"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://ticket.fighters.co.jp/event/list/self/1",
+      "resale": "https://ticket.fighters.co.jp/event/list/resale/1"
+    }
+  },
+  {
+    "date": "2026-07-15",
+    "match": {
+      "home": "楽天",
+      "visitor": "オリックス"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://eagles.tstar.jp/seat260715",
+      "resale": "https://nft.rakuten.co.jp/marketplace/?type=ticket&sort=last_updated_date&limit=12&ticketlimit=6&provider=eagles&date=15-07-2026"
+    }
+  },
+  {
+    "date": "2026-07-15",
+    "match": {
+      "home": "西武",
+      "visitor": "ロッテ"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://ticket.seibulions.jp/event/venue/26071501",
+      "resale": [
+        "https://ticket.seibulions.jp/resale/venue/26071501",
+        "https://www.ticket.co.jp/sys/k/68848.htm?st=20260715"
+      ]
+    }
+  },
+  {
+    "date": "2026-07-16",
+    "match": {
+      "home": "ヤクルト",
+      "visitor": "巨人"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://ticket.yakult-swallows.co.jp/Calendar.aspx",
+      "resale": "https://tradead.tixplus.jp/swallows/buy/bidding?month=7&year=2026"
+    }
+  },
+  {
+    "date": "2026-07-16",
+    "match": {
+      "home": "中日",
+      "visitor": "阪神"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://dragons-ticket.jp/Calendar.aspx",
+      "resale": "https://tradead.tixplus.jp/dragons/buy/bidding?month=7&year=2026"
+    }
+  },
+  {
+    "date": "2026-07-16",
+    "match": {
+      "home": "日本ハム",
+      "visitor": "ソフトバンク"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://ticket.fighters.co.jp/event/list/self/1",
+      "resale": "https://ticket.fighters.co.jp/event/list/resale/1"
+    }
+  },
+  {
+    "date": "2026-07-16",
+    "match": {
+      "home": "楽天",
+      "visitor": "オリックス"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://eagles.tstar.jp/seat260716",
+      "resale": "https://nft.rakuten.co.jp/marketplace/?type=ticket&sort=last_updated_date&limit=12&ticketlimit=6&provider=eagles&date=16-07-2026"
+    }
+  },
+  {
+    "date": "2026-07-16",
+    "match": {
+      "home": "西武",
+      "visitor": "ロッテ"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://ticket.seibulions.jp/event/venue/26071601",
+      "resale": [
+        "https://ticket.seibulions.jp/resale/venue/26071601",
+        "https://www.ticket.co.jp/sys/k/68848.htm?st=20260716"
+      ]
+    }
+  },
+  {
+    "date": "2026-07-17",
+    "match": {
+      "home": "巨人",
+      "visitor": "中日"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://www.giants.jp/schedule/first-team/?month=202607",
+      "resale": "https://tradead.tixplus.jp/giants/buy/bidding?month=7&year=2026"
+    }
+  },
+  {
+    "date": "2026-07-17",
+    "match": {
+      "home": "DeNA",
+      "visitor": "ヤクルト"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://ticketsales.baystars.co.jp/calendar/2026/07",
+      "resale": "https://ticket-resale.baystars.co.jp/purchase/match"
+    }
+  },
+  {
+    "date": "2026-07-17",
+    "match": {
+      "home": "広島",
+      "visitor": "阪神"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://www.carp.co.jp/ticket/ticket/yoyaku_hoho.html"
+    }
+  },
+  {
+    "date": "2026-07-18",
+    "match": {
+      "home": "巨人",
+      "visitor": "中日"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://www.giants.jp/schedule/first-team/?month=202607",
+      "resale": "https://tradead.tixplus.jp/giants/buy/bidding?month=7&year=2026"
+    }
+  },
+  {
+    "date": "2026-07-18",
+    "match": {
+      "home": "DeNA",
+      "visitor": "ヤクルト"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://ticketsales.baystars.co.jp/calendar/2026/07",
+      "resale": "https://ticket-resale.baystars.co.jp/purchase/match"
+    }
+  },
+  {
+    "date": "2026-07-18",
+    "match": {
+      "home": "広島",
+      "visitor": "阪神"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://www.carp.co.jp/ticket/ticket/yoyaku_hoho.html"
+    }
+  },
+  {
+    "date": "2026-07-18",
+    "match": {
+      "home": "楽天",
+      "visitor": "西武"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://eagles.tstar.jp/seat260718",
+      "resale": "https://nft.rakuten.co.jp/marketplace/?type=ticket&sort=last_updated_date&limit=12&ticketlimit=6&provider=eagles&date=18-07-2026"
+    }
+  },
+  {
+    "date": "2026-07-18",
+    "match": {
+      "home": "ロッテ",
+      "visitor": "ソフトバンク"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://m-ticket.marines.co.jp/ticket/20260718",
+      "resale": "https://www.ticket.co.jp/sys/k/79881.htm?st=20260718"
+    }
+  },
+  {
+    "date": "2026-07-18",
+    "match": {
+      "home": "オリックス",
+      "visitor": "日本ハム"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://buffaloes.cnplayguide.com/ticket/20260718",
+      "resale": "https://www.ticket.co.jp/sys/k/79911.htm?st=20260718"
+    }
+  },
+  {
+    "date": "2026-07-19",
+    "match": {
+      "home": "巨人",
+      "visitor": "中日"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://www.giants.jp/schedule/first-team/?month=202607",
+      "resale": "https://tradead.tixplus.jp/giants/buy/bidding?month=7&year=2026"
+    }
+  },
+  {
+    "date": "2026-07-19",
+    "match": {
+      "home": "DeNA",
+      "visitor": "ヤクルト"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://ticketsales.baystars.co.jp/calendar/2026/07",
+      "resale": "https://ticket-resale.baystars.co.jp/purchase/match"
+    }
+  },
+  {
+    "date": "2026-07-19",
+    "match": {
+      "home": "広島",
+      "visitor": "阪神"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://www.carp.co.jp/ticket/ticket/yoyaku_hoho.html"
+    }
+  },
+  {
+    "date": "2026-07-19",
+    "match": {
+      "home": "楽天",
+      "visitor": "西武"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://eagles.tstar.jp/seat260719",
+      "resale": "https://nft.rakuten.co.jp/marketplace/?type=ticket&sort=last_updated_date&limit=12&ticketlimit=6&provider=eagles&date=19-07-2026"
+    }
+  },
+  {
+    "date": "2026-07-19",
+    "match": {
+      "home": "ロッテ",
+      "visitor": "ソフトバンク"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://m-ticket.marines.co.jp/ticket/20260719",
+      "resale": "https://www.ticket.co.jp/sys/k/79881.htm?st=20260719"
+    }
+  },
+  {
+    "date": "2026-07-19",
+    "match": {
+      "home": "オリックス",
+      "visitor": "日本ハム"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://buffaloes.cnplayguide.com/ticket/20260719",
+      "resale": "https://www.ticket.co.jp/sys/k/79911.htm?st=20260719"
+    }
+  },
+  {
+    "date": "2026-07-20",
+    "match": {
+      "home": "巨人",
+      "visitor": "広島"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://www.giants.jp/schedule/first-team/?month=202607",
+      "resale": "https://tradead.tixplus.jp/giants/buy/bidding?month=7&year=2026"
+    }
+  },
+  {
+    "date": "2026-07-20",
+    "match": {
+      "home": "ヤクルト",
+      "visitor": "中日"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://ticket.yakult-swallows.co.jp/Calendar.aspx",
+      "resale": "https://tradead.tixplus.jp/swallows/buy/bidding?month=7&year=2026"
+    }
+  },
+  {
+    "date": "2026-07-20",
+    "match": {
+      "home": "阪神",
+      "visitor": "DeNA"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://hanshintigers.jp/ticket/detail/20260720.html"
+    }
+  },
+  {
+    "date": "2026-07-20",
+    "match": {
+      "home": "楽天",
+      "visitor": "西武"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://eagles.tstar.jp/seat260720",
+      "resale": "https://nft.rakuten.co.jp/marketplace/?type=ticket&sort=last_updated_date&limit=12&ticketlimit=6&provider=eagles&date=20-07-2026"
+    }
+  },
+  {
+    "date": "2026-07-20",
+    "match": {
+      "home": "ロッテ",
+      "visitor": "ソフトバンク"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://m-ticket.marines.co.jp/ticket/20260720",
+      "resale": "https://www.ticket.co.jp/sys/k/79881.htm?st=20260720"
+    }
+  },
+  {
+    "date": "2026-07-20",
+    "match": {
+      "home": "オリックス",
+      "visitor": "日本ハム"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://buffaloes.cnplayguide.com/ticket/20260720",
+      "resale": "https://www.ticket.co.jp/sys/k/79911.htm?st=20260720"
+    }
+  },
+  {
+    "date": "2026-07-21",
+    "match": {
+      "home": "巨人",
+      "visitor": "広島"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://www.giants.jp/schedule/first-team/?month=202607",
+      "resale": "https://tradead.tixplus.jp/giants/buy/bidding?month=7&year=2026"
+    }
+  },
+  {
+    "date": "2026-07-21",
+    "match": {
+      "home": "ヤクルト",
+      "visitor": "中日"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://ticket.yakult-swallows.co.jp/Calendar.aspx",
+      "resale": "https://tradead.tixplus.jp/swallows/buy/bidding?month=7&year=2026"
+    }
+  },
+  {
+    "date": "2026-07-21",
+    "match": {
+      "home": "阪神",
+      "visitor": "DeNA"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://hanshintigers.jp/ticket/detail/20260721.html"
+    }
+  },
+  {
+    "date": "2026-07-21",
+    "match": {
+      "home": "ソフトバンク",
+      "visitor": "オリックス"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://ticket.softbankhawks.co.jp/game/select"
+    }
+  },
+  {
+    "date": "2026-07-22",
+    "match": {
+      "home": "巨人",
+      "visitor": "広島"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://www.giants.jp/schedule/first-team/?month=202607",
+      "resale": "https://tradead.tixplus.jp/giants/buy/bidding?month=7&year=2026"
+    }
+  },
+  {
+    "date": "2026-07-22",
+    "match": {
+      "home": "ヤクルト",
+      "visitor": "中日"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://ticket.yakult-swallows.co.jp/Calendar.aspx",
+      "resale": "https://tradead.tixplus.jp/swallows/buy/bidding?month=7&year=2026"
+    }
+  },
+  {
+    "date": "2026-07-22",
+    "match": {
+      "home": "阪神",
+      "visitor": "DeNA"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://hanshintigers.jp/ticket/detail/20260722.html"
+    }
+  },
+  {
+    "date": "2026-07-22",
+    "match": {
+      "home": "西武",
+      "visitor": "日本ハム"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://ticket.seibulions.jp/event/venue/26072201",
+      "resale": [
+        "https://ticket.seibulions.jp/resale/venue/26072201",
+        "https://www.ticket.co.jp/sys/k/68848.htm?st=20260722"
+      ]
+    }
+  },
+  {
+    "date": "2026-07-22",
+    "match": {
+      "home": "ロッテ",
+      "visitor": "楽天"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://m-ticket.marines.co.jp/ticket/20260722",
+      "resale": "https://www.ticket.co.jp/sys/k/79881.htm?st=20260722"
+    }
+  },
+  {
+    "date": "2026-07-22",
+    "match": {
+      "home": "ソフトバンク",
+      "visitor": "オリックス"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://ticket.softbankhawks.co.jp/game/select"
+    }
+  },
+  {
+    "date": "2026-07-23",
+    "match": {
+      "home": "西武",
+      "visitor": "日本ハム"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://ticket.seibulions.jp/event/venue/26072301",
+      "resale": [
+        "https://ticket.seibulions.jp/resale/venue/26072301",
+        "https://www.ticket.co.jp/sys/k/68848.htm?st=20260723"
+      ]
+    }
+  },
+  {
+    "date": "2026-07-23",
+    "match": {
+      "home": "ロッテ",
+      "visitor": "楽天"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://m-ticket.marines.co.jp/ticket/20260723",
+      "resale": "https://www.ticket.co.jp/sys/k/79881.htm?st=20260723"
+    }
+  },
+  {
+    "date": "2026-07-23",
+    "match": {
+      "home": "ソフトバンク",
+      "visitor": "オリックス"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://ticket.softbankhawks.co.jp/game/select"
+    }
+  },
+  {
+    "date": "2026-07-24",
+    "match": {
+      "home": "ヤクルト",
+      "visitor": "広島"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://ticket.yakult-swallows.co.jp/Calendar.aspx",
+      "resale": "https://tradead.tixplus.jp/swallows/buy/bidding?month=7&year=2026"
+    }
+  },
+  {
+    "date": "2026-07-24",
+    "match": {
+      "home": "中日",
+      "visitor": "DeNA"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://dragons-ticket.jp/Calendar.aspx",
+      "resale": "https://tradead.tixplus.jp/dragons/buy/bidding?month=7&year=2026"
+    }
+  },
+  {
+    "date": "2026-07-24",
+    "match": {
+      "home": "阪神",
+      "visitor": "巨人"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://hanshintigers.jp/ticket/detail/20260724.html"
+    }
+  },
+  {
+    "date": "2026-07-24",
+    "match": {
+      "home": "西武",
+      "visitor": "ソフトバンク"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://ticket.seibulions.jp/event/venue/26072401",
+      "resale": [
+        "https://ticket.seibulions.jp/resale/venue/26072401",
+        "https://www.ticket.co.jp/sys/k/68848.htm?st=20260724"
+      ]
+    }
+  },
+  {
+    "date": "2026-07-24",
+    "match": {
+      "home": "オリックス",
+      "visitor": "ロッテ"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://buffaloes.cnplayguide.com/ticket/20260724",
+      "resale": "https://www.ticket.co.jp/sys/k/79911.htm?st=20260724"
+    }
+  },
+  {
+    "date": "2026-07-25",
+    "match": {
+      "home": "ヤクルト",
+      "visitor": "広島"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://ticket.yakult-swallows.co.jp/Calendar.aspx",
+      "resale": "https://tradead.tixplus.jp/swallows/buy/bidding?month=7&year=2026"
+    }
+  },
+  {
+    "date": "2026-07-25",
+    "match": {
+      "home": "中日",
+      "visitor": "DeNA"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://dragons-ticket.jp/Calendar.aspx",
+      "resale": "https://tradead.tixplus.jp/dragons/buy/bidding?month=7&year=2026"
+    }
+  },
+  {
+    "date": "2026-07-25",
+    "match": {
+      "home": "阪神",
+      "visitor": "巨人"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://hanshintigers.jp/ticket/detail/20260725.html"
+    }
+  },
+  {
+    "date": "2026-07-25",
+    "match": {
+      "home": "日本ハム",
+      "visitor": "楽天"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://ticket.fighters.co.jp/event/list/self/1",
+      "resale": "https://ticket.fighters.co.jp/event/list/resale/1"
+    }
+  },
+  {
+    "date": "2026-07-25",
+    "match": {
+      "home": "西武",
+      "visitor": "ソフトバンク"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://ticket.seibulions.jp/event/venue/26072501",
+      "resale": [
+        "https://ticket.seibulions.jp/resale/venue/26072501",
+        "https://www.ticket.co.jp/sys/k/68848.htm?st=20260725"
+      ]
+    }
+  },
+  {
+    "date": "2026-07-25",
+    "match": {
+      "home": "オリックス",
+      "visitor": "ロッテ"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://buffaloes.cnplayguide.com/ticket/20260725",
+      "resale": "https://www.ticket.co.jp/sys/k/79911.htm?st=20260725"
+    }
+  },
+  {
+    "date": "2026-07-26",
+    "match": {
+      "home": "ヤクルト",
+      "visitor": "広島"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://ticket.yakult-swallows.co.jp/Calendar.aspx",
+      "resale": "https://tradead.tixplus.jp/swallows/buy/bidding?month=7&year=2026"
+    }
+  },
+  {
+    "date": "2026-07-26",
+    "match": {
+      "home": "中日",
+      "visitor": "DeNA"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://dragons-ticket.jp/Calendar.aspx",
+      "resale": "https://tradead.tixplus.jp/dragons/buy/bidding?month=7&year=2026"
+    }
+  },
+  {
+    "date": "2026-07-26",
+    "match": {
+      "home": "阪神",
+      "visitor": "巨人"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://hanshintigers.jp/ticket/detail/20260726.html"
+    }
+  },
+  {
+    "date": "2026-07-26",
+    "match": {
+      "home": "日本ハム",
+      "visitor": "楽天"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://ticket.fighters.co.jp/event/list/self/1",
+      "resale": "https://ticket.fighters.co.jp/event/list/resale/1"
+    }
+  },
+  {
+    "date": "2026-07-26",
+    "match": {
+      "home": "西武",
+      "visitor": "ソフトバンク"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://ticket.seibulions.jp/event/venue/26072601",
+      "resale": [
+        "https://ticket.seibulions.jp/resale/venue/26072601",
+        "https://www.ticket.co.jp/sys/k/68848.htm?st=20260726"
+      ]
+    }
+  },
+  {
+    "date": "2026-07-26",
+    "match": {
+      "home": "オリックス",
+      "visitor": "ロッテ"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://buffaloes.cnplayguide.com/ticket/20260726",
+      "resale": "https://www.ticket.co.jp/sys/k/79911.htm?st=20260726"
+    }
+  },
+  {
+    "date": "2026-07-31",
+    "match": {
+      "home": "巨人",
+      "visitor": "DeNA"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://www.giants.jp/schedule/first-team/?month=202607",
+      "resale": "https://tradead.tixplus.jp/giants/buy/bidding?month=7&year=2026"
+    }
+  },
+  {
+    "date": "2026-07-31",
+    "match": {
+      "home": "ヤクルト",
+      "visitor": "阪神"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://ticket.yakult-swallows.co.jp/Calendar.aspx",
+      "resale": "https://tradead.tixplus.jp/swallows/buy/bidding?month=7&year=2026"
+    }
+  },
+  {
+    "date": "2026-07-31",
+    "match": {
+      "home": "広島",
+      "visitor": "中日"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://www.carp.co.jp/ticket/ticket/yoyaku_hoho.html"
+    }
+  },
+  {
+    "date": "2026-07-31",
+    "match": {
+      "home": "日本ハム",
+      "visitor": "ロッテ"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://ticket.fighters.co.jp/event/list/self/1",
+      "resale": "https://ticket.fighters.co.jp/event/list/resale/1"
+    }
+  },
+  {
+    "date": "2026-07-31",
+    "match": {
+      "home": "楽天",
+      "visitor": "ソフトバンク"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://eagles.tstar.jp/seat260731",
+      "resale": "https://nft.rakuten.co.jp/marketplace/?type=ticket&sort=last_updated_date&limit=12&ticketlimit=6&provider=eagles&date=31-07-2026"
+    }
+  },
+  {
+    "date": "2026-07-31",
+    "match": {
+      "home": "西武",
+      "visitor": "オリックス"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://ticket.seibulions.jp/event/venue/26073101",
+      "resale": [
+        "https://ticket.seibulions.jp/resale/venue/26073101",
+        "https://www.ticket.co.jp/sys/k/68848.htm?st=20260731"
+      ]
+    }
+  }
+]
