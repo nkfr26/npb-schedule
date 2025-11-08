@@ -1,0 +1,30 @@
+[
+  {
+    "date": "2025-11-01",
+    "match": {
+      "home": "ソフトバンク",
+      "visitor": "阪神"
+    },
+    "info": {
+      "stadium": "みずほPayPay",
+      "time": "18:30"
+    },
+    "ticket": {
+      "primary": "https://ticket.softbankhawks.co.jp/game/select"
+    }
+  },
+  {
+    "date": "2025-11-02",
+    "match": {
+      "home": "ソフトバンク",
+      "visitor": "阪神"
+    },
+    "info": {
+      "stadium": "みずほPayPay",
+      "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://ticket.softbankhawks.co.jp/game/select"
+    }
+  }
+]

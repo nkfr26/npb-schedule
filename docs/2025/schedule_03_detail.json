@@ -1,0 +1,275 @@
+[
+  {
+    "date": "2025-03-28",
+    "match": {
+      "home": "巨人",
+      "visitor": "ヤクルト"
+    },
+    "info": {
+      "stadium": "東京ドーム",
+      "time": "18:15"
+    },
+    "ticket": {
+      "primary": "https://www.giants.jp/schedule/first-team/?month=202503",
+      "resale": "https://tradead.tixplus.jp/giants/buy/bidding?month=3&year=2025"
+    }
+  },
+  {
+    "date": "2025-03-28",
+    "match": {
+      "home": "DeNA",
+      "visitor": "中日"
+    },
+    "info": {
+      "stadium": "横浜",
+      "time": "18:30"
+    },
+    "ticket": {
+      "primary": "https://ticketsales.baystars.co.jp/calendar/2025/03",
+      "resale": "https://ticket-resale.baystars.co.jp/purchase/match"
+    }
+  },
+  {
+    "date": "2025-03-28",
+    "match": {
+      "home": "広島",
+      "visitor": "阪神"
+    },
+    "info": {
+      "stadium": "マツダスタジアム",
+      "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://www.carp.co.jp/ticket/ticket/yoyaku_hoho.html"
+    }
+  },
+  {
+    "date": "2025-03-28",
+    "match": {
+      "home": "西武",
+      "visitor": "日本ハム"
+    },
+    "info": {
+      "stadium": "ベルーナドーム",
+      "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://ticket.seibulions.jp/event/venue/25032801",
+      "resale": [
+        "https://ticket.seibulions.jp/resale/venue/25032801",
+        "https://www.ticket.co.jp/sys/k/68848.htm?st=20250328"
+      ]
+    }
+  },
+  {
+    "date": "2025-03-28",
+    "match": {
+      "home": "オリックス",
+      "visitor": "楽天"
+    },
+    "info": {
+      "stadium": "京セラD大阪",
+      "time": "18:30"
+    },
+    "ticket": {
+      "primary": "https://buffaloes.cnplayguide.com/ticket/20250328",
+      "resale": "https://www.ticket.co.jp/sys/k/79911.htm?st=20250328"
+    }
+  },
+  {
+    "date": "2025-03-28",
+    "match": {
+      "home": "ソフトバンク",
+      "visitor": "ロッテ"
+    },
+    "info": {
+      "stadium": "みずほPayPay",
+      "time": "18:30"
+    },
+    "ticket": {
+      "primary": "https://ticket.softbankhawks.co.jp/game/select"
+    }
+  },
+  {
+    "date": "2025-03-29",
+    "match": {
+      "home": "巨人",
+      "visitor": "ヤクルト"
+    },
+    "info": {
+      "stadium": "東京ドーム",
+      "time": "14:00"
+    },
+    "ticket": {
+      "primary": "https://www.giants.jp/schedule/first-team/?month=202503",
+      "resale": "https://tradead.tixplus.jp/giants/buy/bidding?month=3&year=2025"
+    }
+  },
+  {
+    "date": "2025-03-29",
+    "match": {
+      "home": "DeNA",
+      "visitor": "中日"
+    },
+    "info": {
+      "stadium": "横浜",
+      "time": "14:00"
+    },
+    "ticket": {
+      "primary": "https://ticketsales.baystars.co.jp/calendar/2025/03",
+      "resale": "https://ticket-resale.baystars.co.jp/purchase/match"
+    }
+  },
+  {
+    "date": "2025-03-29",
+    "match": {
+      "home": "広島",
+      "visitor": "阪神"
+    },
+    "info": {
+      "stadium": "マツダスタジアム",
+      "time": "14:00"
+    },
+    "ticket": {
+      "primary": "https://www.carp.co.jp/ticket/ticket/yoyaku_hoho.html"
+    }
+  },
+  {
+    "date": "2025-03-29",
+    "match": {
+      "home": "西武",
+      "visitor": "日本ハム"
+    },
+    "info": {
+      "stadium": "ベルーナドーム",
+      "time": "14:00"
+    },
+    "ticket": {
+      "primary": "https://ticket.seibulions.jp/event/venue/25032901",
+      "resale": [
+        "https://ticket.seibulions.jp/resale/venue/25032901",
+        "https://www.ticket.co.jp/sys/k/68848.htm?st=20250329"
+      ]
+    }
+  },
+  {
+    "date": "2025-03-29",
+    "match": {
+      "home": "オリックス",
+      "visitor": "楽天"
+    },
+    "info": {
+      "stadium": "京セラD大阪",
+      "time": "14:00"
+    },
+    "ticket": {
+      "primary": "https://buffaloes.cnplayguide.com/ticket/20250329",
+      "resale": "https://www.ticket.co.jp/sys/k/79911.htm?st=20250329"
+    }
+  },
+  {
+    "date": "2025-03-29",
+    "match": {
+      "home": "ソフトバンク",
+      "visitor": "ロッテ"
+    },
+    "info": {
+      "stadium": "みずほPayPay",
+      "time": "14:00"
+    },
+    "ticket": {
+      "primary": "https://ticket.softbankhawks.co.jp/game/select"
+    }
+  },
+  {
+    "date": "2025-03-30",
+    "match": {
+      "home": "巨人",
+      "visitor": "ヤクルト"
+    },
+    "info": {
+      "stadium": "東京ドーム",
+      "time": "14:00"
+    },
+    "ticket": {
+      "primary": "https://www.giants.jp/schedule/first-team/?month=202503",
+      "resale": "https://tradead.tixplus.jp/giants/buy/bidding?month=3&year=2025"
+    }
+  },
+  {
+    "date": "2025-03-30",
+    "match": {
+      "home": "DeNA",
+      "visitor": "中日"
+    },
+    "info": {
+      "stadium": "横浜",
+      "time": "14:00"
+    },
+    "ticket": {
+      "primary": "https://ticketsales.baystars.co.jp/calendar/2025/03",
+      "resale": "https://ticket-resale.baystars.co.jp/purchase/match"
+    }
+  },
+  {
+    "date": "2025-03-30",
+    "match": {
+      "home": "広島",
+      "visitor": "阪神"
+    },
+    "info": {
+      "stadium": "マツダスタジアム",
+      "time": "13:30"
+    },
+    "ticket": {
+      "primary": "https://www.carp.co.jp/ticket/ticket/yoyaku_hoho.html"
+    }
+  },
+  {
+    "date": "2025-03-30",
+    "match": {
+      "home": "西武",
+      "visitor": "日本ハム"
+    },
+    "info": {
+      "stadium": "ベルーナドーム",
+      "time": "13:00"
+    },
+    "ticket": {
+      "primary": "https://ticket.seibulions.jp/event/venue/25033001",
+      "resale": [
+        "https://ticket.seibulions.jp/resale/venue/25033001",
+        "https://www.ticket.co.jp/sys/k/68848.htm?st=20250330"
+      ]
+    }
+  },
+  {
+    "date": "2025-03-30",
+    "match": {
+      "home": "オリックス",
+      "visitor": "楽天"
+    },
+    "info": {
+      "stadium": "京セラD大阪",
+      "time": "13:00"
+    },
+    "ticket": {
+      "primary": "https://buffaloes.cnplayguide.com/ticket/20250330",
+      "resale": "https://www.ticket.co.jp/sys/k/79911.htm?st=20250330"
+    }
+  },
+  {
+    "date": "2025-03-30",
+    "match": {
+      "home": "ソフトバンク",
+      "visitor": "ロッテ"
+    },
+    "info": {
+      "stadium": "みずほPayPay",
+      "time": "13:00"
+    },
+    "ticket": {
+      "primary": "https://ticket.softbankhawks.co.jp/game/select"
+    }
+  }
+]
