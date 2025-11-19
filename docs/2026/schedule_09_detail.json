@@ -1729,19 +1729,5 @@
       "primary": "https://eagles.tstar.jp/seat260930",
       "resale": "https://nft.rakuten.co.jp/marketplace/?type=ticket&sort=last_updated_date&limit=12&ticketlimit=6&provider=eagles&date=30-09-2026"
     }
-  },
-  {
-    "date": "2026-09-30",
-    "match": {
-      "home": "ソフトバンク",
-      "visitor": "西武"
-    },
-    "info": {
-      "stadium": "",
-      "time": ""
-    },
-    "ticket": {
-      "primary": "https://ticket.softbankhawks.co.jp/game/select"
-    }
   }
 ]

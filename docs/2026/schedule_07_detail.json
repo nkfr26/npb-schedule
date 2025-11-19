@@ -59,6 +59,20 @@
     }
   },
   {
+    "date": "2026-07-01",
+    "match": {
+      "home": "ソフトバンク",
+      "visitor": "西武"
+    },
+    "info": {
+      "stadium": "",
+      "time": ""
+    },
+    "ticket": {
+      "primary": "https://ticket.softbankhawks.co.jp/game/select"
+    }
+  },
+  {
     "date": "2026-07-02",
     "match": {
       "home": "DeNA",
