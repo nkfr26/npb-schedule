@@ -6,8 +6,8 @@
       "visitor": "阪神"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "東京ドーム",
+      "time": "18:15"
     },
     "ticket": {
       "primary": "https://www.giants.jp/schedule/first-team/?month=202603",
@@ -21,8 +21,8 @@
       "visitor": "ヤクルト"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "横浜",
+      "time": "18:30"
     },
     "ticket": {
       "primary": "https://ticketsales.baystars.co.jp/calendar/2026/03",
@@ -36,8 +36,8 @@
       "visitor": "中日"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "マツダスタジアム",
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://www.carp.co.jp/ticket/ticket/yoyaku_hoho.html"
@@ -94,8 +94,8 @@
       "visitor": "阪神"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "東京ドーム",
+      "time": "14:00"
     },
     "ticket": {
       "primary": "https://www.giants.jp/schedule/first-team/?month=202603",
@@ -109,8 +109,8 @@
       "visitor": "ヤクルト"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "横浜",
+      "time": "14:00"
     },
     "ticket": {
       "primary": "https://ticketsales.baystars.co.jp/calendar/2026/03",
@@ -124,8 +124,8 @@
       "visitor": "中日"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "マツダスタジアム",
+      "time": "14:00"
     },
     "ticket": {
       "primary": "https://www.carp.co.jp/ticket/ticket/yoyaku_hoho.html"
@@ -182,8 +182,8 @@
       "visitor": "阪神"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "東京ドーム",
+      "time": "14:00"
     },
     "ticket": {
       "primary": "https://www.giants.jp/schedule/first-team/?month=202603",
@@ -197,8 +197,8 @@
       "visitor": "ヤクルト"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "横浜",
+      "time": "14:00"
     },
     "ticket": {
       "primary": "https://ticketsales.baystars.co.jp/calendar/2026/03",
@@ -212,8 +212,8 @@
       "visitor": "中日"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "マツダスタジアム",
+      "time": "13:30"
     },
     "ticket": {
       "primary": "https://www.carp.co.jp/ticket/ticket/yoyaku_hoho.html"
@@ -270,8 +270,8 @@
       "visitor": "広島"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "神宮",
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://ticket.yakult-swallows.co.jp/Calendar.aspx",
@@ -285,8 +285,8 @@
       "visitor": "巨人"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "バンテリンドーム",
+      "time": "18:15"
     },
     "ticket": {
       "primary": "https://dragons-ticket.jp/Calendar.aspx",
@@ -301,7 +301,7 @@
     },
     "info": {
       "stadium": "京セラD大阪",
-      "time": ""
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://hanshintigers.jp/ticket/detail/20260331.html"

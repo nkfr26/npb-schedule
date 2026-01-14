@@ -6,8 +6,8 @@
       "visitor": "DeNA"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "東京ドーム",
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://www.giants.jp/schedule/first-team/?month=202608",
@@ -21,8 +21,8 @@
       "visitor": "阪神"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "神宮",
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://ticket.yakult-swallows.co.jp/Calendar.aspx",
@@ -36,8 +36,8 @@
       "visitor": "中日"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "マツダスタジアム",
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://www.carp.co.jp/ticket/ticket/yoyaku_hoho.html"
@@ -98,8 +98,8 @@
       "visitor": "DeNA"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "東京ドーム",
+      "time": "14:00"
     },
     "ticket": {
       "primary": "https://www.giants.jp/schedule/first-team/?month=202608",
@@ -113,8 +113,8 @@
       "visitor": "阪神"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "神宮",
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://ticket.yakult-swallows.co.jp/Calendar.aspx",
@@ -128,8 +128,8 @@
       "visitor": "中日"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "マツダスタジアム",
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://www.carp.co.jp/ticket/ticket/yoyaku_hoho.html"
@@ -205,8 +205,8 @@
       "visitor": "阪神"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "横浜",
+      "time": "17:45"
     },
     "ticket": {
       "primary": "https://ticketsales.baystars.co.jp/calendar/2026/08",
@@ -220,8 +220,8 @@
       "visitor": "ヤクルト"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "バンテリンドーム",
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://dragons-ticket.jp/Calendar.aspx",
@@ -235,8 +235,8 @@
       "visitor": "巨人"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "マツダスタジアム",
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://www.carp.co.jp/ticket/ticket/yoyaku_hoho.html"
@@ -278,8 +278,8 @@
       "visitor": "阪神"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "横浜",
+      "time": "17:45"
     },
     "ticket": {
       "primary": "https://ticketsales.baystars.co.jp/calendar/2026/08",
@@ -293,8 +293,8 @@
       "visitor": "ヤクルト"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "バンテリンドーム",
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://dragons-ticket.jp/Calendar.aspx",
@@ -308,8 +308,8 @@
       "visitor": "巨人"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "マツダスタジアム",
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://www.carp.co.jp/ticket/ticket/yoyaku_hoho.html"
@@ -366,8 +366,8 @@
       "visitor": "阪神"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "横浜",
+      "time": "17:45"
     },
     "ticket": {
       "primary": "https://ticketsales.baystars.co.jp/calendar/2026/08",
@@ -381,8 +381,8 @@
       "visitor": "ヤクルト"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "バンテリンドーム",
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://dragons-ticket.jp/Calendar.aspx",
@@ -396,8 +396,8 @@
       "visitor": "巨人"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "マツダスタジアム",
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://www.carp.co.jp/ticket/ticket/yoyaku_hoho.html"
@@ -439,8 +439,8 @@
       "visitor": "ヤクルト"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "東京ドーム",
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://www.giants.jp/schedule/first-team/?month=202608",
@@ -454,8 +454,8 @@
       "visitor": "広島"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "横浜",
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://ticketsales.baystars.co.jp/calendar/2026/08",
@@ -470,7 +470,7 @@
     },
     "info": {
       "stadium": "京セラD大阪",
-      "time": ""
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://hanshintigers.jp/ticket/detail/20260807.html"
@@ -531,8 +531,8 @@
       "visitor": "ヤクルト"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "東京ドーム",
+      "time": "15:00"
     },
     "ticket": {
       "primary": "https://www.giants.jp/schedule/first-team/?month=202608",
@@ -546,8 +546,8 @@
       "visitor": "広島"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "横浜",
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://ticketsales.baystars.co.jp/calendar/2026/08",
@@ -562,7 +562,7 @@
     },
     "info": {
       "stadium": "京セラD大阪",
-      "time": ""
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://hanshintigers.jp/ticket/detail/20260808.html"
@@ -623,8 +623,8 @@
       "visitor": "ヤクルト"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "東京ドーム",
+      "time": "14:00"
     },
     "ticket": {
       "primary": "https://www.giants.jp/schedule/first-team/?month=202608",
@@ -638,8 +638,8 @@
       "visitor": "広島"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "横浜",
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://ticketsales.baystars.co.jp/calendar/2026/08",
@@ -654,7 +654,7 @@
     },
     "info": {
       "stadium": "京セラD大阪",
-      "time": ""
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://hanshintigers.jp/ticket/detail/20260809.html"
@@ -715,8 +715,8 @@
       "visitor": "阪神"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "東京ドーム",
+      "time": "14:00"
     },
     "ticket": {
       "primary": "https://www.giants.jp/schedule/first-team/?month=202608",
@@ -730,8 +730,8 @@
       "visitor": "広島"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "神宮",
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://ticket.yakult-swallows.co.jp/Calendar.aspx",
@@ -745,8 +745,8 @@
       "visitor": "DeNA"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "バンテリンドーム",
+      "time": "14:00"
     },
     "ticket": {
       "primary": "https://dragons-ticket.jp/Calendar.aspx",
@@ -804,8 +804,8 @@
       "visitor": "阪神"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "東京ドーム",
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://www.giants.jp/schedule/first-team/?month=202608",
@@ -819,8 +819,8 @@
       "visitor": "広島"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "神宮",
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://ticket.yakult-swallows.co.jp/Calendar.aspx",
@@ -834,8 +834,8 @@
       "visitor": "DeNA"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "バンテリンドーム",
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://dragons-ticket.jp/Calendar.aspx",
@@ -893,8 +893,8 @@
       "visitor": "阪神"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "東京ドーム",
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://www.giants.jp/schedule/first-team/?month=202608",
@@ -908,8 +908,8 @@
       "visitor": "広島"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "神宮",
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://ticket.yakult-swallows.co.jp/Calendar.aspx",
@@ -923,8 +923,8 @@
       "visitor": "DeNA"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "バンテリンドーム",
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://dragons-ticket.jp/Calendar.aspx",
@@ -982,8 +982,8 @@
       "visitor": "DeNA"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "神宮",
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://ticket.yakult-swallows.co.jp/Calendar.aspx",
@@ -997,8 +997,8 @@
       "visitor": "巨人"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "バンテリンドーム",
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://dragons-ticket.jp/Calendar.aspx",
@@ -1012,8 +1012,8 @@
       "visitor": "阪神"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "マツダスタジアム",
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://www.carp.co.jp/ticket/ticket/yoyaku_hoho.html"
@@ -1073,8 +1073,8 @@
       "visitor": "DeNA"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "神宮",
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://ticket.yakult-swallows.co.jp/Calendar.aspx",
@@ -1088,8 +1088,8 @@
       "visitor": "巨人"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "バンテリンドーム",
+      "time": "14:00"
     },
     "ticket": {
       "primary": "https://dragons-ticket.jp/Calendar.aspx",
@@ -1103,8 +1103,8 @@
       "visitor": "阪神"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "マツダスタジアム",
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://www.carp.co.jp/ticket/ticket/yoyaku_hoho.html"
@@ -1164,8 +1164,8 @@
       "visitor": "DeNA"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "神宮",
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://ticket.yakult-swallows.co.jp/Calendar.aspx",
@@ -1179,8 +1179,8 @@
       "visitor": "巨人"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "バンテリンドーム",
+      "time": "13:30"
     },
     "ticket": {
       "primary": "https://dragons-ticket.jp/Calendar.aspx",
@@ -1194,8 +1194,8 @@
       "visitor": "阪神"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "マツダスタジアム",
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://www.carp.co.jp/ticket/ticket/yoyaku_hoho.html"
@@ -1255,8 +1255,8 @@
       "visitor": "巨人"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "横浜",
+      "time": "17:45"
     },
     "ticket": {
       "primary": "https://ticketsales.baystars.co.jp/calendar/2026/08",
@@ -1271,7 +1271,7 @@
     },
     "info": {
       "stadium": "京セラD大阪",
-      "time": ""
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://hanshintigers.jp/ticket/detail/20260818.html"
@@ -1284,8 +1284,8 @@
       "visitor": "中日"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "マツダスタジアム",
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://www.carp.co.jp/ticket/ticket/yoyaku_hoho.html"
@@ -1346,8 +1346,8 @@
       "visitor": "巨人"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "横浜",
+      "time": "17:45"
     },
     "ticket": {
       "primary": "https://ticketsales.baystars.co.jp/calendar/2026/08",
@@ -1362,7 +1362,7 @@
     },
     "info": {
       "stadium": "京セラD大阪",
-      "time": ""
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://hanshintigers.jp/ticket/detail/20260819.html"
@@ -1375,8 +1375,8 @@
       "visitor": "中日"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "マツダスタジアム",
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://www.carp.co.jp/ticket/ticket/yoyaku_hoho.html"
@@ -1437,8 +1437,8 @@
       "visitor": "巨人"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "横浜",
+      "time": "17:45"
     },
     "ticket": {
       "primary": "https://ticketsales.baystars.co.jp/calendar/2026/08",
@@ -1453,7 +1453,7 @@
     },
     "info": {
       "stadium": "京セラD大阪",
-      "time": ""
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://hanshintigers.jp/ticket/detail/20260820.html"
@@ -1466,8 +1466,8 @@
       "visitor": "中日"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "マツダスタジアム",
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://www.carp.co.jp/ticket/ticket/yoyaku_hoho.html"
@@ -1528,8 +1528,8 @@
       "visitor": "広島"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "東京ドーム",
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://www.giants.jp/schedule/first-team/?month=202608",
@@ -1543,8 +1543,8 @@
       "visitor": "阪神"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "横浜",
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://ticketsales.baystars.co.jp/calendar/2026/08",
@@ -1558,8 +1558,8 @@
       "visitor": "ヤクルト"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "バンテリンドーム",
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://dragons-ticket.jp/Calendar.aspx",
@@ -1603,8 +1603,8 @@
       "visitor": "広島"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "東京ドーム",
+      "time": "14:00"
     },
     "ticket": {
       "primary": "https://www.giants.jp/schedule/first-team/?month=202608",
@@ -1618,8 +1618,8 @@
       "visitor": "阪神"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "横浜",
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://ticketsales.baystars.co.jp/calendar/2026/08",
@@ -1633,8 +1633,8 @@
       "visitor": "ヤクルト"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "バンテリンドーム",
+      "time": "14:00"
     },
     "ticket": {
       "primary": "https://dragons-ticket.jp/Calendar.aspx",
@@ -1692,8 +1692,8 @@
       "visitor": "広島"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "東京ドーム",
+      "time": "14:00"
     },
     "ticket": {
       "primary": "https://www.giants.jp/schedule/first-team/?month=202608",
@@ -1707,8 +1707,8 @@
       "visitor": "阪神"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "横浜",
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://ticketsales.baystars.co.jp/calendar/2026/08",
@@ -1722,8 +1722,8 @@
       "visitor": "ヤクルト"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "バンテリンドーム",
+      "time": "13:30"
     },
     "ticket": {
       "primary": "https://dragons-ticket.jp/Calendar.aspx",
@@ -1781,8 +1781,8 @@
       "visitor": "巨人"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "神宮",
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://ticket.yakult-swallows.co.jp/Calendar.aspx",
@@ -1796,8 +1796,8 @@
       "visitor": "阪神"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "バンテリンドーム",
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://dragons-ticket.jp/Calendar.aspx",
@@ -1811,8 +1811,8 @@
       "visitor": "DeNA"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "マツダスタジアム",
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://www.carp.co.jp/ticket/ticket/yoyaku_hoho.html"
@@ -1873,8 +1873,8 @@
       "visitor": "巨人"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "神宮",
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://ticket.yakult-swallows.co.jp/Calendar.aspx",
@@ -1888,8 +1888,8 @@
       "visitor": "阪神"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "バンテリンドーム",
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://dragons-ticket.jp/Calendar.aspx",
@@ -1903,8 +1903,8 @@
       "visitor": "DeNA"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "マツダスタジアム",
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://www.carp.co.jp/ticket/ticket/yoyaku_hoho.html"
@@ -1965,8 +1965,8 @@
       "visitor": "巨人"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "神宮",
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://ticket.yakult-swallows.co.jp/Calendar.aspx",
@@ -1980,8 +1980,8 @@
       "visitor": "阪神"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "バンテリンドーム",
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://dragons-ticket.jp/Calendar.aspx",
@@ -1995,8 +1995,8 @@
       "visitor": "DeNA"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "マツダスタジアム",
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://www.carp.co.jp/ticket/ticket/yoyaku_hoho.html"
@@ -2039,8 +2039,8 @@
       "visitor": "中日"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "横浜",
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://ticketsales.baystars.co.jp/calendar/2026/08",
@@ -2054,8 +2054,8 @@
       "visitor": "巨人"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "甲子園",
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://hanshintigers.jp/ticket/detail/20260828.html"
@@ -2068,8 +2068,8 @@
       "visitor": "ヤクルト"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "マツダスタジアム",
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://www.carp.co.jp/ticket/ticket/yoyaku_hoho.html"
@@ -2130,8 +2130,8 @@
       "visitor": "中日"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "横浜",
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://ticketsales.baystars.co.jp/calendar/2026/08",
@@ -2145,8 +2145,8 @@
       "visitor": "巨人"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "甲子園",
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://hanshintigers.jp/ticket/detail/20260829.html"
@@ -2159,8 +2159,8 @@
       "visitor": "ヤクルト"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "マツダスタジアム",
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://www.carp.co.jp/ticket/ticket/yoyaku_hoho.html"
@@ -2221,8 +2221,8 @@
       "visitor": "中日"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "横浜",
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://ticketsales.baystars.co.jp/calendar/2026/08",
@@ -2236,8 +2236,8 @@
       "visitor": "巨人"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "甲子園",
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://hanshintigers.jp/ticket/detail/20260830.html"
@@ -2250,8 +2250,8 @@
       "visitor": "ヤクルト"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "マツダスタジアム",
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://www.carp.co.jp/ticket/ticket/yoyaku_hoho.html"
