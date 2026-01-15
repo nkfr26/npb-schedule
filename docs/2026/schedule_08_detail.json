@@ -50,8 +50,8 @@
       "visitor": "ロッテ"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "エスコンＦ",
+      "time": "14:00"
     },
     "ticket": {
       "primary": "https://ticket.fighters.co.jp/event/list/self/1",
@@ -65,8 +65,8 @@
       "visitor": "ソフトバンク"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "楽天モバイル",
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://eagles.tstar.jp/seat260801",
@@ -80,8 +80,8 @@
       "visitor": "オリックス"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "ベルーナドーム",
+      "time": "17:00"
     },
     "ticket": {
       "primary": "https://ticket.seibulions.jp/event/venue/26080101",
@@ -142,8 +142,8 @@
       "visitor": "ロッテ"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "エスコンＦ",
+      "time": "13:00"
     },
     "ticket": {
       "primary": "https://ticket.fighters.co.jp/event/list/self/1",
@@ -157,8 +157,8 @@
       "visitor": "ソフトバンク"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "楽天モバイル",
+      "time": "16:00"
     },
     "ticket": {
       "primary": "https://eagles.tstar.jp/seat260802",
@@ -172,8 +172,8 @@
       "visitor": "オリックス"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "ベルーナドーム",
+      "time": "17:00"
     },
     "ticket": {
       "primary": "https://ticket.seibulions.jp/event/venue/26080201",
@@ -191,7 +191,7 @@
     },
     "info": {
       "stadium": "東京ドーム",
-      "time": ""
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://buffaloes.cnplayguide.com/ticket/20260803",
@@ -249,8 +249,8 @@
       "visitor": "西武"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "ZOZOマリン",
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://m-ticket.marines.co.jp/ticket/20260804",
@@ -265,7 +265,7 @@
     },
     "info": {
       "stadium": "京セラD大阪",
-      "time": ""
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://ticket.softbankhawks.co.jp/game/select"
@@ -322,8 +322,8 @@
       "visitor": "西武"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "ZOZOマリン",
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://m-ticket.marines.co.jp/ticket/20260805",
@@ -337,8 +337,8 @@
       "visitor": "楽天"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "京セラD大阪",
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://buffaloes.cnplayguide.com/ticket/20260805",
@@ -352,8 +352,8 @@
       "visitor": "日本ハム"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "みずほPayPay",
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://ticket.softbankhawks.co.jp/game/select"
@@ -410,8 +410,8 @@
       "visitor": "楽天"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "京セラD大阪",
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://buffaloes.cnplayguide.com/ticket/20260806",
@@ -425,8 +425,8 @@
       "visitor": "日本ハム"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "みずほPayPay",
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://ticket.softbankhawks.co.jp/game/select"
@@ -483,8 +483,8 @@
       "visitor": "楽天"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "エスコンＦ",
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://ticket.fighters.co.jp/event/list/self/1",
@@ -498,8 +498,8 @@
       "visitor": "ソフトバンク"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "ベルーナドーム",
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://ticket.seibulions.jp/event/venue/26080701",
@@ -516,8 +516,8 @@
       "visitor": "オリックス"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "ZOZOマリン",
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://m-ticket.marines.co.jp/ticket/20260807",
@@ -575,8 +575,8 @@
       "visitor": "楽天"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "エスコンＦ",
+      "time": "15:00"
     },
     "ticket": {
       "primary": "https://ticket.fighters.co.jp/event/list/self/1",
@@ -590,8 +590,8 @@
       "visitor": "ソフトバンク"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "ベルーナドーム",
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://ticket.seibulions.jp/event/venue/26080801",
@@ -608,8 +608,8 @@
       "visitor": "オリックス"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "ZOZOマリン",
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://m-ticket.marines.co.jp/ticket/20260808",
@@ -667,8 +667,8 @@
       "visitor": "楽天"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "エスコンＦ",
+      "time": "14:00"
     },
     "ticket": {
       "primary": "https://ticket.fighters.co.jp/event/list/self/1",
@@ -682,8 +682,8 @@
       "visitor": "ソフトバンク"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "ベルーナドーム",
+      "time": "17:00"
     },
     "ticket": {
       "primary": "https://ticket.seibulions.jp/event/venue/26080901",
@@ -700,8 +700,8 @@
       "visitor": "オリックス"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "ZOZOマリン",
+      "time": "17:00"
     },
     "ticket": {
       "primary": "https://m-ticket.marines.co.jp/ticket/20260809",
@@ -760,8 +760,8 @@
       "visitor": "西武"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "エスコンＦ",
+      "time": "14:00"
     },
     "ticket": {
       "primary": "https://ticket.fighters.co.jp/event/list/self/1",
@@ -775,8 +775,8 @@
       "visitor": "オリックス"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "楽天モバイル",
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://eagles.tstar.jp/seat260811",
@@ -790,8 +790,8 @@
       "visitor": "ロッテ"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "みずほPayPay",
+      "time": "14:00"
     },
     "ticket": {
       "primary": "https://ticket.softbankhawks.co.jp/game/select"
@@ -849,8 +849,8 @@
       "visitor": "西武"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "エスコンＦ",
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://ticket.fighters.co.jp/event/list/self/1",
@@ -864,8 +864,8 @@
       "visitor": "オリックス"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "楽天モバイル",
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://eagles.tstar.jp/seat260812",
@@ -879,8 +879,8 @@
       "visitor": "ロッテ"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "みずほPayPay",
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://ticket.softbankhawks.co.jp/game/select"
@@ -938,8 +938,8 @@
       "visitor": "西武"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "エスコンＦ",
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://ticket.fighters.co.jp/event/list/self/1",
@@ -953,8 +953,8 @@
       "visitor": "オリックス"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "楽天モバイル",
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://eagles.tstar.jp/seat260813",
@@ -968,8 +968,8 @@
       "visitor": "ロッテ"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "みずほPayPay",
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://ticket.softbankhawks.co.jp/game/select"
@@ -1026,8 +1026,8 @@
       "visitor": "ロッテ"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "ベルーナドーム",
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://ticket.seibulions.jp/event/venue/26081401",
@@ -1044,8 +1044,8 @@
       "visitor": "日本ハム"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "京セラD大阪",
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://buffaloes.cnplayguide.com/ticket/20260814",
@@ -1059,8 +1059,8 @@
       "visitor": "楽天"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "みずほPayPay",
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://ticket.softbankhawks.co.jp/game/select"
@@ -1117,8 +1117,8 @@
       "visitor": "ロッテ"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "ベルーナドーム",
+      "time": "17:00"
     },
     "ticket": {
       "primary": "https://ticket.seibulions.jp/event/venue/26081501",
@@ -1135,8 +1135,8 @@
       "visitor": "日本ハム"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "京セラD大阪",
+      "time": "14:00"
     },
     "ticket": {
       "primary": "https://buffaloes.cnplayguide.com/ticket/20260815",
@@ -1150,8 +1150,8 @@
       "visitor": "楽天"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "みずほPayPay",
+      "time": "14:00"
     },
     "ticket": {
       "primary": "https://ticket.softbankhawks.co.jp/game/select"
@@ -1208,8 +1208,8 @@
       "visitor": "ロッテ"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "ベルーナドーム",
+      "time": "17:00"
     },
     "ticket": {
       "primary": "https://ticket.seibulions.jp/event/venue/26081601",
@@ -1226,8 +1226,8 @@
       "visitor": "日本ハム"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "京セラD大阪",
+      "time": "13:00"
     },
     "ticket": {
       "primary": "https://buffaloes.cnplayguide.com/ticket/20260816",
@@ -1241,8 +1241,8 @@
       "visitor": "楽天"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "みずほPayPay",
+      "time": "13:00"
     },
     "ticket": {
       "primary": "https://ticket.softbankhawks.co.jp/game/select"
@@ -1298,8 +1298,8 @@
       "visitor": "ソフトバンク"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "エスコンＦ",
+      "time": "14:00"
     },
     "ticket": {
       "primary": "https://ticket.fighters.co.jp/event/list/self/1",
@@ -1313,8 +1313,8 @@
       "visitor": "ロッテ"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "楽天モバイル",
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://eagles.tstar.jp/seat260818",
@@ -1329,7 +1329,7 @@
     },
     "info": {
       "stadium": "東京ドーム",
-      "time": ""
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://ticket.seibulions.jp/event/venue/26081801",
@@ -1389,8 +1389,8 @@
       "visitor": "ソフトバンク"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "エスコンＦ",
+      "time": "14:00"
     },
     "ticket": {
       "primary": "https://ticket.fighters.co.jp/event/list/self/1",
@@ -1404,8 +1404,8 @@
       "visitor": "ロッテ"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "楽天モバイル",
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://eagles.tstar.jp/seat260819",
@@ -1419,8 +1419,8 @@
       "visitor": "オリックス"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "ベルーナドーム",
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://ticket.seibulions.jp/event/venue/26081901",
@@ -1480,8 +1480,8 @@
       "visitor": "ソフトバンク"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "エスコンＦ",
+      "time": "14:00"
     },
     "ticket": {
       "primary": "https://ticket.fighters.co.jp/event/list/self/1",
@@ -1495,8 +1495,8 @@
       "visitor": "ロッテ"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "楽天モバイル",
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://eagles.tstar.jp/seat260820",
@@ -1510,8 +1510,8 @@
       "visitor": "オリックス"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "ベルーナドーム",
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://ticket.seibulions.jp/event/venue/26082001",
@@ -1573,8 +1573,8 @@
       "visitor": "西武"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "楽天モバイル",
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://eagles.tstar.jp/seat260821",
@@ -1588,8 +1588,8 @@
       "visitor": "日本ハム"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "ZOZOマリン",
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://m-ticket.marines.co.jp/ticket/20260821",
@@ -1648,8 +1648,8 @@
       "visitor": "西武"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "楽天モバイル",
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://eagles.tstar.jp/seat260822",
@@ -1663,8 +1663,8 @@
       "visitor": "日本ハム"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "ZOZOマリン",
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://m-ticket.marines.co.jp/ticket/20260822",
@@ -1678,8 +1678,8 @@
       "visitor": "オリックス"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "みずほPayPay",
+      "time": "14:00"
     },
     "ticket": {
       "primary": "https://ticket.softbankhawks.co.jp/game/select"
@@ -1737,8 +1737,8 @@
       "visitor": "西武"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "楽天モバイル",
+      "time": "16:00"
     },
     "ticket": {
       "primary": "https://eagles.tstar.jp/seat260823",
@@ -1752,8 +1752,8 @@
       "visitor": "日本ハム"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "ZOZOマリン",
+      "time": "17:00"
     },
     "ticket": {
       "primary": "https://m-ticket.marines.co.jp/ticket/20260823",
@@ -1767,8 +1767,8 @@
       "visitor": "オリックス"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "みずほPayPay",
+      "time": "13:00"
     },
     "ticket": {
       "primary": "https://ticket.softbankhawks.co.jp/game/select"
@@ -1825,8 +1825,8 @@
       "visitor": "日本ハム"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "ベルーナドーム",
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://ticket.seibulions.jp/event/venue/26082501",
@@ -1843,8 +1843,8 @@
       "visitor": "ソフトバンク"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "ZOZOマリン",
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://m-ticket.marines.co.jp/ticket/20260825",
@@ -1858,8 +1858,8 @@
       "visitor": "楽天"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "京セラD大阪",
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://buffaloes.cnplayguide.com/ticket/20260825",
@@ -1917,8 +1917,8 @@
       "visitor": "日本ハム"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "ベルーナドーム",
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://ticket.seibulions.jp/event/venue/26082601",
@@ -1935,8 +1935,8 @@
       "visitor": "ソフトバンク"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "ZOZOマリン",
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://m-ticket.marines.co.jp/ticket/20260826",
@@ -1950,8 +1950,8 @@
       "visitor": "楽天"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "京セラD大阪",
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://buffaloes.cnplayguide.com/ticket/20260826",
@@ -2009,8 +2009,8 @@
       "visitor": "ソフトバンク"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "ZOZOマリン",
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://m-ticket.marines.co.jp/ticket/20260827",
@@ -2024,8 +2024,8 @@
       "visitor": "楽天"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "京セラD大阪",
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://buffaloes.cnplayguide.com/ticket/20260827",
@@ -2082,8 +2082,8 @@
       "visitor": "ロッテ"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "エスコンＦ",
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://ticket.fighters.co.jp/event/list/self/1",
@@ -2097,8 +2097,8 @@
       "visitor": "楽天"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "ベルーナドーム",
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://ticket.seibulions.jp/event/venue/26082801",
@@ -2115,8 +2115,8 @@
       "visitor": "ソフトバンク"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "京セラD大阪",
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://buffaloes.cnplayguide.com/ticket/20260828",
@@ -2173,8 +2173,8 @@
       "visitor": "ロッテ"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "エスコンＦ",
+      "time": "14:00"
     },
     "ticket": {
       "primary": "https://ticket.fighters.co.jp/event/list/self/1",
@@ -2188,8 +2188,8 @@
       "visitor": "楽天"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "ベルーナドーム",
+      "time": "17:00"
     },
     "ticket": {
       "primary": "https://ticket.seibulions.jp/event/venue/26082901",
@@ -2206,8 +2206,8 @@
       "visitor": "ソフトバンク"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "京セラD大阪",
+      "time": "18:00"
     },
     "ticket": {
       "primary": "https://buffaloes.cnplayguide.com/ticket/20260829",
@@ -2264,8 +2264,8 @@
       "visitor": "ロッテ"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "エスコンＦ",
+      "time": "13:00"
     },
     "ticket": {
       "primary": "https://ticket.fighters.co.jp/event/list/self/1",
@@ -2279,8 +2279,8 @@
       "visitor": "楽天"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "ベルーナドーム",
+      "time": "17:00"
     },
     "ticket": {
       "primary": "https://ticket.seibulions.jp/event/venue/26083001",
@@ -2297,8 +2297,8 @@
       "visitor": "ソフトバンク"
     },
     "info": {
-      "stadium": "",
-      "time": ""
+      "stadium": "京セラD大阪",
+      "time": "14:00"
     },
     "ticket": {
       "primary": "https://buffaloes.cnplayguide.com/ticket/20260830",
