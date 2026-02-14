@@ -22,67 +22,67 @@ const formatDate = (year: number, dateString: string) => {
   const targetYears = [currentYear, currentYear + 1];
   const months = ["03", "04", "05", "06", "07", "08", "09", "10", "11"];
 
-  await Promise.all(
-    targetYears.flatMap((year) =>
-      months.map(async (month) => {
-        const page = await browser.newPage();
-        await page.goto(
-          `https://npb.jp/games/${year}/schedule_${month}_detail.html`,
-          { waitUntil: "domcontentloaded" },
+  for (const year of targetYears) {
+    for (const month of months) {
+      const page = await browser.newPage();
+      await page.goto(
+        `https://npb.jp/games/${year}/schedule_${month}_detail.html`,
+        { waitUntil: "domcontentloaded" },
+      );
+
+      const games = await page.evaluate(() => {
+        const rows = Array.from(
+          document.querySelectorAll("#schedule_detail tbody tr"),
         );
+        let date: string;
+        return rows.map((row) => {
+          date = row.querySelector("th[rowspan]")?.textContent || date;
 
-        const games = await page.evaluate(() => {
-          const rows = Array.from(
-            document.querySelectorAll("#schedule_detail tbody tr"),
-          );
-          let date: string;
-          return rows.map((row) => {
-            date = row.querySelector("th[rowspan]")?.textContent || date;
+          const [match, info] = Array.from(row.querySelectorAll("td"));
+          if (!match || !info) return undefined;
+          if (match.textContent === "\u00A0") return undefined;
 
-            const [match, info] = Array.from(row.querySelectorAll("td"));
-            if (!match || !info) return undefined;
-            if (match.textContent === "\u00A0") return undefined;
+          const [home, visitor] = [
+            match.querySelector(".team1")?.textContent,
+            match.querySelector(".team2")?.textContent,
+          ];
+          if (!home || !visitor) return undefined;
 
-            const [home, visitor] = [
-              match.querySelector(".team1")?.textContent,
-              match.querySelector(".team2")?.textContent,
-            ];
-            if (!home || !visitor) return undefined;
+          const [stadium, time] = [
+            info.querySelector(".place")?.textContent.replace(/\u3000/g, ""),
+            info.querySelector(".time")?.textContent,
+          ];
 
-            const [stadium, time] = [
-              info.querySelector(".place")?.textContent.replace(/\u3000/g, ""),
-              info.querySelector(".time")?.textContent,
-            ];
+          return {
+            date,
+            match: { home, visitor },
+            info: { stadium, time },
+          };
+        });
+      });
 
-            return {
-              date,
-              match: { home, visitor },
-              info: { stadium, time },
-            };
-          });
+      const formatted = games
+        .filter((game) => game !== undefined)
+        .map((game) => {
+          const formattedDate = formatDate(year, game.date);
+          const ticket = generateTicketUrls(game.match.home, formattedDate);
+          return {
+            ...game,
+            date: formattedDate,
+            ...(ticket && { ticket }),
+          };
         });
 
-        const formatted = games
-          .filter((game) => game !== undefined)
-          .map((game) => {
-            const formattedDate = formatDate(year, game.date);
-            const ticket = generateTicketUrls(game.match.home, formattedDate);
-            return {
-              ...game,
-              date: formattedDate,
-              ...(ticket && { ticket }),
-            };
-          });
+      mkdirSync(`docs/${year}`, { recursive: true });
+      writeFileSync(
+        `docs/${year}/schedule_${month}_detail.json`,
+        JSON.stringify(formatted, null, 2),
+      );
+      console.log(`https://npb.jp/games/${year}/schedule_${month}_detail.html`);
 
-        mkdirSync(`docs/${year}`, { recursive: true });
-        writeFileSync(
-          `docs/${year}/schedule_${month}_detail.json`,
-          JSON.stringify(formatted, null, 2),
-        );
-        await page.close();
-      }),
-    ),
-  );
+      await page.close();
+    }
+  }
 
   await browser.close();
 })();
