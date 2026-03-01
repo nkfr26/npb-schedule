@@ -16,7 +16,7 @@ const formatDate = (year: number, dateString: string) => {
 };
 
 (async () => {
-  const browser = await chromium.launch({ headless: true });
+  const browser = await chromium.launch({ headless: true, slowMo: 1000 });
 
   const currentYear = new Date().getFullYear();
   const targetYears = [currentYear, currentYear + 1];
@@ -81,6 +81,8 @@ const formatDate = (year: number, dateString: string) => {
       console.log(`https://npb.jp/games/${year}/schedule_${month}_detail.html`);
 
       await page.close();
+
+      await new Promise((resolve) => setTimeout(resolve, 2000));
     }
   }
 

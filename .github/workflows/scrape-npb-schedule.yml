@@ -2,7 +2,7 @@ name: scrape-npb-schedule
 
 on:
   schedule:
-    - cron: 0 15 * * *
+    - cron: 0 19 * * *
   workflow_dispatch:
   push:
     branches: [ main ]
@@ -31,12 +31,15 @@ jobs:
       - name: Install Playwright Browsers
         run: npx playwright install --with-deps chromium
 
+      - name: Build
+        run: npx tsc
+
       - name: Scrape
         uses: nick-fields/retry@v3
         with:
           timeout_minutes: 10
           max_attempts: 3
-          command: npx tsx index.ts
+          command: node dist/index.js
 
       - name: Commit and push changes
         run: |
