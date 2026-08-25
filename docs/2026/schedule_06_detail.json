@@ -1,35 +1,5 @@
 [
   {
-    "date": "2026-06-01",
-    "match": {
-      "home": "楽天",
-      "visitor": "ヤクルト"
-    },
-    "info": {
-      "stadium": "楽天モバイル",
-      "time": "18:00"
-    },
-    "ticket": {
-      "primary": "https://eagles.tstar.jp/seat260601",
-      "resale": "https://nft.rakuten.co.jp/marketplace/?type=ticket&sort=last_updated_date&limit=12&ticketlimit=6&provider=eagles&date=01-06-2026"
-    }
-  },
-  {
-    "date": "2026-06-01",
-    "match": {
-      "home": "ロッテ",
-      "visitor": "阪神"
-    },
-    "info": {
-      "stadium": "ZOZOマリン",
-      "time": "18:00"
-    },
-    "ticket": {
-      "primary": "https://m-ticket.marines.co.jp/ticket/20260601",
-      "resale": "https://www.ticket.co.jp/sys/k/79881.htm?st=20260601"
-    }
-  },
-  {
     "date": "2026-06-02",
     "match": {
       "home": "巨人",
@@ -555,21 +525,6 @@
     },
     "ticket": {
       "primary": "https://www.carp.co.jp/ticket/ticket/yoyaku_hoho.html"
-    }
-  },
-  {
-    "date": "2026-06-08",
-    "match": {
-      "home": "DeNA",
-      "visitor": "ソフトバンク"
-    },
-    "info": {
-      "stadium": "横浜",
-      "time": "18:00"
-    },
-    "ticket": {
-      "primary": "https://ticketsales.baystars.co.jp/calendar/2026/06",
-      "resale": "https://ticket-resale.baystars.co.jp/purchase/match"
     }
   },
   {
@@ -1136,6 +1091,48 @@
     },
     "ticket": {
       "primary": "https://ticket.softbankhawks.co.jp/game/select"
+    }
+  },
+  {
+    "date": "2026-06-16",
+    "match": {
+      "home": "阪神",
+      "visitor": "西武"
+    },
+    "info": {
+      "stadium": "甲子園",
+      "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://hanshintigers.jp/ticket/detail/20260616.html"
+    }
+  },
+  {
+    "date": "2026-06-16",
+    "match": {
+      "home": "広島",
+      "visitor": "日本ハム"
+    },
+    "info": {
+      "stadium": "マツダスタジアム",
+      "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://www.carp.co.jp/ticket/ticket/yoyaku_hoho.html"
+    }
+  },
+  {
+    "date": "2026-06-17",
+    "match": {
+      "home": "阪神",
+      "visitor": "楽天"
+    },
+    "info": {
+      "stadium": "甲子園",
+      "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://hanshintigers.jp/ticket/detail/20260617.html"
     }
   },
   {

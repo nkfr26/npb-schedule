@@ -1,1 +1,164 @@
-[]
+[
+  {
+    "date": "2026-10-01",
+    "match": {
+      "home": "阪神",
+      "visitor": "巨人"
+    },
+    "info": {
+      "stadium": "甲子園",
+      "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://hanshintigers.jp/ticket/detail/20261001.html"
+    }
+  },
+  {
+    "date": "2026-10-01",
+    "match": {
+      "home": "広島",
+      "visitor": "中日"
+    },
+    "info": {
+      "stadium": "マツダスタジアム",
+      "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://www.carp.co.jp/ticket/ticket/yoyaku_hoho.html"
+    }
+  },
+  {
+    "date": "2026-10-01",
+    "match": {
+      "home": "楽天",
+      "visitor": "ソフトバンク"
+    },
+    "info": {
+      "stadium": "楽天モバイル",
+      "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://eagles.tstar.jp/seat261001",
+      "resale": "https://nft.rakuten.co.jp/marketplace/?type=ticket&sort=last_updated_date&limit=12&ticketlimit=6&provider=eagles&date=01-10-2026"
+    }
+  },
+  {
+    "date": "2026-10-02",
+    "match": {
+      "home": "ヤクルト",
+      "visitor": "巨人"
+    },
+    "info": {
+      "stadium": "神宮",
+      "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://ticket.yakult-swallows.co.jp/Calendar.aspx",
+      "resale": "https://tradead.tixplus.jp/swallows/buy/bidding?month=10&year=2026"
+    }
+  },
+  {
+    "date": "2026-10-02",
+    "match": {
+      "home": "ロッテ",
+      "visitor": "ソフトバンク"
+    },
+    "info": {
+      "stadium": "ZOZOマリン",
+      "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://m-ticket.marines.co.jp/ticket/20261002",
+      "resale": "https://www.ticket.co.jp/sys/k/79881.htm?st=20261002"
+    }
+  },
+  {
+    "date": "2026-10-03",
+    "match": {
+      "home": "巨人",
+      "visitor": "DeNA"
+    },
+    "info": {
+      "stadium": "東京ドーム",
+      "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://www.giants.jp/schedule/first-team/?month=202610",
+      "resale": "https://tradead.tixplus.jp/giants/buy/bidding?month=10&year=2026"
+    }
+  },
+  {
+    "date": "2026-10-03",
+    "match": {
+      "home": "ヤクルト",
+      "visitor": "中日"
+    },
+    "info": {
+      "stadium": "神宮",
+      "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://ticket.yakult-swallows.co.jp/Calendar.aspx",
+      "resale": "https://tradead.tixplus.jp/swallows/buy/bidding?month=10&year=2026"
+    }
+  },
+  {
+    "date": "2026-10-03",
+    "match": {
+      "home": "広島",
+      "visitor": "阪神"
+    },
+    "info": {
+      "stadium": "マツダスタジアム",
+      "time": "14:00"
+    },
+    "ticket": {
+      "primary": "https://www.carp.co.jp/ticket/ticket/yoyaku_hoho.html"
+    }
+  },
+  {
+    "date": "2026-10-03",
+    "match": {
+      "home": "楽天",
+      "visitor": "オリックス"
+    },
+    "info": {
+      "stadium": "楽天モバイル",
+      "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://eagles.tstar.jp/seat261003",
+      "resale": "https://nft.rakuten.co.jp/marketplace/?type=ticket&sort=last_updated_date&limit=12&ticketlimit=6&provider=eagles&date=03-10-2026"
+    }
+  },
+  {
+    "date": "2026-10-03",
+    "match": {
+      "home": "ロッテ",
+      "visitor": "ソフトバンク"
+    },
+    "info": {
+      "stadium": "ZOZOマリン",
+      "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://m-ticket.marines.co.jp/ticket/20261003",
+      "resale": "https://www.ticket.co.jp/sys/k/79881.htm?st=20261003"
+    }
+  },
+  {
+    "date": "2026-10-04",
+    "match": {
+      "home": "ロッテ",
+      "visitor": "楽天"
+    },
+    "info": {
+      "stadium": "ZOZOマリン",
+      "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://m-ticket.marines.co.jp/ticket/20261004",
+      "resale": "https://www.ticket.co.jp/sys/k/79881.htm?st=20261004"
+    }
+  }
+]

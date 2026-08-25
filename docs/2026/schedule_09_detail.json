@@ -165,21 +165,6 @@
     }
   },
   {
-    "date": "2026-09-02",
-    "match": {
-      "home": "ロッテ",
-      "visitor": "西武"
-    },
-    "info": {
-      "stadium": "ZOZOマリン",
-      "time": "18:00"
-    },
-    "ticket": {
-      "primary": "https://m-ticket.marines.co.jp/ticket/20260902",
-      "resale": "https://www.ticket.co.jp/sys/k/79881.htm?st=20260902"
-    }
-  },
-  {
     "date": "2026-09-03",
     "match": {
       "home": "ヤクルト",
@@ -735,6 +720,35 @@
     }
   },
   {
+    "date": "2026-09-11",
+    "match": {
+      "home": "オリックス",
+      "visitor": "西武"
+    },
+    "info": {
+      "stadium": "京セラD大阪",
+      "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://buffaloes.cnplayguide.com/ticket/20260911",
+      "resale": "https://www.ticket.co.jp/sys/k/79911.htm?st=20260911"
+    }
+  },
+  {
+    "date": "2026-09-11",
+    "match": {
+      "home": "ソフトバンク",
+      "visitor": "ロッテ"
+    },
+    "info": {
+      "stadium": "みずほPayPay",
+      "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://ticket.softbankhawks.co.jp/game/select"
+    }
+  },
+  {
     "date": "2026-09-12",
     "match": {
       "home": "巨人",
@@ -948,6 +962,50 @@
   {
     "date": "2026-09-15",
     "match": {
+      "home": "ヤクルト",
+      "visitor": "広島"
+    },
+    "info": {
+      "stadium": "神宮",
+      "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://ticket.yakult-swallows.co.jp/Calendar.aspx",
+      "resale": "https://tradead.tixplus.jp/swallows/buy/bidding?month=9&year=2026"
+    }
+  },
+  {
+    "date": "2026-09-15",
+    "match": {
+      "home": "DeNA",
+      "visitor": "巨人"
+    },
+    "info": {
+      "stadium": "横浜",
+      "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://ticketsales.baystars.co.jp/calendar/2026/09",
+      "resale": "https://ticket-resale.baystars.co.jp/purchase/match"
+    }
+  },
+  {
+    "date": "2026-09-15",
+    "match": {
+      "home": "阪神",
+      "visitor": "中日"
+    },
+    "info": {
+      "stadium": "甲子園",
+      "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://hanshintigers.jp/ticket/detail/20260915.html"
+    }
+  },
+  {
+    "date": "2026-09-15",
+    "match": {
       "home": "日本ハム",
       "visitor": "ロッテ"
     },
@@ -1018,6 +1076,35 @@
     "ticket": {
       "primary": "https://buffaloes.cnplayguide.com/ticket/20260916",
       "resale": "https://www.ticket.co.jp/sys/k/79911.htm?st=20260916"
+    }
+  },
+  {
+    "date": "2026-09-17",
+    "match": {
+      "home": "ヤクルト",
+      "visitor": "DeNA"
+    },
+    "info": {
+      "stadium": "神宮",
+      "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://ticket.yakult-swallows.co.jp/Calendar.aspx",
+      "resale": "https://tradead.tixplus.jp/swallows/buy/bidding?month=9&year=2026"
+    }
+  },
+  {
+    "date": "2026-09-17",
+    "match": {
+      "home": "阪神",
+      "visitor": "広島"
+    },
+    "info": {
+      "stadium": "甲子園",
+      "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://hanshintigers.jp/ticket/detail/20260917.html"
     }
   },
   {
@@ -1540,6 +1627,20 @@
   {
     "date": "2026-09-24",
     "match": {
+      "home": "広島",
+      "visitor": "巨人"
+    },
+    "info": {
+      "stadium": "マツダスタジアム",
+      "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://www.carp.co.jp/ticket/ticket/yoyaku_hoho.html"
+    }
+  },
+  {
+    "date": "2026-09-24",
+    "match": {
       "home": "日本ハム",
       "visitor": "楽天"
     },
@@ -1550,6 +1651,50 @@
     "ticket": {
       "primary": "https://ticket.fighters.co.jp/event/list/self/1",
       "resale": "https://ticket.fighters.co.jp/event/list/resale/1"
+    }
+  },
+  {
+    "date": "2026-09-25",
+    "match": {
+      "home": "ヤクルト",
+      "visitor": "中日"
+    },
+    "info": {
+      "stadium": "神宮",
+      "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://ticket.yakult-swallows.co.jp/Calendar.aspx",
+      "resale": "https://tradead.tixplus.jp/swallows/buy/bidding?month=9&year=2026"
+    }
+  },
+  {
+    "date": "2026-09-25",
+    "match": {
+      "home": "DeNA",
+      "visitor": "阪神"
+    },
+    "info": {
+      "stadium": "横浜",
+      "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://ticketsales.baystars.co.jp/calendar/2026/09",
+      "resale": "https://ticket-resale.baystars.co.jp/purchase/match"
+    }
+  },
+  {
+    "date": "2026-09-25",
+    "match": {
+      "home": "広島",
+      "visitor": "巨人"
+    },
+    "info": {
+      "stadium": "マツダスタジアム",
+      "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://www.carp.co.jp/ticket/ticket/yoyaku_hoho.html"
     }
   },
   {
@@ -1583,6 +1728,36 @@
     "ticket": {
       "primary": "https://buffaloes.cnplayguide.com/ticket/20260925",
       "resale": "https://www.ticket.co.jp/sys/k/79911.htm?st=20260925"
+    }
+  },
+  {
+    "date": "2026-09-26",
+    "match": {
+      "home": "ヤクルト",
+      "visitor": "中日"
+    },
+    "info": {
+      "stadium": "神宮",
+      "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://ticket.yakult-swallows.co.jp/Calendar.aspx",
+      "resale": "https://tradead.tixplus.jp/swallows/buy/bidding?month=9&year=2026"
+    }
+  },
+  {
+    "date": "2026-09-26",
+    "match": {
+      "home": "DeNA",
+      "visitor": "阪神"
+    },
+    "info": {
+      "stadium": "横浜",
+      "time": "14:00"
+    },
+    "ticket": {
+      "primary": "https://ticketsales.baystars.co.jp/calendar/2026/09",
+      "resale": "https://ticket-resale.baystars.co.jp/purchase/match"
     }
   },
   {
@@ -1635,6 +1810,50 @@
   {
     "date": "2026-09-27",
     "match": {
+      "home": "巨人",
+      "visitor": "ヤクルト"
+    },
+    "info": {
+      "stadium": "東京ドーム",
+      "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://www.giants.jp/schedule/first-team/?month=202609",
+      "resale": "https://tradead.tixplus.jp/giants/buy/bidding?month=9&year=2026"
+    }
+  },
+  {
+    "date": "2026-09-27",
+    "match": {
+      "home": "DeNA",
+      "visitor": "広島"
+    },
+    "info": {
+      "stadium": "横浜",
+      "time": "14:00"
+    },
+    "ticket": {
+      "primary": "https://ticketsales.baystars.co.jp/calendar/2026/09",
+      "resale": "https://ticket-resale.baystars.co.jp/purchase/match"
+    }
+  },
+  {
+    "date": "2026-09-27",
+    "match": {
+      "home": "阪神",
+      "visitor": "中日"
+    },
+    "info": {
+      "stadium": "甲子園",
+      "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://hanshintigers.jp/ticket/detail/20260927.html"
+    }
+  },
+  {
+    "date": "2026-09-27",
+    "match": {
       "home": "西武",
       "visitor": "楽天"
     },
@@ -1682,6 +1901,21 @@
   {
     "date": "2026-09-28",
     "match": {
+      "home": "DeNA",
+      "visitor": "広島"
+    },
+    "info": {
+      "stadium": "横浜",
+      "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://ticketsales.baystars.co.jp/calendar/2026/09",
+      "resale": "https://ticket-resale.baystars.co.jp/purchase/match"
+    }
+  },
+  {
+    "date": "2026-09-28",
+    "match": {
       "home": "西武",
       "visitor": "楽天"
     },
@@ -1715,6 +1949,50 @@
   {
     "date": "2026-09-29",
     "match": {
+      "home": "巨人",
+      "visitor": "広島"
+    },
+    "info": {
+      "stadium": "東京ドーム",
+      "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://www.giants.jp/schedule/first-team/?month=202609",
+      "resale": "https://tradead.tixplus.jp/giants/buy/bidding?month=9&year=2026"
+    }
+  },
+  {
+    "date": "2026-09-29",
+    "match": {
+      "home": "DeNA",
+      "visitor": "中日"
+    },
+    "info": {
+      "stadium": "横浜",
+      "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://ticketsales.baystars.co.jp/calendar/2026/09",
+      "resale": "https://ticket-resale.baystars.co.jp/purchase/match"
+    }
+  },
+  {
+    "date": "2026-09-29",
+    "match": {
+      "home": "阪神",
+      "visitor": "ヤクルト"
+    },
+    "info": {
+      "stadium": "甲子園",
+      "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://hanshintigers.jp/ticket/detail/20260929.html"
+    }
+  },
+  {
+    "date": "2026-09-29",
+    "match": {
       "home": "楽天",
       "visitor": "ロッテ"
     },
@@ -1743,6 +2021,20 @@
         "https://ticket.seibulions.jp/resale/venue/26092901",
         "https://www.ticket.co.jp/sys/k/68848.htm?st=20260929"
       ]
+    }
+  },
+  {
+    "date": "2026-09-30",
+    "match": {
+      "home": "阪神",
+      "visitor": "ヤクルト"
+    },
+    "info": {
+      "stadium": "甲子園",
+      "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://hanshintigers.jp/ticket/detail/20260930.html"
     }
   },
   {
