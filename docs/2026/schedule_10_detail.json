@@ -149,6 +149,21 @@
   {
     "date": "2026-10-04",
     "match": {
+      "home": "ヤクルト",
+      "visitor": "広島"
+    },
+    "info": {
+      "stadium": "神宮",
+      "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://ticket.yakult-swallows.co.jp/Calendar.aspx",
+      "resale": "https://tradead.tixplus.jp/swallows/buy/bidding?month=10&year=2026"
+    }
+  },
+  {
+    "date": "2026-10-04",
+    "match": {
       "home": "ロッテ",
       "visitor": "楽天"
     },
