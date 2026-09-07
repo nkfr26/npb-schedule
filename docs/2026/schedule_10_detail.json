@@ -43,6 +43,21 @@
     }
   },
   {
+    "date": "2026-10-01",
+    "match": {
+      "home": "ロッテ",
+      "visitor": "日本ハム"
+    },
+    "info": {
+      "stadium": "ZOZOマリン",
+      "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://m-ticket.marines.co.jp/ticket/20261001",
+      "resale": "https://www.ticket.co.jp/sys/k/79881.htm?st=20261001"
+    }
+  },
+  {
     "date": "2026-10-02",
     "match": {
       "home": "ヤクルト",
