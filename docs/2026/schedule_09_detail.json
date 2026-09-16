@@ -1840,20 +1840,6 @@
   {
     "date": "2026-09-27",
     "match": {
-      "home": "阪神",
-      "visitor": "中日"
-    },
-    "info": {
-      "stadium": "甲子園",
-      "time": "18:00"
-    },
-    "ticket": {
-      "primary": "https://hanshintigers.jp/ticket/detail/20260927.html"
-    }
-  },
-  {
-    "date": "2026-09-27",
-    "match": {
       "home": "西武",
       "visitor": "楽天"
     },
