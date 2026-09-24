@@ -75,6 +75,20 @@
   {
     "date": "2026-10-02",
     "match": {
+      "home": "広島",
+      "visitor": "中日"
+    },
+    "info": {
+      "stadium": "マツダスタジアム",
+      "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://www.carp.co.jp/ticket/ticket/yoyaku_hoho.html"
+    }
+  },
+  {
+    "date": "2026-10-02",
+    "match": {
       "home": "ロッテ",
       "visitor": "ソフトバンク"
     },
@@ -204,6 +218,51 @@
     "ticket": {
       "primary": "https://m-ticket.marines.co.jp/ticket/20261004",
       "resale": "https://www.ticket.co.jp/sys/k/79881.htm?st=20261004"
+    }
+  },
+  {
+    "date": "2026-10-05",
+    "match": {
+      "home": "楽天",
+      "visitor": "ソフトバンク"
+    },
+    "info": {
+      "stadium": "楽天モバイル",
+      "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://eagles.tstar.jp/seat261005",
+      "resale": "https://nft.rakuten.co.jp/marketplace/?type=ticket&sort=last_updated_date&limit=12&ticketlimit=6&provider=eagles&date=05-10-2026"
+    }
+  },
+  {
+    "date": "2026-10-05",
+    "match": {
+      "home": "ロッテ",
+      "visitor": "西武"
+    },
+    "info": {
+      "stadium": "ZOZOマリン",
+      "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://m-ticket.marines.co.jp/ticket/20261005",
+      "resale": "https://www.ticket.co.jp/sys/k/79881.htm?st=20261005"
+    }
+  },
+  {
+    "date": "2026-10-06",
+    "match": {
+      "home": "ロッテ",
+      "visitor": "西武"
+    },
+    "info": {
+      "stadium": "ZOZOマリン",
+      "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://m-ticket.marines.co.jp/ticket/20261006",
+      "resale": "https://www.ticket.co.jp/sys/k/79881.htm?st=20261006"
     }
   }
 ]

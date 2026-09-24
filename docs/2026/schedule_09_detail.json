@@ -1950,21 +1950,6 @@
   {
     "date": "2026-09-29",
     "match": {
-      "home": "DeNA",
-      "visitor": "中日"
-    },
-    "info": {
-      "stadium": "横浜",
-      "time": "18:00"
-    },
-    "ticket": {
-      "primary": "https://ticketsales.baystars.co.jp/calendar/2026/09",
-      "resale": "https://ticket-resale.baystars.co.jp/purchase/match"
-    }
-  },
-  {
-    "date": "2026-09-29",
-    "match": {
       "home": "阪神",
       "visitor": "ヤクルト"
     },
