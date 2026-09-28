@@ -267,6 +267,21 @@
   {
     "date": "2026-10-06",
     "match": {
+      "home": "楽天",
+      "visitor": "ソフトバンク"
+    },
+    "info": {
+      "stadium": "楽天モバイル",
+      "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://eagles.tstar.jp/seat261006",
+      "resale": "https://nft.rakuten.co.jp/marketplace/?type=ticket&sort=last_updated_date&limit=12&ticketlimit=6&provider=eagles&date=06-10-2026"
+    }
+  },
+  {
+    "date": "2026-10-06",
+    "match": {
       "home": "ロッテ",
       "visitor": "西武"
     },
