@@ -75,20 +75,6 @@
   {
     "date": "2026-10-02",
     "match": {
-      "home": "広島",
-      "visitor": "中日"
-    },
-    "info": {
-      "stadium": "マツダスタジアム",
-      "time": "18:00"
-    },
-    "ticket": {
-      "primary": "https://www.carp.co.jp/ticket/ticket/yoyaku_hoho.html"
-    }
-  },
-  {
-    "date": "2026-10-02",
-    "match": {
       "home": "ロッテ",
       "visitor": "ソフトバンク"
     },
@@ -223,6 +209,36 @@
   {
     "date": "2026-10-05",
     "match": {
+      "home": "ヤクルト",
+      "visitor": "広島"
+    },
+    "info": {
+      "stadium": "神宮",
+      "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://ticket.yakult-swallows.co.jp/Calendar.aspx",
+      "resale": "https://tradead.tixplus.jp/swallows/buy/bidding?month=10&year=2026"
+    }
+  },
+  {
+    "date": "2026-10-05",
+    "match": {
+      "home": "DeNA",
+      "visitor": "阪神"
+    },
+    "info": {
+      "stadium": "横浜",
+      "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://ticketsales.baystars.co.jp/calendar/2026/10",
+      "resale": "https://ticket-resale.baystars.co.jp/purchase/match"
+    }
+  },
+  {
+    "date": "2026-10-05",
+    "match": {
       "home": "楽天",
       "visitor": "ソフトバンク"
     },
@@ -306,6 +322,20 @@
     },
     "ticket": {
       "primary": "https://hanshintigers.jp/ticket/detail/20261007.html"
+    }
+  },
+  {
+    "date": "2026-10-08",
+    "match": {
+      "home": "阪神",
+      "visitor": "ヤクルト"
+    },
+    "info": {
+      "stadium": "甲子園",
+      "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://hanshintigers.jp/ticket/detail/20261008.html"
     }
   }
 ]
