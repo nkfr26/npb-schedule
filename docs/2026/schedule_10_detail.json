@@ -292,5 +292,137 @@
     "ticket": {
       "primary": "https://hanshintigers.jp/ticket/detail/20261008.html"
     }
+  },
+  {
+    "date": "2026-10-10",
+    "match": {
+      "home": "巨人",
+      "visitor": "DeNA"
+    },
+    "info": {
+      "stadium": "東京ドーム",
+      "time": "14:00"
+    },
+    "ticket": {
+      "primary": "https://www.giants.jp/schedule/first-team/?month=202610",
+      "resale": "https://tradead.tixplus.jp/giants/buy/bidding?month=10&year=2026"
+    }
+  },
+  {
+    "date": "2026-10-10",
+    "match": {
+      "home": "西武",
+      "visitor": "日本ハム"
+    },
+    "info": {
+      "stadium": "ベルーナドーム",
+      "time": "14:00"
+    },
+    "ticket": {
+      "primary": "https://ticket.seibulions.jp/event/venue/26101001",
+      "resale": [
+        "https://ticket.seibulions.jp/resale/venue/26101001",
+        "https://www.ticket.co.jp/sys/k/68848.htm?st=20261010"
+      ]
+    }
+  },
+  {
+    "date": "2026-10-11",
+    "match": {
+      "home": "巨人",
+      "visitor": "DeNA"
+    },
+    "info": {
+      "stadium": "東京ドーム",
+      "time": "14:00"
+    },
+    "ticket": {
+      "primary": "https://www.giants.jp/schedule/first-team/?month=202610",
+      "resale": "https://tradead.tixplus.jp/giants/buy/bidding?month=10&year=2026"
+    }
+  },
+  {
+    "date": "2026-10-11",
+    "match": {
+      "home": "西武",
+      "visitor": "日本ハム"
+    },
+    "info": {
+      "stadium": "ベルーナドーム",
+      "time": "14:00"
+    },
+    "ticket": {
+      "primary": "https://ticket.seibulions.jp/event/venue/26101101",
+      "resale": [
+        "https://ticket.seibulions.jp/resale/venue/26101101",
+        "https://www.ticket.co.jp/sys/k/68848.htm?st=20261011"
+      ]
+    }
+  },
+  {
+    "date": "2026-10-12",
+    "match": {
+      "home": "巨人",
+      "visitor": "DeNA"
+    },
+    "info": {
+      "stadium": "東京ドーム",
+      "time": "14:00"
+    },
+    "ticket": {
+      "primary": "https://www.giants.jp/schedule/first-team/?month=202610",
+      "resale": "https://tradead.tixplus.jp/giants/buy/bidding?month=10&year=2026"
+    }
+  },
+  {
+    "date": "2026-10-12",
+    "match": {
+      "home": "西武",
+      "visitor": "日本ハム"
+    },
+    "info": {
+      "stadium": "ベルーナドーム",
+      "time": "14:00"
+    },
+    "ticket": {
+      "primary": "https://ticket.seibulions.jp/event/venue/26101201",
+      "resale": [
+        "https://ticket.seibulions.jp/resale/venue/26101201",
+        "https://www.ticket.co.jp/sys/k/68848.htm?st=20261012"
+      ]
+    }
+  },
+  {
+    "date": "2026-10-13",
+    "match": {
+      "home": "巨人",
+      "visitor": "DeNA"
+    },
+    "info": {
+      "stadium": "東京ドーム",
+      "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://www.giants.jp/schedule/first-team/?month=202610",
+      "resale": "https://tradead.tixplus.jp/giants/buy/bidding?month=10&year=2026"
+    }
+  },
+  {
+    "date": "2026-10-13",
+    "match": {
+      "home": "西武",
+      "visitor": "日本ハム"
+    },
+    "info": {
+      "stadium": "ベルーナドーム",
+      "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://ticket.seibulions.jp/event/venue/26101301",
+      "resale": [
+        "https://ticket.seibulions.jp/resale/venue/26101301",
+        "https://www.ticket.co.jp/sys/k/68848.htm?st=20261013"
+      ]
+    }
   }
 ]
