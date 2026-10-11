@@ -362,21 +362,6 @@
   {
     "date": "2026-10-12",
     "match": {
-      "home": "巨人",
-      "visitor": "DeNA"
-    },
-    "info": {
-      "stadium": "東京ドーム",
-      "time": "14:00"
-    },
-    "ticket": {
-      "primary": "https://www.giants.jp/schedule/first-team/?month=202610",
-      "resale": "https://tradead.tixplus.jp/giants/buy/bidding?month=10&year=2026"
-    }
-  },
-  {
-    "date": "2026-10-12",
-    "match": {
       "home": "西武",
       "visitor": "日本ハム"
     },
@@ -395,21 +380,6 @@
   {
     "date": "2026-10-13",
     "match": {
-      "home": "巨人",
-      "visitor": "DeNA"
-    },
-    "info": {
-      "stadium": "東京ドーム",
-      "time": "18:00"
-    },
-    "ticket": {
-      "primary": "https://www.giants.jp/schedule/first-team/?month=202610",
-      "resale": "https://tradead.tixplus.jp/giants/buy/bidding?month=10&year=2026"
-    }
-  },
-  {
-    "date": "2026-10-13",
-    "match": {
       "home": "西武",
       "visitor": "日本ハム"
     },
@@ -423,6 +393,118 @@
         "https://ticket.seibulions.jp/resale/venue/26101301",
         "https://www.ticket.co.jp/sys/k/68848.htm?st=20261013"
       ]
+    }
+  },
+  {
+    "date": "2026-10-14",
+    "match": {
+      "home": "阪神",
+      "visitor": "DeNA"
+    },
+    "info": {
+      "stadium": "甲子園",
+      "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://hanshintigers.jp/ticket/detail/20261014.html"
+    }
+  },
+  {
+    "date": "2026-10-15",
+    "match": {
+      "home": "阪神",
+      "visitor": "DeNA"
+    },
+    "info": {
+      "stadium": "甲子園",
+      "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://hanshintigers.jp/ticket/detail/20261015.html"
+    }
+  },
+  {
+    "date": "2026-10-16",
+    "match": {
+      "home": "阪神",
+      "visitor": "DeNA"
+    },
+    "info": {
+      "stadium": "甲子園",
+      "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://hanshintigers.jp/ticket/detail/20261016.html"
+    }
+  },
+  {
+    "date": "2026-10-17",
+    "match": {
+      "home": "阪神",
+      "visitor": "DeNA"
+    },
+    "info": {
+      "stadium": "甲子園",
+      "time": "14:00"
+    },
+    "ticket": {
+      "primary": "https://hanshintigers.jp/ticket/detail/20261017.html"
+    }
+  },
+  {
+    "date": "2026-10-18",
+    "match": {
+      "home": "阪神",
+      "visitor": "DeNA"
+    },
+    "info": {
+      "stadium": "甲子園",
+      "time": "14:00"
+    },
+    "ticket": {
+      "primary": "https://hanshintigers.jp/ticket/detail/20261018.html"
+    }
+  },
+  {
+    "date": "2026-10-19",
+    "match": {
+      "home": "阪神",
+      "visitor": "DeNA"
+    },
+    "info": {
+      "stadium": "甲子園",
+      "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://hanshintigers.jp/ticket/detail/20261019.html"
+    }
+  },
+  {
+    "date": "2026-10-20",
+    "match": {
+      "home": "阪神",
+      "visitor": "DeNA"
+    },
+    "info": {
+      "stadium": "甲子園",
+      "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://hanshintigers.jp/ticket/detail/20261020.html"
+    }
+  },
+  {
+    "date": "2026-10-21",
+    "match": {
+      "home": "阪神",
+      "visitor": "DeNA"
+    },
+    "info": {
+      "stadium": "甲子園",
+      "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://hanshintigers.jp/ticket/detail/20261021.html"
     }
   }
 ]
