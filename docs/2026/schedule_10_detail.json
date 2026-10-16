@@ -476,20 +476,6 @@
     }
   },
   {
-    "date": "2026-10-17",
-    "match": {
-      "home": "ソフトバンク",
-      "visitor": "日本ハム"
-    },
-    "info": {
-      "stadium": "みずほPayPay",
-      "time": "18:00"
-    },
-    "ticket": {
-      "primary": "https://ticket.softbankhawks.co.jp/game/select"
-    }
-  },
-  {
     "date": "2026-10-18",
     "match": {
       "home": "阪神",
@@ -501,20 +487,6 @@
     },
     "ticket": {
       "primary": "https://hanshintigers.jp/ticket/detail/20261018.html"
-    }
-  },
-  {
-    "date": "2026-10-18",
-    "match": {
-      "home": "ソフトバンク",
-      "visitor": "日本ハム"
-    },
-    "info": {
-      "stadium": "みずほPayPay",
-      "time": "18:00"
-    },
-    "ticket": {
-      "primary": "https://ticket.softbankhawks.co.jp/game/select"
     }
   },
   {
@@ -532,20 +504,6 @@
     }
   },
   {
-    "date": "2026-10-19",
-    "match": {
-      "home": "ソフトバンク",
-      "visitor": "日本ハム"
-    },
-    "info": {
-      "stadium": "みずほPayPay",
-      "time": "18:00"
-    },
-    "ticket": {
-      "primary": "https://ticket.softbankhawks.co.jp/game/select"
-    }
-  },
-  {
     "date": "2026-10-20",
     "match": {
       "home": "阪神",
@@ -560,20 +518,6 @@
     }
   },
   {
-    "date": "2026-10-20",
-    "match": {
-      "home": "ソフトバンク",
-      "visitor": "日本ハム"
-    },
-    "info": {
-      "stadium": "みずほPayPay",
-      "time": "18:00"
-    },
-    "ticket": {
-      "primary": "https://ticket.softbankhawks.co.jp/game/select"
-    }
-  },
-  {
     "date": "2026-10-21",
     "match": {
       "home": "阪神",
@@ -585,20 +529,6 @@
     },
     "ticket": {
       "primary": "https://hanshintigers.jp/ticket/detail/20261021.html"
-    }
-  },
-  {
-    "date": "2026-10-21",
-    "match": {
-      "home": "ソフトバンク",
-      "visitor": "日本ハム"
-    },
-    "info": {
-      "stadium": "みずほPayPay",
-      "time": "18:00"
-    },
-    "ticket": {
-      "primary": "https://ticket.softbankhawks.co.jp/game/select"
     }
   }
 ]
