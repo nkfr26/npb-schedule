@@ -476,59 +476,90 @@
     }
   },
   {
-    "date": "2026-10-18",
+    "date": "2026-10-24",
     "match": {
-      "home": "阪神",
-      "visitor": "DeNA"
+      "home": "DeNA",
+      "visitor": "ソフトバンク"
     },
     "info": {
-      "stadium": "甲子園",
-      "time": "14:00"
+      "stadium": "横浜",
+      "time": "18:30"
     },
     "ticket": {
-      "primary": "https://hanshintigers.jp/ticket/detail/20261018.html"
+      "primary": "https://ticketsales.baystars.co.jp/calendar/2026/10",
+      "resale": "https://ticket-resale.baystars.co.jp/purchase/match"
     }
   },
   {
-    "date": "2026-10-19",
+    "date": "2026-10-25",
     "match": {
-      "home": "阪神",
-      "visitor": "DeNA"
+      "home": "DeNA",
+      "visitor": "ソフトバンク"
     },
     "info": {
-      "stadium": "甲子園",
+      "stadium": "横浜",
       "time": "18:00"
     },
     "ticket": {
-      "primary": "https://hanshintigers.jp/ticket/detail/20261019.html"
+      "primary": "https://ticketsales.baystars.co.jp/calendar/2026/10",
+      "resale": "https://ticket-resale.baystars.co.jp/purchase/match"
     }
   },
   {
-    "date": "2026-10-20",
+    "date": "2026-10-27",
     "match": {
-      "home": "阪神",
+      "home": "ソフトバンク",
       "visitor": "DeNA"
     },
     "info": {
-      "stadium": "甲子園",
+      "stadium": "みずほPayPay",
       "time": "18:00"
     },
     "ticket": {
-      "primary": "https://hanshintigers.jp/ticket/detail/20261020.html"
+      "primary": "https://ticket.softbankhawks.co.jp/game/select"
     }
   },
   {
-    "date": "2026-10-21",
+    "date": "2026-10-28",
     "match": {
-      "home": "阪神",
+      "home": "ソフトバンク",
       "visitor": "DeNA"
     },
     "info": {
-      "stadium": "甲子園",
+      "stadium": "みずほPayPay",
       "time": "18:00"
     },
     "ticket": {
-      "primary": "https://hanshintigers.jp/ticket/detail/20261021.html"
+      "primary": "https://ticket.softbankhawks.co.jp/game/select"
+    }
+  },
+  {
+    "date": "2026-10-29",
+    "match": {
+      "home": "ソフトバンク",
+      "visitor": "DeNA"
+    },
+    "info": {
+      "stadium": "みずほPayPay",
+      "time": "18:00"
+    },
+    "ticket": {
+      "primary": "https://ticket.softbankhawks.co.jp/game/select"
+    }
+  },
+  {
+    "date": "2026-10-31",
+    "match": {
+      "home": "DeNA",
+      "visitor": "ソフトバンク"
+    },
+    "info": {
+      "stadium": "横浜",
+      "time": "18:30"
+    },
+    "ticket": {
+      "primary": "https://ticketsales.baystars.co.jp/calendar/2026/10",
+      "resale": "https://ticket-resale.baystars.co.jp/purchase/match"
     }
   }
 ]
