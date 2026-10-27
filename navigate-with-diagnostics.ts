@@ -1,4 +1,4 @@
-import type { Page, Request, Response } from "@playwright/test";
+import type { Page, Request, Response, Route } from "@playwright/test";
 
 export async function navigateWithDiagnostics(page: Page, url: string) {
   const pending = new Map<Request, number>();
@@ -6,6 +6,7 @@ export async function navigateWithDiagnostics(page: Page, url: string) {
   const onFinished = (request: Request) => pending.delete(request);
   const onFailed = (request: Request) => {
     pending.delete(request);
+    if (request.resourceType() !== "document") return;
     console.error(
       "[request failed]",
       request.resourceType(),
@@ -16,7 +17,13 @@ export async function navigateWithDiagnostics(page: Page, url: string) {
   const onResponse = (response: Response) => {
     console.log("[HTTP]", response.status(), response.url());
   };
+  // The schedule is in the HTML; scripts, styles and images are unnecessary.
+  const documentOnly = (route: Route) =>
+    route.request().resourceType() === "document"
+      ? route.fallback()
+      : route.abort();
 
+  await page.route("**/*", documentOnly);
   page.on("request", onRequest);
   page.on("requestfinished", onFinished);
   page.on("requestfailed", onFailed);
@@ -42,5 +49,6 @@ export async function navigateWithDiagnostics(page: Page, url: string) {
     page.off("requestfinished", onFinished);
     page.off("requestfailed", onFailed);
     page.off("response", onResponse);
+    await page.unroute("**/*", documentOnly);
   }
 }
