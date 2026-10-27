@@ -41,19 +41,8 @@ jobs:
       - name: Build
         run: npx tsc
 
-      - name: Test navigation diagnostics
-        run: node --test tests/navigation.test.mjs
-
-      - name: Diagnose NPB connection
-        if: ${{ env.NPB_PROXY_SERVER == '' }}
-        continue-on-error: true
-        timeout-minutes: 1
-        run: |
-          curl --verbose --location \
-            --connect-timeout 10 --max-time 30 \
-            --output /dev/null \
-            --write-out '\nremote_ip=%{remote_ip}\nhttp_code=%{http_code}\ndns_seconds=%{time_namelookup}\ntcp_seconds=%{time_connect}\ntls_seconds=%{time_appconnect}\nfirst_byte_seconds=%{time_starttransfer}\ntotal_seconds=%{time_total}\nexit_code=%{exitcode}\n' \
-            "https://npb.jp/games/$(date +%Y)/schedule_03_detail.html"
+      - name: Test schedule navigation
+        run: node --test tests/navigate-schedule.test.mjs
 
       - name: Scrape
         uses: nick-fields/retry@v3
