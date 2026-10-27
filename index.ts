@@ -1,6 +1,7 @@
 import { mkdirSync, writeFileSync } from "node:fs";
 import { chromium } from "@playwright/test";
 import { generateTicketUrls } from "./generate-ticket-urls.js";
+import { navigateWithDiagnostics } from "./navigate-with-diagnostics.js";
 
 const formatDate = (year: number, dateString: string) => {
   const dateMatch = dateString.match(/(\d+)\/(\d+)/);
@@ -25,9 +26,9 @@ const formatDate = (year: number, dateString: string) => {
   for (const year of targetYears) {
     for (const month of months) {
       const page = await browser.newPage();
-      await page.goto(
+      await navigateWithDiagnostics(
+        page,
         `https://npb.jp/games/${year}/schedule_${month}_detail.html`,
-        { waitUntil: "domcontentloaded" },
       );
 
       const games = await page.evaluate(() => {
