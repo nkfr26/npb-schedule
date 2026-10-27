@@ -9,6 +9,7 @@ test("navigation diagnostics report responses, failures and pending requests", a
   const logs = [];
   t.mock.method(console, "log", (...args) => logs.push(args));
   t.mock.method(console, "error", (...args) => logs.push(args));
+  t.mock.method(console, "warn", (...args) => logs.push(args));
 
   await t.test(
     "successful navigation logs HTTP status and removes listeners",
@@ -115,6 +116,58 @@ test("navigation diagnostics report responses, failures and pending requests", a
       assert.equal(await page.locator("#schedule_detail tbody tr").count(), 1);
       assert.equal(await page.locator("#schedule_detail").innerText(), "Game");
       assert.deepEqual(assetRequests, []);
+      await page.close();
+    },
+  );
+  await t.test(
+    "a transient document failure retries the same URL",
+    async () => {
+      const page = await browser.newPage();
+      let attempts = 0;
+      await page.route("**/*", (route) => {
+        attempts++;
+        return attempts === 1
+          ? route.abort("connectionfailed")
+          : route.fulfill({
+              contentType: "text/html",
+              body: "<p>Recovered</p>",
+            });
+      });
+      await navigateWithDiagnostics(page, "https://diagnostics.test/retry", 3);
+      assert.equal(attempts, 2);
+      assert.equal(await page.locator("p").innerText(), "Recovered");
+      await page.close();
+    },
+  );
+
+  await t.test(
+    "retries stop at the limit and preserve the final error",
+    async () => {
+      logs.length = 0;
+      const page = await browser.newPage();
+      let attempts = 0;
+      await page.route("**/*", (route) => {
+        attempts++;
+        return route.abort("connectionfailed");
+      });
+      let finalError;
+      await assert.rejects(
+        navigateWithDiagnostics(
+          page,
+          "https://diagnostics.test/retry-limit",
+          2,
+        ),
+        (error) => {
+          finalError = error;
+          return error.message.includes("ERR_CONNECTION_FAILED");
+        },
+      );
+      assert.equal(attempts, 2);
+      assert.equal(
+        logs.filter(([label]) => label === "[navigation failed]").at(-1)[2],
+        finalError,
+      );
+      assert.equal(page.listenerCount("request"), 0);
       await page.close();
     },
   );

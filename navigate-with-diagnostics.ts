@@ -1,6 +1,24 @@
+import { setTimeout as delay } from "node:timers/promises";
 import type { Page, Request, Response, Route } from "@playwright/test";
 
-export async function navigateWithDiagnostics(page: Page, url: string) {
+export async function navigateWithDiagnostics(
+  page: Page,
+  url: string,
+  maxAttempts = 1,
+) {
+  for (let attempt = 1; ; attempt++) {
+    try {
+      await navigateOnce(page, url);
+      return;
+    } catch (error) {
+      if (attempt >= maxAttempts) throw error;
+      console.warn("[navigation retry]", url, `${attempt}/${maxAttempts}`);
+      await delay(2000);
+    }
+  }
+}
+
+async function navigateOnce(page: Page, url: string) {
   const pending = new Map<Request, number>();
   const onRequest = (request: Request) => pending.set(request, Date.now());
   const onFinished = (request: Request) => pending.delete(request);
