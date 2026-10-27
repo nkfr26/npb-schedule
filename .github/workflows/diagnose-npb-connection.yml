@@ -1,0 +1,30 @@
+name: diagnose-npb-connection
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [codex/ci-navigation-diagnostics]
+    paths:
+      - ".github/workflows/diagnose-npb-connection.yml"
+
+permissions: {}
+
+jobs:
+  connection:
+    name: Connection (${{ matrix.os }})
+    runs-on: ${{ matrix.os }}
+    timeout-minutes: 2
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [ubuntu-latest, macos-latest]
+    steps:
+      - name: Diagnose NPB connection
+        shell: bash
+        run: |
+          curl --version
+          curl --verbose --location --fail \
+            --connect-timeout 10 --max-time 30 \
+            --output /dev/null \
+            --write-out '\nremote_ip=%{remote_ip}\nhttp_code=%{http_code}\ndns_seconds=%{time_namelookup}\ntcp_seconds=%{time_connect}\ntls_seconds=%{time_appconnect}\nfirst_byte_seconds=%{time_starttransfer}\ntotal_seconds=%{time_total}\nexit_code=%{exitcode}\n' \
+            "https://npb.jp/games/$(date +%Y)/schedule_03_detail.html"
