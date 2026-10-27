@@ -28,3 +28,36 @@ jobs:
             --output /dev/null \
             --write-out '\nremote_ip=%{remote_ip}\nhttp_code=%{http_code}\ndns_seconds=%{time_namelookup}\ntcp_seconds=%{time_connect}\ntls_seconds=%{time_appconnect}\nfirst_byte_seconds=%{time_starttransfer}\ntotal_seconds=%{time_total}\nexit_code=%{exitcode}\n' \
             "https://npb.jp/games/$(date +%Y)/schedule_03_detail.html"
+
+  proxy-connection:
+    name: Proxy (${{ matrix.proxy }})
+    runs-on: ubuntu-latest
+    timeout-minutes: 2
+    strategy:
+      fail-fast: false
+      matrix:
+        proxy:
+          - http://45.43.60.220:8080
+          - http://210.48.237.116:8080
+          - socks5h://152.70.107.226:1080
+    steps:
+      - name: Check proxy connection to GitHub
+        continue-on-error: true
+        shell: bash
+        run: |
+          curl --verbose --trace-time --show-error --fail --location \
+            --proxy '${{ matrix.proxy }}' \
+            --connect-timeout 5 --max-time 15 \
+            --output /dev/null \
+            --write-out '\nlocal_ip=%{local_ip}\nremote_ip=%{remote_ip}\nremote_port=%{remote_port}\nhttp_connect=%{http_connect}\nhttp_code=%{http_code}\ntcp_seconds=%{time_connect}\ntls_seconds=%{time_appconnect}\ntotal_seconds=%{time_total}\nexit_code=%{exitcode}\nerror=%{errormsg}\n' \
+            https://github.com/
+
+      - name: Check proxy connection to NPB
+        shell: bash
+        run: |
+          curl --verbose --trace-time --show-error --fail --location \
+            --proxy '${{ matrix.proxy }}' \
+            --connect-timeout 5 --max-time 15 \
+            --output /dev/null \
+            --write-out '\nlocal_ip=%{local_ip}\nremote_ip=%{remote_ip}\nremote_port=%{remote_port}\nhttp_connect=%{http_connect}\nhttp_code=%{http_code}\ntcp_seconds=%{time_connect}\ntls_seconds=%{time_appconnect}\ntotal_seconds=%{time_total}\nexit_code=%{exitcode}\nerror=%{errormsg}\n' \
+            "https://npb.jp/games/$(date +%Y)/schedule_03_detail.html"
