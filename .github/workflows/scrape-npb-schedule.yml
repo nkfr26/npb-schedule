@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: 0 19 * * *
   workflow_dispatch:
+    inputs:
+      proxy_server:
+        description: Optional proxy URL for NPB requests
+        type: string
+        default: ""
   push:
     branches: [ main ]
     paths:
@@ -15,6 +20,8 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+    env:
+      NPB_PROXY_SERVER: ${{ inputs.proxy_server || vars.NPB_PROXY_SERVER }}
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -35,6 +42,7 @@ jobs:
         run: npx tsc
 
       - name: Diagnose NPB connection
+        if: ${{ env.NPB_PROXY_SERVER == '' }}
         continue-on-error: true
         timeout-minutes: 1
         run: |
