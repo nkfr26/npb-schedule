@@ -1,6 +1,7 @@
 import { mkdirSync, writeFileSync } from "node:fs";
 import { chromium } from "@playwright/test";
 import { generateTicketUrls } from "./generate-ticket-urls.js";
+import { navigateSchedule } from "./navigate-schedule.js";
 
 const formatDate = (year: number, dateString: string) => {
   const dateMatch = dateString.match(/(\d+)\/(\d+)/);
@@ -16,18 +17,26 @@ const formatDate = (year: number, dateString: string) => {
 };
 
 (async () => {
-  const browser = await chromium.launch({ headless: true, slowMo: 1000 });
+  const proxyServer = process.env.NPB_PROXY_SERVER;
+  const browser = await chromium.launch({
+    headless: true,
+    slowMo: 1000,
+    ...(proxyServer ? { proxy: { server: proxyServer } } : {}),
+  });
 
   const currentYear = new Date().getFullYear();
   const targetYears = [currentYear, currentYear + 1];
   const months = ["03", "04", "05", "06", "07", "08", "09", "10", "11"];
+  const context = await browser.newContext();
 
   for (const year of targetYears) {
     for (const month of months) {
-      const page = await browser.newPage();
-      await page.goto(
+      const page = await context.newPage();
+      page.setDefaultNavigationTimeout(60_000);
+      await navigateSchedule(
+        page,
         `https://npb.jp/games/${year}/schedule_${month}_detail.html`,
-        { waitUntil: "domcontentloaded" },
+        proxyServer ? 5 : 1,
       );
 
       const games = await page.evaluate(() => {
