@@ -16,10 +16,7 @@ const ticketUrlTemplates: Record<
     },
   },
   DeNA: {
-    primary: (date: string) => {
-      const [year, month] = date.split("-");
-      return `https://ticketsales.baystars.co.jp/calendar/${year}/${month}`;
-    },
+    primary: () => "https://ticket.baystars.co.jp/",
     resale: () => "https://ticket-resale.baystars.co.jp/purchase/match",
   },
   ヤクルト: {
@@ -30,11 +27,10 @@ const ticketUrlTemplates: Record<
     },
   },
   阪神: {
-    primary: (date: string) =>
-      `https://hanshintigers.jp/ticket/detail/${date.replaceAll("-", "")}.html`,
+    primary: () => "https://toraticket.pia.jp/",
   },
   広島: {
-    primary: () => "https://www.carp.co.jp/ticket/ticket/yoyaku_hoho.html",
+    primary: () => "https://www.carp.co.jp/ticket",
   },
   中日: {
     primary: () => "https://dragons-ticket.jp/Calendar.aspx",
@@ -50,7 +46,7 @@ const ticketUrlTemplates: Record<
       const formattedDate = date.replaceAll("-", "");
       return [
         `https://ticket.seibulions.jp/resale/venue/${formattedDate.substring(2)}01`,
-        `https://www.ticket.co.jp/sys/k/68848.htm?st=${formattedDate}`,
+        `https://www.ticket.co.jp/sys/d/20022.htm?st=${formattedDate}`,
       ];
     },
   },
@@ -58,17 +54,20 @@ const ticketUrlTemplates: Record<
     primary: (date: string) =>
       `https://m-ticket.marines.co.jp/ticket/${date.replaceAll("-", "")}`,
     resale: (date: string) =>
-      `https://www.ticket.co.jp/sys/k/79881.htm?st=${date.replaceAll("-", "")}`,
+      `https://www.ticket.co.jp/sys/d/20023.htm?st=${date.replaceAll("-", "")}`,
   },
   オリックス: {
     primary: (date: string) =>
       `https://buffaloes.cnplayguide.com/ticket/${date.replaceAll("-", "")}`,
     resale: (date: string) =>
-      `https://www.ticket.co.jp/sys/k/79911.htm?st=${date.replaceAll("-", "")}`,
+      `https://www.ticket.co.jp/sys/d/20025.htm?st=${date.replaceAll("-", "")}`,
   },
   日本ハム: {
     primary: () => "https://ticket.fighters.co.jp/event/list/self/1",
-    resale: () => "https://ticket.fighters.co.jp/event/list/resale/1",
+    resale: (date: string) => [
+      "https://ticket.fighters.co.jp/event/list/resale/1",
+      `https://www.ticket.co.jp/sys/d/20026.htm?st=${date.replaceAll("-", "")}`,
+    ],
   },
   ソフトバンク: {
     primary: () => "https://ticket.softbankhawks.co.jp/game/select",
@@ -88,7 +87,6 @@ const ticketUrlTemplates: Record<
 export const generateTicketUrls = (teamName: string, date: string) => {
   const template = ticketUrlTemplates[teamName];
   if (!template) return undefined;
-
   return {
     primary: template.primary(date),
     ...(template.resale && { resale: template.resale(date) }),
