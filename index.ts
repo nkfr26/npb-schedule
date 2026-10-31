@@ -1,6 +1,6 @@
 import { mkdirSync, writeFileSync } from "node:fs";
 import { parseHTML } from "linkedom";
-import { generateTicketUrls } from "./generate-ticket-urls.js";
+import { generateTicketUrls } from "./generate-ticket-urls.ts";
 
 const formatDate = (year: number, dateString: string) => {
   const dateMatch = dateString.match(/(\d+)\/(\d+)/);
@@ -18,12 +18,22 @@ const formatDate = (year: number, dateString: string) => {
 const sleep = (ms: number) => new Promise((resolve) => setTimeout(resolve, ms));
 
 (async () => {
-  const currentYear = new Date().getFullYear();
+  const now = new Date();
+  const currentYear = now.getFullYear();
   const targetYears = [currentYear, currentYear + 1];
-  const months = ["03", "04", "05", "06", "07", "08", "09", "10", "11"];
+
+  const currentMonth = now.getMonth() + 1;
+  const targetMonths = ["03", "04", "05", "06", "07", "08", "09", "10", "11"];
 
   for (const year of targetYears) {
-    for (const month of months) {
+    for (const month of targetMonths) {
+      if (
+        year < currentYear ||
+        (year === currentYear && Number(month) < currentMonth)
+      ) {
+        continue;
+      }
+
       const url = `https://npb.jp/games/${year}/schedule_${month}_detail.html`;
       const response = await fetch(url);
 

@@ -1,3 +1,5 @@
+const ymd = (date: string) => date.replaceAll("-", "");
+
 const ticketUrlTemplates: Record<
   string,
   {
@@ -41,32 +43,29 @@ const ticketUrlTemplates: Record<
   },
   西武: {
     primary: (date: string) =>
-      `https://ticket.seibulions.jp/event/venue/${date.replaceAll("-", "").substring(2)}01`,
-    resale: (date: string) => {
-      const formattedDate = date.replaceAll("-", "");
-      return [
-        `https://ticket.seibulions.jp/resale/venue/${formattedDate.substring(2)}01`,
-        `https://www.ticket.co.jp/sys/d/20022.htm?st=${formattedDate}`,
-      ];
-    },
+      `https://ticket.seibulions.jp/event/venue/${ymd(date).substring(2)}01`,
+    resale: (date: string) => [
+      `https://ticket.seibulions.jp/resale/venue/${ymd(date).substring(2)}01`,
+      `https://www.ticket.co.jp/sys/d/20022.htm?st=${ymd(date)}`,
+    ],
   },
   ロッテ: {
     primary: (date: string) =>
-      `https://m-ticket.marines.co.jp/ticket/${date.replaceAll("-", "")}`,
+      `https://m-ticket.marines.co.jp/ticket/${ymd(date)}`,
     resale: (date: string) =>
-      `https://www.ticket.co.jp/sys/d/20023.htm?st=${date.replaceAll("-", "")}`,
+      `https://www.ticket.co.jp/sys/d/20023.htm?st=${ymd(date)}`,
   },
   オリックス: {
     primary: (date: string) =>
-      `https://buffaloes.cnplayguide.com/ticket/${date.replaceAll("-", "")}`,
+      `https://buffaloes.cnplayguide.com/ticket/${ymd(date)}`,
     resale: (date: string) =>
-      `https://www.ticket.co.jp/sys/d/20025.htm?st=${date.replaceAll("-", "")}`,
+      `https://www.ticket.co.jp/sys/d/20025.htm?st=${ymd(date)}`,
   },
   日本ハム: {
     primary: () => "https://ticket.fighters.co.jp/event/list/self/1",
     resale: (date: string) => [
       "https://ticket.fighters.co.jp/event/list/resale/1",
-      `https://www.ticket.co.jp/sys/d/20026.htm?st=${date.replaceAll("-", "")}`,
+      `https://www.ticket.co.jp/sys/d/20026.htm?st=${ymd(date)}`,
     ],
   },
   ソフトバンク: {
@@ -87,6 +86,7 @@ const ticketUrlTemplates: Record<
 export const generateTicketUrls = (teamName: string, date: string) => {
   const template = ticketUrlTemplates[teamName];
   if (!template) return undefined;
+
   return {
     primary: template.primary(date),
     ...(template.resale && { resale: template.resale(date) }),
