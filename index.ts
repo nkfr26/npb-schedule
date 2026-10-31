@@ -1,5 +1,5 @@
 import { mkdirSync, writeFileSync } from "node:fs";
-import { chromium } from "@playwright/test";
+import { parseHTML } from "linkedom";
 import { generateTicketUrls } from "./generate-ticket-urls.js";
 
 const formatDate = (year: number, dateString: string) => {
@@ -15,27 +15,25 @@ const formatDate = (year: number, dateString: string) => {
   return `${year}-${month}-${day}`;
 };
 
-(async () => {
-  const browser = await chromium.launch({ headless: true, slowMo: 1000 });
+const sleep = (ms: number) => new Promise((resolve) => setTimeout(resolve, ms));
 
+(async () => {
   const currentYear = new Date().getFullYear();
   const targetYears = [currentYear, currentYear + 1];
   const months = ["03", "04", "05", "06", "07", "08", "09", "10", "11"];
 
   for (const year of targetYears) {
     for (const month of months) {
-      const page = await browser.newPage();
-      await page.goto(
-        `https://npb.jp/games/${year}/schedule_${month}_detail.html`,
-        { waitUntil: "domcontentloaded" },
-      );
+      const url = `https://npb.jp/games/${year}/schedule_${month}_detail.html`;
+      const response = await fetch(url);
 
-      const games = await page.evaluate(() => {
+      if (response.ok) {
+        const { document } = parseHTML(await response.text());
         const rows = Array.from(
           document.querySelectorAll("#schedule_detail tbody tr"),
         );
         let date: string;
-        return rows.map((row) => {
+        const games = rows.map((row) => {
           date = row.querySelector("th[rowspan]")?.textContent || date;
 
           const [match, info] = Array.from(row.querySelectorAll("td"));
@@ -59,32 +57,30 @@ const formatDate = (year: number, dateString: string) => {
             info: { stadium, time },
           };
         });
-      });
 
-      const formatted = games
-        .filter((game) => game !== undefined)
-        .map((game) => {
-          const formattedDate = formatDate(year, game.date);
-          const ticket = generateTicketUrls(game.match.home, formattedDate);
-          return {
-            ...game,
-            date: formattedDate,
-            ...(ticket && { ticket }),
-          };
-        });
+        const formatted = games
+          .filter((game) => game !== undefined)
+          .map((game) => {
+            const formattedDate = formatDate(year, game.date);
+            const ticket = generateTicketUrls(game.match.home, formattedDate);
+            return {
+              ...game,
+              date: formattedDate,
+              ...(ticket && { ticket }),
+            };
+          });
 
-      mkdirSync(`docs/${year}`, { recursive: true });
-      writeFileSync(
-        `docs/${year}/schedule_${month}_detail.json`,
-        JSON.stringify(formatted, null, 2),
-      );
-      console.log(`https://npb.jp/games/${year}/schedule_${month}_detail.html`);
+        mkdirSync(`docs/${year}`, { recursive: true });
+        writeFileSync(
+          `docs/${year}/schedule_${month}_detail.json`,
+          JSON.stringify(formatted, null, 2),
+        );
+        console.log(url);
+      } else {
+        console.log(`${response.status} ${url}`);
+      }
 
-      await page.close();
-
-      await new Promise((resolve) => setTimeout(resolve, 2000));
+      await sleep(2000);
     }
   }
-
-  await browser.close();
 })();
