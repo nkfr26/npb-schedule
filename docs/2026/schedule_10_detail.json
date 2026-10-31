@@ -10,7 +10,7 @@
       "time": "18:00"
     },
     "ticket": {
-      "primary": "https://hanshintigers.jp/ticket/detail/20261001.html"
+      "primary": "https://toraticket.pia.jp/"
     }
   },
   {
@@ -24,7 +24,7 @@
       "time": "18:00"
     },
     "ticket": {
-      "primary": "https://www.carp.co.jp/ticket/ticket/yoyaku_hoho.html"
+      "primary": "https://www.carp.co.jp/ticket"
     }
   },
   {
@@ -54,7 +54,7 @@
     },
     "ticket": {
       "primary": "https://m-ticket.marines.co.jp/ticket/20261001",
-      "resale": "https://www.ticket.co.jp/sys/k/79881.htm?st=20261001"
+      "resale": "https://www.ticket.co.jp/sys/d/20023.htm?st=20261001"
     }
   },
   {
@@ -84,7 +84,7 @@
     },
     "ticket": {
       "primary": "https://m-ticket.marines.co.jp/ticket/20261002",
-      "resale": "https://www.ticket.co.jp/sys/k/79881.htm?st=20261002"
+      "resale": "https://www.ticket.co.jp/sys/d/20023.htm?st=20261002"
     }
   },
   {
@@ -128,7 +128,7 @@
       "time": "14:00"
     },
     "ticket": {
-      "primary": "https://www.carp.co.jp/ticket/ticket/yoyaku_hoho.html"
+      "primary": "https://www.carp.co.jp/ticket"
     }
   },
   {
@@ -158,7 +158,7 @@
     },
     "ticket": {
       "primary": "https://m-ticket.marines.co.jp/ticket/20261003",
-      "resale": "https://www.ticket.co.jp/sys/k/79881.htm?st=20261003"
+      "resale": "https://www.ticket.co.jp/sys/d/20023.htm?st=20261003"
     }
   },
   {
@@ -187,7 +187,7 @@
       "time": "18:00"
     },
     "ticket": {
-      "primary": "https://ticketsales.baystars.co.jp/calendar/2026/10",
+      "primary": "https://ticket.baystars.co.jp/",
       "resale": "https://ticket-resale.baystars.co.jp/purchase/match"
     }
   },
@@ -203,7 +203,7 @@
     },
     "ticket": {
       "primary": "https://m-ticket.marines.co.jp/ticket/20261004",
-      "resale": "https://www.ticket.co.jp/sys/k/79881.htm?st=20261004"
+      "resale": "https://www.ticket.co.jp/sys/d/20023.htm?st=20261004"
     }
   },
   {
@@ -233,7 +233,7 @@
     },
     "ticket": {
       "primary": "https://m-ticket.marines.co.jp/ticket/20261005",
-      "resale": "https://www.ticket.co.jp/sys/k/79881.htm?st=20261005"
+      "resale": "https://www.ticket.co.jp/sys/d/20023.htm?st=20261005"
     }
   },
   {
@@ -247,7 +247,7 @@
       "time": "18:00"
     },
     "ticket": {
-      "primary": "https://hanshintigers.jp/ticket/detail/20261006.html"
+      "primary": "https://toraticket.pia.jp/"
     }
   },
   {
@@ -262,7 +262,7 @@
     },
     "ticket": {
       "primary": "https://m-ticket.marines.co.jp/ticket/20261006",
-      "resale": "https://www.ticket.co.jp/sys/k/79881.htm?st=20261006"
+      "resale": "https://www.ticket.co.jp/sys/d/20023.htm?st=20261006"
     }
   },
   {
@@ -276,7 +276,7 @@
       "time": "18:00"
     },
     "ticket": {
-      "primary": "https://hanshintigers.jp/ticket/detail/20261007.html"
+      "primary": "https://toraticket.pia.jp/"
     }
   },
   {
@@ -290,7 +290,7 @@
       "time": "18:00"
     },
     "ticket": {
-      "primary": "https://hanshintigers.jp/ticket/detail/20261008.html"
+      "primary": "https://toraticket.pia.jp/"
     }
   },
   {
@@ -322,7 +322,7 @@
       "primary": "https://ticket.seibulions.jp/event/venue/26101001",
       "resale": [
         "https://ticket.seibulions.jp/resale/venue/26101001",
-        "https://www.ticket.co.jp/sys/k/68848.htm?st=20261010"
+        "https://www.ticket.co.jp/sys/d/20022.htm?st=20261010"
       ]
     }
   },
@@ -355,7 +355,7 @@
       "primary": "https://ticket.seibulions.jp/event/venue/26101101",
       "resale": [
         "https://ticket.seibulions.jp/resale/venue/26101101",
-        "https://www.ticket.co.jp/sys/k/68848.htm?st=20261011"
+        "https://www.ticket.co.jp/sys/d/20022.htm?st=20261011"
       ]
     }
   },
@@ -373,7 +373,7 @@
       "primary": "https://ticket.seibulions.jp/event/venue/26101201",
       "resale": [
         "https://ticket.seibulions.jp/resale/venue/26101201",
-        "https://www.ticket.co.jp/sys/k/68848.htm?st=20261012"
+        "https://www.ticket.co.jp/sys/d/20022.htm?st=20261012"
       ]
     }
   },
@@ -388,7 +388,7 @@
       "time": "18:00"
     },
     "ticket": {
-      "primary": "https://hanshintigers.jp/ticket/detail/20261014.html"
+      "primary": "https://toraticket.pia.jp/"
     }
   },
   {
@@ -416,7 +416,7 @@
       "time": "18:00"
     },
     "ticket": {
-      "primary": "https://hanshintigers.jp/ticket/detail/20261015.html"
+      "primary": "https://toraticket.pia.jp/"
     }
   },
   {
@@ -444,7 +444,7 @@
       "time": "18:00"
     },
     "ticket": {
-      "primary": "https://hanshintigers.jp/ticket/detail/20261016.html"
+      "primary": "https://toraticket.pia.jp/"
     }
   },
   {
@@ -472,7 +472,7 @@
       "time": "14:00"
     },
     "ticket": {
-      "primary": "https://hanshintigers.jp/ticket/detail/20261017.html"
+      "primary": "https://toraticket.pia.jp/"
     }
   },
   {
@@ -486,7 +486,7 @@
       "time": "18:30"
     },
     "ticket": {
-      "primary": "https://ticketsales.baystars.co.jp/calendar/2026/10",
+      "primary": "https://ticket.baystars.co.jp/",
       "resale": "https://ticket-resale.baystars.co.jp/purchase/match"
     }
   },
@@ -501,7 +501,7 @@
       "time": "18:00"
     },
     "ticket": {
-      "primary": "https://ticketsales.baystars.co.jp/calendar/2026/10",
+      "primary": "https://ticket.baystars.co.jp/",
       "resale": "https://ticket-resale.baystars.co.jp/purchase/match"
     }
   },

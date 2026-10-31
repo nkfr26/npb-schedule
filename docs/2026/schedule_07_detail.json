@@ -25,7 +25,7 @@
       "time": "18:00"
     },
     "ticket": {
-      "primary": "https://hanshintigers.jp/ticket/detail/20260701.html"
+      "primary": "https://toraticket.pia.jp/"
     }
   },
   {
@@ -40,7 +40,10 @@
     },
     "ticket": {
       "primary": "https://ticket.fighters.co.jp/event/list/self/1",
-      "resale": "https://ticket.fighters.co.jp/event/list/resale/1"
+      "resale": [
+        "https://ticket.fighters.co.jp/event/list/resale/1",
+        "https://www.ticket.co.jp/sys/d/20026.htm?st=20260701"
+      ]
     }
   },
   {
@@ -83,7 +86,7 @@
       "time": "18:15"
     },
     "ticket": {
-      "primary": "https://ticketsales.baystars.co.jp/calendar/2026/07",
+      "primary": "https://ticket.baystars.co.jp/",
       "resale": "https://ticket-resale.baystars.co.jp/purchase/match"
     }
   },
@@ -98,7 +101,7 @@
       "time": "18:00"
     },
     "ticket": {
-      "primary": "https://hanshintigers.jp/ticket/detail/20260702.html"
+      "primary": "https://toraticket.pia.jp/"
     }
   },
   {
@@ -113,7 +116,10 @@
     },
     "ticket": {
       "primary": "https://ticket.fighters.co.jp/event/list/self/1",
-      "resale": "https://ticket.fighters.co.jp/event/list/resale/1"
+      "resale": [
+        "https://ticket.fighters.co.jp/event/list/resale/1",
+        "https://www.ticket.co.jp/sys/d/20026.htm?st=20260702"
+      ]
     }
   },
   {
@@ -171,7 +177,7 @@
       "time": "18:00"
     },
     "ticket": {
-      "primary": "https://hanshintigers.jp/ticket/detail/20260703.html"
+      "primary": "https://toraticket.pia.jp/"
     }
   },
   {
@@ -201,7 +207,7 @@
     },
     "ticket": {
       "primary": "https://buffaloes.cnplayguide.com/ticket/20260703",
-      "resale": "https://www.ticket.co.jp/sys/k/79911.htm?st=20260703"
+      "resale": "https://www.ticket.co.jp/sys/d/20025.htm?st=20260703"
     }
   },
   {
@@ -259,7 +265,7 @@
       "time": "18:00"
     },
     "ticket": {
-      "primary": "https://hanshintigers.jp/ticket/detail/20260704.html"
+      "primary": "https://toraticket.pia.jp/"
     }
   },
   {
@@ -289,7 +295,7 @@
     },
     "ticket": {
       "primary": "https://buffaloes.cnplayguide.com/ticket/20260704",
-      "resale": "https://www.ticket.co.jp/sys/k/79911.htm?st=20260704"
+      "resale": "https://www.ticket.co.jp/sys/d/20025.htm?st=20260704"
     }
   },
   {
@@ -347,7 +353,7 @@
       "time": "18:00"
     },
     "ticket": {
-      "primary": "https://hanshintigers.jp/ticket/detail/20260705.html"
+      "primary": "https://toraticket.pia.jp/"
     }
   },
   {
@@ -377,7 +383,7 @@
     },
     "ticket": {
       "primary": "https://buffaloes.cnplayguide.com/ticket/20260705",
-      "resale": "https://www.ticket.co.jp/sys/k/79911.htm?st=20260705"
+      "resale": "https://www.ticket.co.jp/sys/d/20025.htm?st=20260705"
     }
   },
   {
@@ -420,7 +426,7 @@
       "time": "18:15"
     },
     "ticket": {
-      "primary": "https://ticketsales.baystars.co.jp/calendar/2026/07",
+      "primary": "https://ticket.baystars.co.jp/",
       "resale": "https://ticket-resale.baystars.co.jp/purchase/match"
     }
   },
@@ -435,7 +441,7 @@
       "time": "18:00"
     },
     "ticket": {
-      "primary": "https://www.carp.co.jp/ticket/ticket/yoyaku_hoho.html"
+      "primary": "https://www.carp.co.jp/ticket"
     }
   },
   {
@@ -452,7 +458,7 @@
       "primary": "https://ticket.seibulions.jp/event/venue/26070701",
       "resale": [
         "https://ticket.seibulions.jp/resale/venue/26070701",
-        "https://www.ticket.co.jp/sys/k/68848.htm?st=20260707"
+        "https://www.ticket.co.jp/sys/d/20022.htm?st=20260707"
       ]
     }
   },
@@ -468,7 +474,7 @@
     },
     "ticket": {
       "primary": "https://m-ticket.marines.co.jp/ticket/20260707",
-      "resale": "https://www.ticket.co.jp/sys/k/79881.htm?st=20260707"
+      "resale": "https://www.ticket.co.jp/sys/d/20023.htm?st=20260707"
     }
   },
   {
@@ -483,7 +489,7 @@
     },
     "ticket": {
       "primary": "https://buffaloes.cnplayguide.com/ticket/20260707",
-      "resale": "https://www.ticket.co.jp/sys/k/79911.htm?st=20260707"
+      "resale": "https://www.ticket.co.jp/sys/d/20025.htm?st=20260707"
     }
   },
   {
@@ -512,7 +518,7 @@
       "time": "18:15"
     },
     "ticket": {
-      "primary": "https://ticketsales.baystars.co.jp/calendar/2026/07",
+      "primary": "https://ticket.baystars.co.jp/",
       "resale": "https://ticket-resale.baystars.co.jp/purchase/match"
     }
   },
@@ -527,7 +533,7 @@
       "time": "18:00"
     },
     "ticket": {
-      "primary": "https://www.carp.co.jp/ticket/ticket/yoyaku_hoho.html"
+      "primary": "https://www.carp.co.jp/ticket"
     }
   },
   {
@@ -544,7 +550,7 @@
       "primary": "https://ticket.seibulions.jp/event/venue/26070801",
       "resale": [
         "https://ticket.seibulions.jp/resale/venue/26070801",
-        "https://www.ticket.co.jp/sys/k/68848.htm?st=20260708"
+        "https://www.ticket.co.jp/sys/d/20022.htm?st=20260708"
       ]
     }
   },
@@ -560,7 +566,7 @@
     },
     "ticket": {
       "primary": "https://m-ticket.marines.co.jp/ticket/20260708",
-      "resale": "https://www.ticket.co.jp/sys/k/79881.htm?st=20260708"
+      "resale": "https://www.ticket.co.jp/sys/d/20023.htm?st=20260708"
     }
   },
   {
@@ -575,7 +581,7 @@
     },
     "ticket": {
       "primary": "https://buffaloes.cnplayguide.com/ticket/20260708",
-      "resale": "https://www.ticket.co.jp/sys/k/79911.htm?st=20260708"
+      "resale": "https://www.ticket.co.jp/sys/d/20025.htm?st=20260708"
     }
   },
   {
@@ -604,7 +610,7 @@
       "time": "18:15"
     },
     "ticket": {
-      "primary": "https://ticketsales.baystars.co.jp/calendar/2026/07",
+      "primary": "https://ticket.baystars.co.jp/",
       "resale": "https://ticket-resale.baystars.co.jp/purchase/match"
     }
   },
@@ -619,7 +625,7 @@
       "time": "18:00"
     },
     "ticket": {
-      "primary": "https://www.carp.co.jp/ticket/ticket/yoyaku_hoho.html"
+      "primary": "https://www.carp.co.jp/ticket"
     }
   },
   {
@@ -633,7 +639,7 @@
       "time": "18:15"
     },
     "ticket": {
-      "primary": "https://ticketsales.baystars.co.jp/calendar/2026/07",
+      "primary": "https://ticket.baystars.co.jp/",
       "resale": "https://ticket-resale.baystars.co.jp/purchase/match"
     }
   },
@@ -663,7 +669,7 @@
       "time": "18:00"
     },
     "ticket": {
-      "primary": "https://hanshintigers.jp/ticket/detail/20260710.html"
+      "primary": "https://toraticket.pia.jp/"
     }
   },
   {
@@ -678,7 +684,10 @@
     },
     "ticket": {
       "primary": "https://ticket.fighters.co.jp/event/list/self/1",
-      "resale": "https://ticket.fighters.co.jp/event/list/resale/1"
+      "resale": [
+        "https://ticket.fighters.co.jp/event/list/resale/1",
+        "https://www.ticket.co.jp/sys/d/20026.htm?st=20260710"
+      ]
     }
   },
   {
@@ -693,7 +702,7 @@
     },
     "ticket": {
       "primary": "https://m-ticket.marines.co.jp/ticket/20260710",
-      "resale": "https://www.ticket.co.jp/sys/k/79881.htm?st=20260710"
+      "resale": "https://www.ticket.co.jp/sys/d/20023.htm?st=20260710"
     }
   },
   {
@@ -721,7 +730,7 @@
       "time": "18:00"
     },
     "ticket": {
-      "primary": "https://ticketsales.baystars.co.jp/calendar/2026/07",
+      "primary": "https://ticket.baystars.co.jp/",
       "resale": "https://ticket-resale.baystars.co.jp/purchase/match"
     }
   },
@@ -751,7 +760,7 @@
       "time": "18:00"
     },
     "ticket": {
-      "primary": "https://hanshintigers.jp/ticket/detail/20260711.html"
+      "primary": "https://toraticket.pia.jp/"
     }
   },
   {
@@ -766,7 +775,10 @@
     },
     "ticket": {
       "primary": "https://ticket.fighters.co.jp/event/list/self/1",
-      "resale": "https://ticket.fighters.co.jp/event/list/resale/1"
+      "resale": [
+        "https://ticket.fighters.co.jp/event/list/resale/1",
+        "https://www.ticket.co.jp/sys/d/20026.htm?st=20260711"
+      ]
     }
   },
   {
@@ -781,7 +793,7 @@
     },
     "ticket": {
       "primary": "https://m-ticket.marines.co.jp/ticket/20260711",
-      "resale": "https://www.ticket.co.jp/sys/k/79881.htm?st=20260711"
+      "resale": "https://www.ticket.co.jp/sys/d/20023.htm?st=20260711"
     }
   },
   {
@@ -809,7 +821,7 @@
       "time": "18:00"
     },
     "ticket": {
-      "primary": "https://ticketsales.baystars.co.jp/calendar/2026/07",
+      "primary": "https://ticket.baystars.co.jp/",
       "resale": "https://ticket-resale.baystars.co.jp/purchase/match"
     }
   },
@@ -839,7 +851,7 @@
       "time": "18:00"
     },
     "ticket": {
-      "primary": "https://hanshintigers.jp/ticket/detail/20260712.html"
+      "primary": "https://toraticket.pia.jp/"
     }
   },
   {
@@ -854,7 +866,10 @@
     },
     "ticket": {
       "primary": "https://ticket.fighters.co.jp/event/list/self/1",
-      "resale": "https://ticket.fighters.co.jp/event/list/resale/1"
+      "resale": [
+        "https://ticket.fighters.co.jp/event/list/resale/1",
+        "https://www.ticket.co.jp/sys/d/20026.htm?st=20260712"
+      ]
     }
   },
   {
@@ -869,7 +884,7 @@
     },
     "ticket": {
       "primary": "https://m-ticket.marines.co.jp/ticket/20260712",
-      "resale": "https://www.ticket.co.jp/sys/k/79881.htm?st=20260712"
+      "resale": "https://www.ticket.co.jp/sys/d/20023.htm?st=20260712"
     }
   },
   {
@@ -927,7 +942,7 @@
       "time": "18:00"
     },
     "ticket": {
-      "primary": "https://www.carp.co.jp/ticket/ticket/yoyaku_hoho.html"
+      "primary": "https://www.carp.co.jp/ticket"
     }
   },
   {
@@ -942,7 +957,10 @@
     },
     "ticket": {
       "primary": "https://ticket.fighters.co.jp/event/list/self/1",
-      "resale": "https://ticket.fighters.co.jp/event/list/resale/1"
+      "resale": [
+        "https://ticket.fighters.co.jp/event/list/resale/1",
+        "https://www.ticket.co.jp/sys/d/20026.htm?st=20260714"
+      ]
     }
   },
   {
@@ -974,7 +992,7 @@
       "primary": "https://ticket.seibulions.jp/event/venue/26071401",
       "resale": [
         "https://ticket.seibulions.jp/resale/venue/26071401",
-        "https://www.ticket.co.jp/sys/k/68848.htm?st=20260714"
+        "https://www.ticket.co.jp/sys/d/20022.htm?st=20260714"
       ]
     }
   },
@@ -1019,7 +1037,7 @@
       "time": "18:00"
     },
     "ticket": {
-      "primary": "https://www.carp.co.jp/ticket/ticket/yoyaku_hoho.html"
+      "primary": "https://www.carp.co.jp/ticket"
     }
   },
   {
@@ -1034,7 +1052,10 @@
     },
     "ticket": {
       "primary": "https://ticket.fighters.co.jp/event/list/self/1",
-      "resale": "https://ticket.fighters.co.jp/event/list/resale/1"
+      "resale": [
+        "https://ticket.fighters.co.jp/event/list/resale/1",
+        "https://www.ticket.co.jp/sys/d/20026.htm?st=20260715"
+      ]
     }
   },
   {
@@ -1066,7 +1087,7 @@
       "primary": "https://ticket.seibulions.jp/event/venue/26071501",
       "resale": [
         "https://ticket.seibulions.jp/resale/venue/26071501",
-        "https://www.ticket.co.jp/sys/k/68848.htm?st=20260715"
+        "https://www.ticket.co.jp/sys/d/20022.htm?st=20260715"
       ]
     }
   },
@@ -1112,7 +1133,10 @@
     },
     "ticket": {
       "primary": "https://ticket.fighters.co.jp/event/list/self/1",
-      "resale": "https://ticket.fighters.co.jp/event/list/resale/1"
+      "resale": [
+        "https://ticket.fighters.co.jp/event/list/resale/1",
+        "https://www.ticket.co.jp/sys/d/20026.htm?st=20260716"
+      ]
     }
   },
   {
@@ -1144,7 +1168,7 @@
       "primary": "https://ticket.seibulions.jp/event/venue/26071601",
       "resale": [
         "https://ticket.seibulions.jp/resale/venue/26071601",
-        "https://www.ticket.co.jp/sys/k/68848.htm?st=20260716"
+        "https://www.ticket.co.jp/sys/d/20022.htm?st=20260716"
       ]
     }
   },
@@ -1174,7 +1198,7 @@
       "time": "18:00"
     },
     "ticket": {
-      "primary": "https://ticketsales.baystars.co.jp/calendar/2026/07",
+      "primary": "https://ticket.baystars.co.jp/",
       "resale": "https://ticket-resale.baystars.co.jp/purchase/match"
     }
   },
@@ -1189,7 +1213,7 @@
       "time": "18:00"
     },
     "ticket": {
-      "primary": "https://www.carp.co.jp/ticket/ticket/yoyaku_hoho.html"
+      "primary": "https://www.carp.co.jp/ticket"
     }
   },
   {
@@ -1218,7 +1242,7 @@
       "time": "18:00"
     },
     "ticket": {
-      "primary": "https://ticketsales.baystars.co.jp/calendar/2026/07",
+      "primary": "https://ticket.baystars.co.jp/",
       "resale": "https://ticket-resale.baystars.co.jp/purchase/match"
     }
   },
@@ -1233,7 +1257,7 @@
       "time": "18:00"
     },
     "ticket": {
-      "primary": "https://www.carp.co.jp/ticket/ticket/yoyaku_hoho.html"
+      "primary": "https://www.carp.co.jp/ticket"
     }
   },
   {
@@ -1263,7 +1287,7 @@
     },
     "ticket": {
       "primary": "https://m-ticket.marines.co.jp/ticket/20260718",
-      "resale": "https://www.ticket.co.jp/sys/k/79881.htm?st=20260718"
+      "resale": "https://www.ticket.co.jp/sys/d/20023.htm?st=20260718"
     }
   },
   {
@@ -1278,7 +1302,7 @@
     },
     "ticket": {
       "primary": "https://buffaloes.cnplayguide.com/ticket/20260718",
-      "resale": "https://www.ticket.co.jp/sys/k/79911.htm?st=20260718"
+      "resale": "https://www.ticket.co.jp/sys/d/20025.htm?st=20260718"
     }
   },
   {
@@ -1307,7 +1331,7 @@
       "time": "18:00"
     },
     "ticket": {
-      "primary": "https://ticketsales.baystars.co.jp/calendar/2026/07",
+      "primary": "https://ticket.baystars.co.jp/",
       "resale": "https://ticket-resale.baystars.co.jp/purchase/match"
     }
   },
@@ -1322,7 +1346,7 @@
       "time": "18:00"
     },
     "ticket": {
-      "primary": "https://www.carp.co.jp/ticket/ticket/yoyaku_hoho.html"
+      "primary": "https://www.carp.co.jp/ticket"
     }
   },
   {
@@ -1352,7 +1376,7 @@
     },
     "ticket": {
       "primary": "https://m-ticket.marines.co.jp/ticket/20260719",
-      "resale": "https://www.ticket.co.jp/sys/k/79881.htm?st=20260719"
+      "resale": "https://www.ticket.co.jp/sys/d/20023.htm?st=20260719"
     }
   },
   {
@@ -1367,7 +1391,7 @@
     },
     "ticket": {
       "primary": "https://buffaloes.cnplayguide.com/ticket/20260719",
-      "resale": "https://www.ticket.co.jp/sys/k/79911.htm?st=20260719"
+      "resale": "https://www.ticket.co.jp/sys/d/20025.htm?st=20260719"
     }
   },
   {
@@ -1411,7 +1435,7 @@
       "time": "18:00"
     },
     "ticket": {
-      "primary": "https://hanshintigers.jp/ticket/detail/20260720.html"
+      "primary": "https://toraticket.pia.jp/"
     }
   },
   {
@@ -1441,7 +1465,7 @@
     },
     "ticket": {
       "primary": "https://m-ticket.marines.co.jp/ticket/20260720",
-      "resale": "https://www.ticket.co.jp/sys/k/79881.htm?st=20260720"
+      "resale": "https://www.ticket.co.jp/sys/d/20023.htm?st=20260720"
     }
   },
   {
@@ -1456,7 +1480,7 @@
     },
     "ticket": {
       "primary": "https://buffaloes.cnplayguide.com/ticket/20260720",
-      "resale": "https://www.ticket.co.jp/sys/k/79911.htm?st=20260720"
+      "resale": "https://www.ticket.co.jp/sys/d/20025.htm?st=20260720"
     }
   },
   {
@@ -1500,7 +1524,7 @@
       "time": "18:00"
     },
     "ticket": {
-      "primary": "https://hanshintigers.jp/ticket/detail/20260721.html"
+      "primary": "https://toraticket.pia.jp/"
     }
   },
   {
@@ -1558,7 +1582,7 @@
       "time": "18:00"
     },
     "ticket": {
-      "primary": "https://hanshintigers.jp/ticket/detail/20260722.html"
+      "primary": "https://toraticket.pia.jp/"
     }
   },
   {
@@ -1575,7 +1599,7 @@
       "primary": "https://ticket.seibulions.jp/event/venue/26072201",
       "resale": [
         "https://ticket.seibulions.jp/resale/venue/26072201",
-        "https://www.ticket.co.jp/sys/k/68848.htm?st=20260722"
+        "https://www.ticket.co.jp/sys/d/20022.htm?st=20260722"
       ]
     }
   },
@@ -1591,7 +1615,7 @@
     },
     "ticket": {
       "primary": "https://m-ticket.marines.co.jp/ticket/20260722",
-      "resale": "https://www.ticket.co.jp/sys/k/79881.htm?st=20260722"
+      "resale": "https://www.ticket.co.jp/sys/d/20023.htm?st=20260722"
     }
   },
   {
@@ -1622,7 +1646,7 @@
       "primary": "https://ticket.seibulions.jp/event/venue/26072301",
       "resale": [
         "https://ticket.seibulions.jp/resale/venue/26072301",
-        "https://www.ticket.co.jp/sys/k/68848.htm?st=20260723"
+        "https://www.ticket.co.jp/sys/d/20022.htm?st=20260723"
       ]
     }
   },
@@ -1638,7 +1662,7 @@
     },
     "ticket": {
       "primary": "https://m-ticket.marines.co.jp/ticket/20260723",
-      "resale": "https://www.ticket.co.jp/sys/k/79881.htm?st=20260723"
+      "resale": "https://www.ticket.co.jp/sys/d/20023.htm?st=20260723"
     }
   },
   {
@@ -1696,7 +1720,7 @@
       "time": "18:00"
     },
     "ticket": {
-      "primary": "https://hanshintigers.jp/ticket/detail/20260724.html"
+      "primary": "https://toraticket.pia.jp/"
     }
   },
   {
@@ -1713,7 +1737,7 @@
       "primary": "https://ticket.seibulions.jp/event/venue/26072401",
       "resale": [
         "https://ticket.seibulions.jp/resale/venue/26072401",
-        "https://www.ticket.co.jp/sys/k/68848.htm?st=20260724"
+        "https://www.ticket.co.jp/sys/d/20022.htm?st=20260724"
       ]
     }
   },
@@ -1729,7 +1753,7 @@
     },
     "ticket": {
       "primary": "https://buffaloes.cnplayguide.com/ticket/20260724",
-      "resale": "https://www.ticket.co.jp/sys/k/79911.htm?st=20260724"
+      "resale": "https://www.ticket.co.jp/sys/d/20025.htm?st=20260724"
     }
   },
   {
@@ -1773,7 +1797,7 @@
       "time": "18:00"
     },
     "ticket": {
-      "primary": "https://hanshintigers.jp/ticket/detail/20260725.html"
+      "primary": "https://toraticket.pia.jp/"
     }
   },
   {
@@ -1788,7 +1812,10 @@
     },
     "ticket": {
       "primary": "https://ticket.fighters.co.jp/event/list/self/1",
-      "resale": "https://ticket.fighters.co.jp/event/list/resale/1"
+      "resale": [
+        "https://ticket.fighters.co.jp/event/list/resale/1",
+        "https://www.ticket.co.jp/sys/d/20026.htm?st=20260725"
+      ]
     }
   },
   {
@@ -1805,7 +1832,7 @@
       "primary": "https://ticket.seibulions.jp/event/venue/26072501",
       "resale": [
         "https://ticket.seibulions.jp/resale/venue/26072501",
-        "https://www.ticket.co.jp/sys/k/68848.htm?st=20260725"
+        "https://www.ticket.co.jp/sys/d/20022.htm?st=20260725"
       ]
     }
   },
@@ -1821,7 +1848,7 @@
     },
     "ticket": {
       "primary": "https://buffaloes.cnplayguide.com/ticket/20260725",
-      "resale": "https://www.ticket.co.jp/sys/k/79911.htm?st=20260725"
+      "resale": "https://www.ticket.co.jp/sys/d/20025.htm?st=20260725"
     }
   },
   {
@@ -1865,7 +1892,7 @@
       "time": "18:00"
     },
     "ticket": {
-      "primary": "https://hanshintigers.jp/ticket/detail/20260726.html"
+      "primary": "https://toraticket.pia.jp/"
     }
   },
   {
@@ -1880,7 +1907,10 @@
     },
     "ticket": {
       "primary": "https://ticket.fighters.co.jp/event/list/self/1",
-      "resale": "https://ticket.fighters.co.jp/event/list/resale/1"
+      "resale": [
+        "https://ticket.fighters.co.jp/event/list/resale/1",
+        "https://www.ticket.co.jp/sys/d/20026.htm?st=20260726"
+      ]
     }
   },
   {
@@ -1897,7 +1927,7 @@
       "primary": "https://ticket.seibulions.jp/event/venue/26072601",
       "resale": [
         "https://ticket.seibulions.jp/resale/venue/26072601",
-        "https://www.ticket.co.jp/sys/k/68848.htm?st=20260726"
+        "https://www.ticket.co.jp/sys/d/20022.htm?st=20260726"
       ]
     }
   },
@@ -1913,7 +1943,7 @@
     },
     "ticket": {
       "primary": "https://buffaloes.cnplayguide.com/ticket/20260726",
-      "resale": "https://www.ticket.co.jp/sys/k/79911.htm?st=20260726"
+      "resale": "https://www.ticket.co.jp/sys/d/20025.htm?st=20260726"
     }
   },
   {
@@ -1979,7 +2009,7 @@
       "time": "18:00"
     },
     "ticket": {
-      "primary": "https://www.carp.co.jp/ticket/ticket/yoyaku_hoho.html"
+      "primary": "https://www.carp.co.jp/ticket"
     }
   },
   {
@@ -1994,7 +2024,10 @@
     },
     "ticket": {
       "primary": "https://ticket.fighters.co.jp/event/list/self/1",
-      "resale": "https://ticket.fighters.co.jp/event/list/resale/1"
+      "resale": [
+        "https://ticket.fighters.co.jp/event/list/resale/1",
+        "https://www.ticket.co.jp/sys/d/20026.htm?st=20260731"
+      ]
     }
   },
   {
@@ -2026,7 +2059,7 @@
       "primary": "https://ticket.seibulions.jp/event/venue/26073101",
       "resale": [
         "https://ticket.seibulions.jp/resale/venue/26073101",
-        "https://www.ticket.co.jp/sys/k/68848.htm?st=20260731"
+        "https://www.ticket.co.jp/sys/d/20022.htm?st=20260731"
       ]
     }
   }
